@@ -555,11 +555,12 @@ show_menu() {
     echo -e "  ${CYAN}[1]${NORMAL} Start Reconnector"    
     echo -e "  ${CYAN}[2]${NORMAL} Create a config"
     echo -e "  ${CYAN}[3]${NORMAL} Load existing Config"    
-    echo -e "  ${CYAN}[4]${NORMAL} Edit or Delete Config"
-    echo -e "  ${CYAN}[5]${NORMAL} Select all available Roblox"
-    echo -e "  ${CYAN}[6]${NORMAL} Setup Discord Webhook"
-    echo -e "  ${CYAN}[7]${NORMAL} Logout Roblox"
-    echo -e "  ${CYAN}[8]${NORMAL} Exit Application\n"
+    echo -e "  ${CYAN}[4]${NORMAL} Start loaded config"
+    echo -e "  ${CYAN}[5]${NORMAL} Edit or Delete Config"
+    echo -e "  ${CYAN}[6]${NORMAL} Select all available Roblox"
+    echo -e "  ${CYAN}[7]${NORMAL} Setup Discord Webhook"
+    echo -e "  ${CYAN}[8]${NORMAL} Logout Roblox"
+    echo -e "  ${CYAN}[9]${NORMAL} Exit Application\n"
     
     echo -e "${GRAY}==========================================${NORMAL}\n"
     
@@ -799,7 +800,18 @@ show_menu() {
             show_menu
             ;;
         4)
-            # 4. Delete Config
+            # 4. Start loaded config
+            if [[ -z "$CURRENT_CONFIG" ]]; then
+                echo -e "\e[31mNo config loaded. Please load a config first using option 3.\e[0m"
+                sleep 2
+                show_menu
+                return
+            fi
+            echo -e "\e[32mStarting configured session...\e[0m"
+            return
+            ;;
+        5)
+            # 5. Delete Config
             show_header "D E L E T E   C O N F I G"
             
             local conf_files=()
@@ -845,8 +857,8 @@ show_menu() {
             fi
             show_menu
             ;;
-        5)
-            # 5. Select all available Roblox
+        6)
+            # 6. Select all available Roblox
             show_header "G A M E   M A N A G E R"
             echo -e "\e[33mScanning for installed Roblox packages...\e[0m\n"
             local raw_pkgs=$(su -c "ls /data/data 2>/dev/null | grep -i 'roblox'" | tr -d '\r')
@@ -952,8 +964,8 @@ show_menu() {
                 esac
             done
             ;;
-        6)
-            # 6. Setup Discord Webhook
+        7)
+            # 7. Setup Discord Webhook
             show_header "D I S C O R D   W E B H O O K"
             
             # Check global env file for webhook
@@ -1045,8 +1057,8 @@ show_menu() {
                 esac
             done
             ;;
-        7)
-            # 7. Logout Roblox
+        8)
+            # 8. Logout Roblox
             show_header "L O G O U T   R O B L O X"
             echo -e "\e[33mScanning and logging out all installed Roblox accounts...\e[0m"
             local raw_pkgs=$(su -c "ls /data/data 2>/dev/null | grep -i 'roblox'" | tr -d '\r')
@@ -1057,8 +1069,8 @@ show_menu() {
             sleep 2
             show_menu
             ;;
-        8)
-            # 8. Exit Application
+        9)
+            # 9. Exit Application
             echo -e "\e[36mExiting. Goodbye!\e[0m"
             su -c "am force-stop com.termux" 2>/dev/null || kill -9 $PPID || exit 0
             ;;

@@ -1,3 +1,1218 @@
-z="
-";BCBz='u'\'' f';YHz='$((K';dEBz='mFor';Guz='et"';eKz=' gen';skz=' | (';gBz='S=0';MGz='boos';Auz=' or ';Fwz='ll"';wqz='cs (';REz='tial';NNz='-bin';Wrz='faul';dGz='[ -n';hEz='l st';jRz='2 io';iSz='ive2';lYz=' "$p';sez='ON\"';siz='s", ';Spz='q 0 ';cBz='E=0';nPz='s=$(';YNz='ckup';Rsz='les[';URz=' n1 ';stz='tly!';KEz='   A';lqz='is d';HCBz='Exit';vsz='32mS';Krz='is C';CCBz='or m';Eyz='1mNo';Mlz='( (4';GDz='loca';Sz='""';OQz='{min';dUz='_tot';Ftz=' no ';sbz='even';vDz='S_RU';Ubz='_sig';oWz='(get';wyz='ook?';AKz='er y';amz='t Ro';Tz='PLAT';Vz='ST_K';kkz='\/ /';NDBz='inue';Ipz='ilab';PBBz='D ||';LKz=' HWI';uQz=' cpu';Rrz='e';kVz='sd" ';xoz='l ex';Zjz='n_pa';xCz='[34m';qnz='{i}.';FDz=') {';yABz=' L O';aPz='d=$(';Kbz='r th';Vmz='etup';EPz='$DIS';Wmz=' Web';nkz='YAN}';uaz=' Rob';Otz='ge.\';fLz='ocee';wtz='r] t';WDBz='tamp';Mbz='me (';kyz='/GLO';RBz='H_TI';psz='ay_i';PXz='anu}';Mgz='ed=$';cnz='u';gcz='aile';vwz='7)';Qgz='ep M';jBBz='put,';KPz='Recu';ZRz='soft';Aaz='g Ro';ANz='n "$';kuz='m4.\';KJz='o va';UBz='_INT';Fqz='t,,}';PDBz='OK" ';RQz='; fi';Bxz=' S C';NMz=' "$W';cXz='ge :';yUz='e_in';Lgz=''\'')';xDBz='t ha';Cgz='rep ';YGz=' O N';VJz='y on';Gyz='t\e[';rYz=' at ';IXz='ice ';aMz='l pa';HXz='"Dev';HMz='eq 1';Pjz=': { ';odz='th_f';lnz='gs+=';TUz='m_us';EVz='!= *';NCz='$(tp';YLz=' spe';UDz='─%.0';NEBz='$req';Arz='ank ';Rez='ndom';huz='all ';MNz='et" ';LBz='EBHO';Biz='me",';gBBz=' + 1';cez='VICE';Kcz=' "$R';DLz='_ID?';Euz='rm -';vCz='\e[3';DWz='l us';bTz='/}"';Fz='ermu';CUz=' <<<';Jtz='dire';qez='PIRA';Mhz='aylo';Ywz='ll s';Vrz='="De';aqz='ART"';kABz='s al';icz='nch ';qSz=' tot';Tvz='hing';Iaz='ore ';nDBz='& # ';htz='37m ';hXz='${st';OHz='l cu';KCz='t sg';ftz='f)';Uez='cut ';lCBz='xit"';Ktz='ctin';KOz=' use';Wkz='| |_';Xz='DEVI';LPz='rse ';pkz='_ <|';awz='"Are';buz='m2.\';Hfz=' "GA';bEz='s() ';yDz='q 1 ';Hiz='m\`"';lPz='l mi';wvz='ed p';Ouz=' A N';TLz='"; t';MRz=' "$c';cgz='onds';JDBz='AL_C';wZz='g "\';LOz='31mT';quz='m5.\';jLz='"$PL';rdz='ME/.';XTz='mem_';nSz='diff';Ugz='rint';nhz=' "va';Pkz=' _  ';Dyz='\n"';Dwz='de_c';Grz='OOK';hDBz='te S';FGz='s.\e';Baz='blox';vVz='((cl';esz='ice"';QUz='_kb)';QSz=' + i';KDz='=${2';xtz='o de';wmz=' K  ';bJz='RD_L';ttz='"Pre';Ygz=' -d ';LXz=' \e[';Wwz='G: T';fdz='6) i';JDz='}" w';hlz='_men';gqz='   C';HTz='proc';hSz='(act';uqz=' Ana';Nfz='G"';Edz='f yo';eaz='nten';rwz='n co';Cxz=' O R';apz='ages';Xrz='t_Co';KEBz='(c_t';Pwz='ta c';Hbz='d.\e';YTz='l_kb';Etz=' are';bnz='ed!\';Efz='="\"';Bfz='r="(';ifz='rn; ';qmz='nu_c';ldz='ff';Qjz='"tex';VUz='N/A"';hfz='K" ]';AGz=' gra';rNz='ure"';WCBz='sumi';Hxz=' K"';bz='ECT_';UXz=' Usa';Mkz=' ___';pCBz='USED';dYz='S[@]';Jbz='ente';Poz='32mC';kBBz='31mR';ehz=' 392';Yiz='ne":';dDz='AL} ';FEz='_hea';dcz='RE] ';vBz='ut >';wXz='m${G';HDBz='S=$(';Tkz='L}"';qxz='Pres';ITz='/mem';KSz='l to';PVz='e_us';OZz=' "du';pVz='n_to';xUz='l")';BGz='nt s';Icz='=$(d';RTz='m_ca';Wdz='ed. ';gQz=' 2>/';dgz='=$(a';VWz='="$s';Ekz='iTiK';ydz='uth_';eOz='he '\''';NHz=' ]];';ytz='lete';Vpz=']}")';MFz='"\e[';ZQz='u_v1';MBBz='kill';gOz='t Ke';Zkz='___ ';xwz='id a';mABz='its ';OWz='ec}G';IMz=' 864';Voz='"Sel';uGz='en';Wjz=']';Dmz='N}[3';lMz=':\"$';ZPz='apse';FMz='ew_k';gdz='n $b';RABz='f"';WBz='ONAL';Haz=' bef';mCz='[1m'\''';Snz='lox'\''';wFz='ript';Xpz='inis';Dcz='NG=1';cCBz='}" =';Qwz='ed.\';Ysz=' by ';wIz='! Ti';owz='32mU';tFz=' run';tGz='; th';rZz='Acti';Cdz='esum';Zpz='pack';Nlz='2 - ';oOz='[0m\';PJz='on k';uez='$CUR';muz='ar S';Ssz='@]} ';okz=' |  ';Usz='urat';EMz='ds_n';YUz='-9]+';rbz='nput';umz='"Q U';nTz='"${l';hvz='f /d';MBz='OK="';tHz=' (00';yhz='ipt ';Ilz='${#p';lEBz='POPU';yPz='ours';exz='/.ro';MVz='ge_l';bpz='d. R';lDz='") $';iQz='null';jDz=')'\''s'\''';TBBz='y';DSz='+ n1';Jlz='e}';Lz='s"';hZz='droi';GQz='[ $m';Yxz='e=$(';HVz='tem"';bYz='_PAC';sHz='ired';KFz='y"';NTz='ail_';avz='oggi';jKz='ONSE';GEBz='ed_s';Rqz='r to';toz=' -lt';AVz='fo="';mmz='u_ch';eDBz='king';YVz='rage';yIz=': \e';Oaz='$pkg';XZz='us|m';Myz='URL"';AEBz='esta';ZBBz='NFIG';Ghz=' - S';iFz='ll 2';ccz='AILU';gz='ORD_';Tdz=' dro';gpz='t Ga';UCz=' set';ejz='OOK"';Swz='e[41';hkz='_ \|';ctz='dex]';ufz='ncap';lHz=' 0 ]';Cuz='l+C]';Dsz=' "$f';Gpz='= "$';GWz='d / ';MLz='"$RE';vdz='uth"';ATz='00) ';Zrz='e// ';ELz='iden';kNz='atio';tcz='nt C';Cz='IR="';nLz='" ==';Quz='pkg"';lSz='e1))';vnz='+))';adz='off:';fnz='1';qHz=' has';kYz='ll)';VDBz='imes';XMz='RET_';yCBz='date';tNz='$pay';egz='wk '\''';Ljz=' }';kz='//di';NJz='enti';Rtz='The ';cWz='duct';ibz='mDis';qEBz='terv';CLz='JECT';CPz='y he';ghz='"fie';qMz='d\":';JZz='() {';wRz='^[0-';lyz='BAL_';Hgz='2}'\''"';lWz='ce")';kjz='mg_p';GCz=')';liz='": t';KGz='fy_p';DRz='i; d';maz='${GA';PYz='31mS';MXz='1;36';qBz='R"';iHz='emai';SKz='32mI';OUz='_kb ';DHz=' Key';Soz=' Sel';KTz='m_to';pEz='[1;3';Mvz='nchi';coz='nish';GJz='_key';Tnz='tr -';vez='RENT';jwz=',}" ';bBz='_TIM';aSz='+ i2';RYz=' :"';jez='ID: ';lZz='ts.A';dvz='ll a';XJz=' Dis';enz='l i=';ODBz='&& -';vHz='m re';YXz='pu_r';HZz='gnin';RUz='tal=';vKz='et/p';Qsz='f_fi';COz='_con';PCBz='"res';alz='page';HWz='d_de';smz='e in';Ypz='h -e';Jmz='L} E';rUz='"/sy';suz='a"';mTz='free';agz='l up';jjz='=@$i';XOz='33mR';RSz='ow1 ';Zcz='m[CR';cmz='xit ';wSz='raw=';pNz='ure:';xCBz='E=$(';qDBz=' asy';aDBz='00 ]';lUz='24))';sOz='id o';Vsz='ions';FQz='i';iiz='SHES';Pnz='l | ';JRz='u_v2';JKz='g De';mNz='on" ';wrz='iles';bxz='_ACT';DEBz='-gt ';TIz=') / ';Siz='\`${';aez='-Z'\'')';brz='$CON';Wnz=' "$r';XLz='atta';fsz='l ar';sVz='576)';SGz=' E  ';kDBz='post';uuz=' Uni';AZz='ne a';LZz='cuse';SOz='on a';wEz='e[0m';dhz='or":';Kmz='dit ';Uqz='abli';Msz='$i]\';UFz='k_ro';hwz='firm';nlz='"  $';qKz='s://';uVz='c=$(';oZz='ecke';TYz='is_r';Rjz='t": ';mpz='" GA';ffz='ARGE';NFz='1;30';VCBz='till';Qoz='urre';xEz='for ';LCz='r0)';Crz='isab';Wsz='0]\e';AWz='6) *';qaz=' 2>&';CSz='(u1 ';dCz='f 4)';XSz='al1)';Ooz='[@]}';sUz='stem';Xhz=' Rep';KHz='_EXP';riz='n-In';CIz='w_ke';TCBz='g RE';Lrz='onfi';xbz='y co';Ycz='e[31';Bvz='n: "';Gfz='=")"';DQz='s}h ';Ciz='`${s';iTz='* ]]';Jcz='+%s)';Xmz='hook';Nwz='2>&1';Uvz=' all';wQz='_lin';naz='ME_I';fDz='intf';IUz='vail';dMz='\"de';scz='reve';Qhz='"emb';tRz='&& "';Enz='d Ro';bqz=';;';ahz='ive"';Jxz='v_ho';oDBz='Exec';RRz='ne2"';Caz=' pac';wTz='b="$';gKz='ion.';QNz='se64';WZz='tFoc';Hrz='er a';jkz='_ \ ';NDz='prin';Uuz=' $i ';ssz='${co';AMz=' ))';Tlz='%*s'\''';fNz='Cont';sKz='plat';aIz=' Pre';VYz='x_ru';gEBz='ers ';Aez='file';eHz='ent_';ofz='ux_m';hLz='...\';FJz='_new';Dqz='mer_';CFz='eps;';prz='d lo';qfz='nap.';EWz='d_gb';fGz='LATO';wMz='ure=';Lxz='(gre';FLz='tifi';gCz='CYAN';aFz=' "Ro';WGz=' T I';Ndz='ckof';oDz='show';uEz=' "';Exz=' W E';QEBz='m[Sy';Vkz=' \| ';dqz='"C R';Doz='ng P';Odz='( (2';HBBz='Good';vjz='="$1';WJz=' our';MTz='m_av';GBz='ET_P';Viz='e}\`';oiz=': "�';cz='ID="';nsz='ex -';bPz='(cur';ybz='nnec';fCz=' 5)';Kgz=' '\''\r';sIz=' Dai';Lhz='on_p';Lfz=' "TA';MKz='D...';xjz='RAY}';qdz='"$HO';Tpz='GES+';pYz=' # T';HFz='slee';Mez=' /pr';ZSz='ve2 ';vcz='herm';hMz='ICE_';Aoz='fter';Onz='data';MPz='unti';iBz='OGLE';eBz='L_CR';wwz='*)';Mwz='ull ';HHz=' [[ ';vvz='lect';Evz=' $rb';Ybz='e[35';Gxz=' O O';iVz='$cle';Znz='o Ro';Fpz='d" =';Zwz='ges!';fIz='aini';sGz='" ]]';tEBz='er';Yyz='in';Gtz='ig a';OEz='echo';cZz='" | ';dxz='HOME';Yuz=' Ent';yZz='urin';iPz='$((e';DOz='fig;';Ewz='/* 2';kJz='y\e[';hqz=' F I';FTz='c "c';cjz='GET_';Dpz='GES[';rkz='_| |';Qyz='f we';Lbz='e ga';MSz='=$((';Abz='..."';YRz='rq1 ';qFz=' req';tfz='cree';cbz='wind';xsz='g!\e';YJz='cord';Piz=', "v';eCz='MAG=';XFz='if !';eCBz='enu"';Kaz='l is';jpz='5878';cYz='KAGE';BXz='" # ';ljz='ath"';Wxz=' -f2';tDz='if [';FSz='1))';mOz='ctio';kez='ID\e';XEz='ors.';IFz='p "$';pWz='prop';Sez='/uui';Blz='__/_';wlz='N}[2';oEBz=' End';gNz='ent-';XPz='gt 0';hBz='L_GO';NQz='tr}$';DABz='OOK_';bez=' "DE';EZz='is_g';TCz='tput';ZIz='ched';YMz='9988';nHz='-] S';fOz='Rese';CXz='Save';GSz='2=$(';jlz='"H O';FUz='fo"';tsz='[$ar';rSz='[ $t';FYz='ime_';byz='ebho';cxz='IVE=';yJz='"Ent';RWz='${us';qCBz='if (';hDz=''\''$((';axz='OBAL';cqz='2)';AFz='1; i';Liz=' },';Ltz='g to';wdz='[ -f';UEz='rdwa';lKz='ue"';ZOz='D of';Ikz='ORMA';xSz='$(( ';ajz='d" "';gVz='usd=';APz='a ne';Dz='$HOM';Sdz='mPro';Vtz='choi';NSz='acti';IGz=' 1';vJz=' ""';lFz='n';ISz='+ n2';CKz='ey :';Jfz='$GAM';Lsz='33m[';tQz='line';vTz='ed_k';xXz='AME_';omz='case';lkz='  ${';mBBz='D. R';pEBz=' 5-s';niz='},';Bmz='conf';KBz='ET_W';gbz='dete';mDBz='rd..';orz='d an';ADBz=' +%s';dsz='_cho';Jez='D="D';Rdz=' * 5';WWz='v_mo';TDBz='[ $(';mKz='=$(c';CGz='u pe';EBz='=0';ckz='LUE}';PEBz='s ]]';IOz='\|al';RLz='qi "';VGz=' E N';fABz='t (O';jCBz='enu.';ZUz='$ &&';gvz='m -r';aDz=')┐${';Yz='CE_I';ZNz='/upd';vOz='d ke';rhz='_ID\';lJz='36m ';ojz='c "r';NBBz=' -9 ';UGz=' T H';Urz='en c';gyz='ok';nNz='\';hVz='lean';cLz=' you';YFz=' su ';jSz=' - a';dZz=' -qi';vNz='" > ';kZz='coun';JSz='2))';KMz='save';mEz='0.1';Jvz='ngs ';yEz='((i=';dCBz='= "m';FZz='oogl';uCz='OW='\''';IJz=' 1 ]';Qcz='OUNT';nBBz='x au';QYz='top\';aUz='em_t';Nbz='45s ';LNz='secr';gSz='f=$(';UWz='t_kb';Orz=' Far';BRz='brea';xmz=' A R';xPz='[ $h';xWz=' -ne';LFz='done';fxz='_rec';xVz='% 10';sJz='ss k';PLz='| gr';sQz=' do ';HBz='ACKA';Ifz='D=\"';bkz='"${B';fpz='arge';jhz='ame"';saz='njec';MHz='ION"';XRz='w1 i';Ncz='NT" ';Xtz='l_ta';bFz='ot a';yqz='e bl';khz=': "�';ugz='_upt';sDBz='onou';RNz='curl';JQz='$hou';rz='UNNI';vbz='cess';xNz='URRE';JNz='-hma';iBBz='r_in';ERz='one ';eXz='ge_u';JFz='dela';fqz=' T E';eZz='E "c';sBBz='SED ';eDz='$(pr';tDBz='sly ';VQz='l cp';KIz='rema';iEBz='$((T';qtz='perm';iqz=' G"';Fgz='k '\''{';YOz='eset';wLz='s) +';Emz='L} L';OCBz=',,}"';pdz='ile=';OABz=' "ye';JYz='want';jtz='ING:';SVz='_ s_';nABz='ve.\';ulz='onne';oxz='"Web';Zxz=' "GL';wCBz=' 5 =';eGz=' "$P';Fxz=' B H';CBz='NCH_';fiz='red"';ddz='g ($';GZz='e_si';jiz='\`",';mLz='_KEY';fVz='_kb/';rpz=' ( e';gGz='BOOS';xTz='{lin';CMz=' || ';DVz=' && ';Laz='_run';SBBz='ot';OIz='0) /';iez='e HW';HEBz='ds=$';eiz='cove';TXz='"CPU';rIz='_m';ndz='l au';fEz='e="$';Hwz='che ';Kfz='IG"';hEBz='nly.';hWz='ho "';Ccz='ame.';pMz='rd_i';JCBz=' qui';Xyz=' $wh';hyz=' "$n';SLz='true';AUz='^0-9';sZz='vity';Cjz='� De';Tiz='devi';JGz='veri';srz='"L O';qQz='-r l';NEz=' E"';wHz='ing)';Xiz='inli';hsz='inde';Itz='. Re';FRz='<<< ';ZFz='-c '\''';gUz='1024';lhz='� HW';Bkz='Eblo';iZz='d.gm';jdz='ds..';gxz='f" 2';tVz='t_de';Wz='EY="';FKz='s "A';Skz=' ${N';Wez='-8 |';Ldz='D=1';Xxz='ok_a';Puz=' E R';qPz='cond';ngz='rs=$';Boz=' sel';mz='d.gg';AQz='_str';vXz='1;32';LEBz='H)) ';oEz=' "\e';Epz='@]}"';Uiz='ce_u';IBBz='bye!';mGz='KEY_';Oxz='L_WE';JTz='info';goz=' == ';xdz=' "$a';Uxz='ut -';OXz='ev_m';BVz=' "$l';gnz='in $';Cfz='pkg_';oKz='-s "';lbz='le S';cRz=' _ <';rLz='& -z';Bnz='cann';voz='gs[@';Tgz=' '\''{p';blz='_tit';tCBz='ER %';kIz='2dh ';GDBz='r cl';eIz=' rem';UCBz='is s';Uyz='ptio';cHz='N - ';kSz='ctiv';PABz='s" ]';WXz='1;33';UZz=' -E ';yez='l pk';OFz='m]\e';epz='er T';Plz='n) /';IKz='atin';mnz='("$p';QXz=' ${d';Qtz='el &';Avz='an a';kPz='ed /';pJz='get ';az='PROJ';Vlz='en" ';RMz='cret';hcz=' lau';evz='nts ';qGz='== "';GKz='uthe';jEBz='_GOO';vSz='cpu_';lxz=' "$e';mDz='}└$(';caz='ndro';Npz='sts=';kBz='UPS=';hOz='y'\'' b';cOz=' usi';kDz=' "$s';rFz='uire';lwz='leti';qqz='36mE';RXz='odel';uKz='st.n';fTz='emAv';pDBz='uted';fWz='ll |';XHz='ing=';Rbz=')...';Dkz='BY R';FOz='p 1';tqz=' for';Mtz=' Hom';DZz='ng';uxz='tus:';nKz='url ';GUz='[ -z';Goz='ct 0';BTz='/ to';fhz='2152';rCBz='( LO';bKz='pass';BBBz='logg';dKz='link';QIz='0))';rBz='if c';Twz='1;37';eFz='ante';Ucz=' 1))';gXz=' of ';rnz='m \e';lpz='1): ';aCz='3)';IHz='-n "';gaz='.VIE';tJz='ey. ';UHz='s)';WFz=' {';cFz='cces';gWz='| ec';sqz=' URL';Qqz='33mI';Daz='kage';vkz=' |_|';dBz='TOTA';PSz='+ i1';jBz='_POP';fgz='{pri';sRz=']+$ ';LWz='_gb}';wjz='"${G';WDz='(seq';Shz=': [';bRz='eal1';boz='l fi';Yfz='kg_s';waz='Memo';Ofz=' "IN';Raz=' "$i';hUz='b=$(';xcz='verl';rqz='nter';aZz='pp'\''"';WRz='1 io';PTz='ee_k';QBz='CRAS';fyz='w_ho';oBz='ONFI';jWz='own ';Atz='4)';Zdz='Back';ooz=' - 1';gsz='ray_';Slz='g=$(';nfz='ard/';jHz='ning';Ulz='ad_l';NBz='INTE';LIz='inin';JUz='_kb"';Nkz='_  _';Ujz='ytic';Pez='erne';nFz='rror';OSz='ve1 ';mvz='_pre';WABz=' on.';BEBz='mp';ZHz='EY_E';nwz='m un';EQz='"; f';laz='eId=';arz='/_}';Vwz='RNIN';WOz='e.\e';eez='> "$';ukz='  < ';Ptz='Canc';iEz='eps=';tYz='t on';Opz='1; f';PGz='"L I';hbz='cted';LQz='n ti';Yqz='QUIC';WYz='nnin';Jjz='al}M';ioz='fini';Yhz='ort:';Hmz='fig"';xuz='to M';jFz='>&1;';HJz=' -eq';DKz=' " P';gCBz='urni';aCBz='ause';ECBz='scre';XDz=' 1 $';gYz='c "p';wABz='   R';Wfz='>> "';Wuz='---\';ZYz='${TA';qoz='dx -';gmz='"to ';phz=': "\';xRz='9]+$';Vvz='d pa';igz='1)}'\''';doz='sel ';Esz='es+=';clz='le}$';KUz='"$me';BZz='re r';fkz='  _|';hnz='raw_';whz=': "⏱';Rfz='ASH_';uBBz='"Typ';SWz='c}G"';xlz='L} C';atz='arra';Glz='tle_';Zvz='33mL';SPz='033[';crz='FIG_';Jgz='r -d';Iwz='red.';qBBz=' $IS';qyz='nf"';Brz='to d';Kuz='ly!\';IPz='new ';NOz='key ';dpz='menu';Frz=' TAR';IIz='m_h=';qcz=' REb';Zaz='m st';tKz='oboo';Jkz='L}\n';tUz='/bin';RCBz='mRes';hIz=';33m';Giz='pt_m';yaz='pace';ypz=' "$t';TJz='dail';Nqz='e 10';Iqz='$tim';VEBz='star';lBBz='or P';mlz=' A G';kaz='plac';Khz='l js';Gdz='nt t';Ez='E/.t';rWz='prod';bCz='BLUE';KXz='   :';sdz='term';cyz='ok U';faz='t.ac';nnz='kg")';vyz=' on ';QGz=' C E';Trz='name';bBBz='ame';LDBz='ES +';FCz='bold';bjz='$TAR';eoz='ns; ';sYz='leas';jYz='g" 2';THz='e +%';Vcz='[ $R';Qrz='_nam';dDBz='] Ta';uYz='e is';Dvz='x_ac';xGz='ache';uHz='h 00';Loz='#TAR';HEz='"S Y';xHz='.\e[';oTz='ine/';eYz='}"; ';QEz='"Ini';isz='(con';jMz=',\"k';tOz='r ex';nmz='oice';Imz='N}[4';Rhz='eds"';nvz='fs/*';OBBz='$PPI';SCBz='umin';aBBz='tor';UIz='60))';dwz='yes/';hhz='lds"';GMz='ey -';Rwz='6)';Adz='mTyp';iMz='ID\"';mgz='_hou';qNz=' $si';Bwz='* /d';nDz=')┘${';Ogz='-c "';Rvz='32mL';iRz='s2 i';GGz='p 2';lLz='OOST';WVz='d_kb';etz='targ';Udz='p de';xqz='Leav';SQz='}${s';bDz='AL}"';kQz='u_li';Kxz='ok=$';EDz='box(';Vez='-c 1';Yoz=': " ';JABz='wh_o';Tjz='Anal';pFz='s is';pnz='36m$';Ajz='E_PO';ZCBz='"${p';Ahz='h ${';uz='AUSE';Scz='$((R';ijz='-F "';Naz='dof ';uXz='D  :';Oyz='n on';NLz='SPON';jfz='l im';piz='� Go';DPz='re: ';fcz='ox f';pyz='r.co';xMz='$(ec';GPz='_LIN';Fmz='oad ';ovz='m$pk';mXz='MB o';Eez='h_fi';Kwz='m cl';Agz='e -m';xiz='AL_G';kbz='Goog';aWz='p ro';eTz='== M';jsz='f_ch';wnz='31m0';yGz='d Li';aOz='s ke';Cmz='ig"';eJz=' Go ';pxz=' is ';ykz='__/|';uWz='fact';tmz='1)';AABz=' / 2';Juz='sful';VABz='rned';UTz=' Mem';wpz=' tim';chz='"col';OTz='m_fr';Oez='ys/k';Ttz='ig :';lEz='lay=';UUz='ed="';XGz=' C A';raz='s "I';uNz='load';YPz='l el';ihz='{ "n';nCBz='lox.';sBz='omma';fmz='ion\';ZDBz=')) -';QBBz='t 0';Nez='oc/s';XYz='pkg ';inz='; do';hQz='dev/';rKz='api.';Csz='o';YZz='Focu';lDBz='to D';grz='me.c';qCz=''\''\e[';mVz='sed_';tlz=' Rec';Dfz='str+';uMz='l si';HOz='\|de';olz='{CYA';ASz='tive';Ggz='t \$';cuz=' Lau';Dez='$aut';Irz=' nam';Gwz='g ca';Ckz='x - ';Fkz='M416';QLz='ep -';dOz='ng t';mfz='/sdc';fYz='l pi';MJz='auth';gRz='_ u2';mEBz='PS +';lIz='m\e[';Pyz='n of';uRz='$u2"';IBz='GES=';kCBz='= "e';MCz='RED=';lNz='n/js';YYz='in "';HLz='D&ke';jz='tps:';vDBz='I do';GNz='gst ';Tbz='ogle';yMz='ho -';dmz='Appl';bwz=' sur';bNz=' \';CYz=' Con';QMz='l se';yiz='OOGL';bbz='gle ';Jhz='((sc';ADz='35m'\''';lz='scor';sFz='d to';Ixz='l en';Xnz='aw_p';Zbz='m[!]';dHz='curr';Waz='rce-';kTz='emFr';cBBz='LOOP';Yaz='p 3';aQz='=$(s';Wcz='NT -';woz=']} ]';tpz='m 30';kLz='ATOB';cDBz='gger';lOz='y se';pBBz='ped.';Ovz='ll p';bOz=' dis';thz='"inl';YCz='t se';Uaz='c "a';tABz='"0"';tLz='N" ]';aVz='o"';yNz='NT_C';hTz='ble:';Anz='33mS';Rmz='l av';Llz='n=$(';NCBz='{pau';ZGz='l ne';anz='s de';Whz='atus';RHz='me=$';Qlz=' 2 )';wBz='/dev';EUz='emin';Tfz='$INT';Utz=' " c';Az='CONF';ynz='37mA';itz='WARN';FVz='"Fil';Drz='le):';xfz='h"';kEz='l de';jcz='6 ti';BIz='s_ne';oNz='X-Si';rTz='}"';XWz='del=';RCz='GREE';xvz='ges.';Svz='aunc';gMz='$DEV';uTz='cach';dPz='_tim';hrz='onf"';QOz='dy u';LGz='lato';rlz='L} S';SZz='s | ';Bpz='d in';poz='[ $i';TWz='s_to';ZCz='taf ';RVz='nfo"';YABz='31mW';Klz='d_le';NUz='0 ]]';Kpz='kgs[';uoz=' ${#';Tmz='ox"';oABz='ive=';noz='(sel';jOz='n in';jPz='laps';EGz='sion';shz='`", ';gZz='e.an';kXz='m${m';Sbz='s_go';wUz='a 2>';hNz='Type';wDBz='esn'\''';nez='" >>';Vhz=' "St';mUz='orag';vhz='ue }';Ffz='\" "';USz=' sof';Dnz='alle';Alz='_|\_';Kdz='agai';HYz='"If ';yBBz='ue, ';sMz='RD_I';sABz=' ina';rABz=' and';diz='s Re';plz='N}[1';CDz='[37m';bvz='ng o';IVz='stor';PHz='rren';LBBz='mux"';TOz='noth';Egz='| aw';NABz='n,,}';eLz='! Pr';yjz='----';tMz='D\"}';wJz='read';VOz='evic';Ebz='mRob';jUz='used';Ddz='e'\'' i';Wtz='ce';Wvz='ckag';fKz='erat';hFz='v/nu';onz='"  \';yKz='itel';Rkz='    ';SHz='(dat';aEBz='($IN';aTz='0-9]';Cpz=' "${';sNz='-d "';soz='$idx';XBz='_CRA';rtz='anen';ayz='ew W';Qvz='ally';tyz='"Do ';Xoz='ox p';PIz=' 360';bcz='AL F';pCz='m'\''';Gz='x_re';Iz='ecto';Ylz='${pa';KNz='c "$';Vqz='ng i';UABz='s tu';Eiz='t_ho';aaz='art ';oIz=' $re';Hlz='len=';QKz='_GEN';NPz='l va';pvz='g lo';aLz='call';sXz='o Ga';FBz='TARG';OPz='lid';FEBz='quir';AEz=']]; ';tjz='ge_t';jIz='d %0';dLz='r De';oFz=': Ro';aoz='ns';nuz='ox'\''s';Lqz='_num';Hyz='0m.\';sfz='c "s';xLz=' 259';Mqz='" -g';bhz=',';ILz='y=$P';haz='W -d';yRz='l ac';rHz=' exp';yfz='"fre';cABz='d a ';oHz='aved';Hoz='eed.';aNz='ate"';Mz='CURR';TNz='"$WE';oCz='\e[0';pXz='"Con';WIz=' -gt';vRz=' =~ ';Lez='(cat';REBz='] In';Iyz=' Cha';rXz='ed t';OGz='y() ';SEz='izin';yWz=' "\0';gFz='>/de';Zz='D=""';MYz=' Wri';CQz='hour';jyz='-i '\''';Riz='": "';hoz='"0" ';udz='or_a';myz='OOK=';klz=' M E';POz='lrea';Byz='nact';vGz='32m[';PRz='" &&';Kkz='"${M';kdz='p $b';uDBz='so U';TDz='tf '\''';Uhz='le":';CEz='te_l';iJz='m#ge';Wyz='on';iyz='ew_h';gPz='l ho';elz='MAL}';WEz='onit';Ioz='e tr';ACz='&1; ';mhz='ID",';Wqz='al c';rez='TION';kwz='yes"';JBz='()';uABz=' G O';NIz='8640';UPz='r() ';rEBz='al w';Tcz='NT +';Qmz='t al';SBz='MER=';uiz='ue":';UEBz='l Re';RFz='OK\e';dFz='s gr';Duz='abor';Gjz='{mem';gLz='ding';bfz='ger_';CTz='minf';QCBz='ume"';oaz='D}\"';nVz='t_gb';XDBz=' - L';xgz='e_ho';EHz=' fou';xJz=' -p ';Rlz='ddin';WQz='u_ra';HABz='nf" ';Fvz='lx_a';yHz='0m"';Lkz='AG} ';JBBz=' com';JIz='$(((';Gkz=' ---';yLz='2000';Ykz='| __';ySz=' * 1';gwz='{con';Kz='nfig';pqz='ig c';Nmz='e Co';PWz='usd_';oez=' "KE';Kiz='e": ';YEBz='Reac';jEz='25';EEBz='l c_';uUz='/df ';dtz='del_';VMz='R_V1';Kvz='appl';SIz='3600';LRz='e2="';IEz=' S T';Zfz='tr" ';fFz='d"'\'' ';hjz='ull';fPz='ME))';BLz='$PRO';Xaz='g"';WSz=' ste';JXz='Name';Igz=' | t';nUz='e_li';nz='/ZFj';Ohz=' <<E';ntz='will';taz='ting';VPz='&& $';ipz='x: 9';pLz='MIUM';ZEz='_pro';aHz='XPIR';Umz='N}[6';OKz='== A';Ejz='valu';pHz=' key';Lyz='ook ';lez=' "PL';oqz='bort';oMz='isco';HGz='exit';Xlz='OLD}';Pvz='sequ';eSz='al2)';IQz='es -';mHz='31m[';GBBz='ng. ';XIz='2m[+';YBz='SH=0';LDz=':-60';eEBz='ce c';wWz=' "")';Pmz='elec';hYz='idof';imz='ct a';TMz='CONN';Zqz='K_ST';qDz='ive_';wgz='"${u';PZz='mpsy';gEz='1"';hJz='e[33';yyz=' Yes';TEz='g Ha';FFz='do';HDz='l s=';WUz='" =~';JOz='y in';vWz='urer';ZLz='cifi';svz='33mC';UMz='ECTO';PUz='+ me';cpz='etur';fMz='":\"';rfz='png"';vtz='Ente';Jaz='ch..';Awz='che/';Ibz='mWai';IDz='"${1';wYz=' # F';wCz='3m'\''';Rcz='=0; ';uyz='turn';ktz='fig ';iDz='w-4)';iABz='e" =';roz='ge 0';qrz='aded';EYz='m${t';Amz='e a ';aRz='1 st';fDBz=' 10-';iUz='b - ';Idz='rce ';jCz='f 7)';dfz='ook(';Qiz='alue';XKz='r re';EABz='ACTI';AOz='G" ]';Iiz=', "i';nIz='" $r';vmz=' I C';gHz='))';Ufz='SH_T';NWz='ot_d';ENz='pens';wVz='tot ';cCz='seta';vZz='ame(';Xfz='S=$p';YEz='..\n';LSz='tal1';jgz='oc/u';Kyz='Webh';qLz='_* &';pTz='/[^0';vPz='me_s';DUz=' "$m';pZz='r|Si';Asz='.con';sTz='== C';Ngz='(su ';qXz='nect';fQz='stat';Jiz='nlin';rOz='nval';RKz='_* ]';yYz=', no';kqz='n th';bgz='_sec';LCBz=' pau';SDz='}┌$(';Nuz='   M';WPz='ME -';qsz='ndex';SUz='"N/A';kiz=' "in';ZWz='tpro';duz='lox"';AXz='33[s';XABz='0" >';EOz=' fi';EKz='Y';jXz='"RAM';fBBz='1 us';sDz='tor(';VTz='Tota';pBz='G_DI';lXz='em_u';FBBz='xiti';WBBz='"$CU';rgz='_min';CCz='BOLD';TEBz='iona';rPz='(ela';JLz='Y")';nRz='eal2';Xdz='Ther';Jz='r/co';ZJz='2m$D';drz='DIR/';upz='m 12';GCBz='or '\''';uLz='ON=$';HPz='K\e[';nbz='In p';XXz='m${c';loz='l id';LMz='_hwi';Taz='g" ]';XUz=' ^[0';Bqz='ut" ';eNz='-H "';Stz='Conf';wBBz='e'\'' t';Zhz=' act';wbz='full';ikz=' |/ ';gez='e"';Wbz='focu';LLz='cho ';bEBz='R mi';Bsz='f; d';GLz='er=$';cPz='rent';YDz='((w-';oSz='tota';CZz='unni';ONz='ary ';ESz=' + s';ZBz='_WEB';GTz='at /';iuz='Acco';kCz='else';Bjz='PUPS';oBBz='to-r';afz='trig';Oiz='ime"';pbz='t...';vFz='s sc';ZZz='sedA';euz='m3.\';cQz=' "ca';glz='==${';Qz='GAME';Zlz='g}${';sLz=' "$K';BCz='then';djz='WEBH';fz='DISC';EXz='sor ';qwz='tall';Zgz=''\''\r'\''';xhz=' Scr';SCz='N=$(';Fsz='("$f';tIz='ly K';Coz='ecti';lgz='e)';dBBz='NTER';QWz='gb}.';asz='er: ';abz=' Goo';lfz='th="';eEz='ssag';Ynz='kgs"';ebz='as b';MABz='" ||';rcz='to p';fZz='om.g';bQz='u -c';rRz='[0-9';QDz='" "$';oLz=' PRE';Rpz='s -e';mJz='chan';rJz='Acce';jbz='miss';CEBz='MER ';FWz='n_us';Knz='l ra';LEz=' C T';Mrz='g (e';AHz='feti';jaz='x://';Buz='[Ctr';Smz='ble ';krz='e'\'' s';lGz='[ "$';sWz='uct.';Aiz='Upti';iYz=' $pk';Xvz='es..';Ecz='RETR';wPz='tr="';Inz='pkgs';WHz='main';mxz='nv_h';pjz='m -f';nyz='/d'\'' ';hCBz='o Ma';ICBz=''\'' to';wuz='m7.\';CDBz='ames';fHz='time';hez='32mD';aBz='HOOK';Lnz='w_pk';KZz='l fo';uPz='l ti';uFz=' thi';kpz='0782';BOz='hen ';iLz='ON="';ABz='LAST';MEz=' I V';SMz='="RE';oXz='l}MB';Kjz='B\`"';CRz='k; f';EIz='m_d=';tWz='manu';Wiz='", "';wDz='NNIN';Tqz='ort.';Nyz=' Tur';QDBz='l w_';Zmz='ogou';YWz='$(ge';JVz='age_';yOz='ate ';dbz='ow h';Eqz='inpu';vBBz='e '\''R';mwz='ng..';BDBz='SH=$';jxz='='\'' -';ptz='dele';osz='$arr';jVz='an_u';VCz='af 2';Gbz='pene';xrz='f in';lQz='ne1=';JMz='00 )';kGz='hen';TZz='grep';MDBz='cont';XNz='i/ba';njz='l';qZz='gnIn';JWz='l="$';Rxz='ox_r';Hqz='num=';koz='k';Zez=''\'' '\''A';qvz='gged';Pqz='um';CVz='ine"';Eaz='s ar';YCBz='ing.';yoz='ists';XVz='$sto';HUz='em_a';GEz='der ';XEBz='mer ';AIz='need';IZz='_foc';QPz='g() ';PFz='\e[1';KKz='vice';VIz='em_d';Lcz='ETRY';TFz='chec';SYz=' "> ';KQz='rs -';kcz='mes ';Noz='AGES';BSz='1=$(';uJz=')\e[';yDBz='E=$w';xkz='_|_.';paz='g >/';nWz='nu=$';Jwz='ion ';pez='Y_EX';ROz='sed ';mdz='d() ';bVz='l cl';dTz='ne" ';Vyz=' wh_';twz='te.\';xQz='e1="';Ztz='es[$';Vbz='nin_';Cez='ce "';ecz='Robl';FPz='CORD';Faz='e cl';ePz='e - ';mZz='ccou';TQz='econ';Pdz=' ** ';yXz='ID}\';joz='sh=1';JPz='y # ';eyz='" ne';dJz='36m(';mbz='ign-';Phz='OF';Ocz=' RET';Uz='OBOO';Ayz='k"';ciz='ashe';GVz='esys';vUz='/dat';txz='"Sta';VKz=' Pro';otz=' be ';Tuz='mAll';CJz='m_m';OOz='is a';yz='ME=0';JJz='31mN';xYz='alse';kOz=' #ge';ouz=' Cac';Mnz='gs=$';VFz='ot()';Gsz='sena';juz='unts';Pfz='TENT';Uwz='m WA';MZz='d_wi';hHz='[ $r';ylz='reat';mFz='31mE';Dtz='here';eABz='firs';Ymz='N}[7';uBz='v tp';GHz='elif';Iuz='d su';oUz='nes=';ryz='env_';qUz=' -c ';Hhz='TART';ucz='PU t';Nnz='ls /';lmz=' men';qRz='=~ ^';vxz='32mA';nGz='EXPI';dkz=' | |';Fuz='f "$';nEz=' -en';pz='UNy"';wkz=' \_\';UVz='kb s';fbz='een ';wz='STAR';AYz='"Tim';aJz='ISCO';lBz='mkdi';kfz='g_pa';erz='$con';qkz=' |__';iDBz='naps';nEBz='fi #';MQz='${ti';TGz=' A U';tZz='laun';bUz='l=$(';dABz='URL ';HNz='-sha';fCBz='mRet';Bdz='e '\''r';VBBz=' -z ';mPz='nute';iCBz='in M';ymz=' T"';Woz='ect ';DDBz='mGam';Tez='d | ';aKz='! By';fjz=' >/d';hmz='Sele';Cyz='ive\';Ehz='l sc';Hsz='(bas';VRz='s1 i';pDz='_act';ULz='32mK';Akz='-- R';moz='x=$(';hRz=' n2 ';Olz='e_le';Ppz='[ $e';ICz='AL=$';Fjz='"\`$';SJz='our ';bABz='e ad';eVz='"${s';MWz='.${t';Clz='/\_\';Acz='ted ';sxz='"1" ';Oz='IG="';Bbz='if i';NYz='te \';FIz='$((r';tiz='"val';sjz='der(';KYz=' to ';giz='\`$T';hKz='..\e';WLz='s va';qhz='`$DE';EJz='eeds';VEz='re M';mWz='v_ma';uZz='ch_g';YKz='cogn';MCBz='se_i';eMz='_id\';GIz=' / 8';VSz='t1 +';spz='g 10';Cqz='|| "';xBBz='ntin';iCz='GRAY';Srz='onf_';QQz='}m "';BWz=' 10 ';BNz='payl';emz='icat';sCz='N='\''\';Hkz='-${N';Upz='=("$';Lwz='ear ';ysz='id s';VBz='ENTI';EFz=')); ';luz=' Cle';oz='E9yq';Yrz='e=${';OEBz='d_se';VHz='l re';vLz='(( $';bmz='N}[8';Xkz='_ | ';OBz='NTIO';Unz='d '\''\';kvz='g/sh';qIz='$rem';syz='="$n';Pbz='e pe';hiz='OTAL';pgz=' / 3';gTz='aila';xKz='c/wh';Moz='PACK';ARz='e"; ';cEz='{';SNz=' -s ';ixz=' -d'\''';FHz='nd.\';LHz='IRAT';bHz='ATIO';yFz='ease';tuz='m6.\';ekz='_) |';YDBz='AST_';mSz='tal_';ruz=' Dat';eUz='al_k';ZVz='_inf';KWz='{tot';qYz='rue,';gkz=' | '\''';iGz='Y" ]';Mpz=' exi';ivz='ata/';ECz='put ';PEz=' -e ';oGz='RATI';HSz='(u2 ';WNz='L/ap';Fdz='u wa';cJz='INK\';LVz='tora';Dhz='ins}';Ydz='mal ';bIz='mium';jvz='/$pk';Xcz='ge 6';tkz='_) >';QRz=' -n ';cvz='ut a';fUz='b / ';Erz='"> "';Lmz='or D';Fiz='scri';Jrz='e fo';Kez='EV-$';EEz='r';dQz='t /p';JHz='$KEY';mjz='K" >';llz='   P';mrz='ssfu';Yez=''\''a-z';ksz='[ $a';Tsz='o co';cSz='q2 +';rxz='ent.';vqz='lyti';dnz='rn';Pxz='K=" ';Nvz='ng a';Fez='le"';fXz='sed}';cwz='e? (';Rz='_ID=';GABz='d'\'' "';oVz='clea';Mxz='p "G';bDBz='m[Lo';gJz='he \';iWz='Unkn';Huz='g de';wGz='+] C';QTz='b=0';BQz='="${';KDBz='RASH';Foz='ges ';Xbz='sed;';cTz='"$li';AJz='3m%0';ujz='itle';nqz='d. A';Prz='m_1)';bsz='" co';kHz=' -le';JEz=' E M';snz='3m$p';uwz='31mA';CABz='): "';cNz='-X P';Mcz='_COU';Ksz='f" .';Ytz='rget';xBz='/nul';JCz='(tpu';vMz='gnat';mqz='e!\e';idz='ff s';mtz='me'\'' ';Yjz='$jso';ZMz='77"';eQz='roc/';viz=' "\`';Qaz='l)';qz='IS_R';LJz='lid ';Chz='me_m';QHz='t_ti';ACBz=''\''Men';Vdz='tect';Bhz='upti';LTz='kb=0';tTz='d:* ';Gvz='D: "';irz='fig';Saz='s_ru';Fnz='s...';tCz='e[32';EDBz='e di';wez='_CON';Xjz='EOF';bLz='y to';csz='nf_c';oQz='S= r';Dgz='Mem ';lCz='='\''\e';sCBz='OP_C';Vaz='m fo';efz=' "$T';NRz='pu_l';Bgz=' | g';tez='fig(';tPz=' % 6';FDBz='scon';uhz=': tr';MIz='g % ';hCz='f 6)';RJz='et y';rsz='es[@';rrz='!\e[';ubz='mSuc';RGz=' N S';flz='====';Oqz='an_n';BPz='w ke';KABz='n" =';uDz='[ $I';yrz='R"/*';xABz=' O B';Zuz=' Gam';UBBz='e [[';uCBz=' 2 =';Joz='ue; ';PMz='RL" ';Ivz='etti';oJz='and ';pIz='m_h ';DBBz='ount';bXz='"Sto';Ojz='ter"';Maz=' "pi';PNz='| ba';Elz='titl';ZXz='aw}%';HIz='6400';UQz='ds}s';GXz='tion';qOz='31mI';cDz='}│${';nZz='ntCh';Obz='grac';XCBz='rack';iNz=': ap';fwz='rm_u';vgz='ime=';rDz='moni';DTz='o=$(';Qfz='IONA';lRz='rq2 ';vfz='$img';yxz='_hoo';QCz=' 1)';MDz='}';Gcz='UNT=';Txz=' | c';SABz='32mW';guz='out ';cMz='d="{';UNz='BHOO';RBBz='n se';Psz='#con';bWz='.pro';miz='rue ';dz='2150';unz='((i+';Ihz='E))';qEz='6m$m';LYz='stop';nrz='lly ';mcz='ecut';jGz=']; t';Osz='me"';nXz='f ${';fvz='in s';Nz='ENT_';Htz='able';Pz='"';vIz='ound';ltz=''\''$ba';Hvz=' GAM';QZz='s wi';akz=' __ ';Qpz='xist';mYz='id" ';pOz='n"';Koz='[ ${';yQz='$lin';rjz='th"';xIz='me r';Jsz='e "$';rQz='ine;';Zoz='sele';vCBz='= 0 ';tdz='ux_r';GRz='"$cp';oYz='rn 0';xz='T_TI';edz='UNT/';TVz='tot_';OMz='OK_U';Hnz='ble_';HRz='p 0.';oyz='E/.r';lcz='cons';XQz='w="N';Btz='"D E';iwz='_un,';tEz='[0m ';bCBz='ut,,';CHz='dmin';QFz=';32m';Nhz='ad=$';cdz='ryin';Thz='"tit';Hjz='d}MB';wNz='l &';wsz='ed c';XCz='OW=$';iaz=' \"r';qjz=' $im';Gez=' "$D';Vgz=' \$3';puz='he"';lTz='ee:*';hgz='nt($';Zsz='numb';jQz='")';sz='NG=0';Gnz='m\n"';Ukz='|  _';pRz='u1" ';IEBz='((IN';wxz='e\e[';Cwz='g/co';fJz='to t';Diz='crip';Luz='5)';sEBz='rapp';BMz='-z "';DGz='rmis';dNz='OST ';VZz=''\''mCu';BYz='e La';yvz='g/ca';uvz='r se';OVz='e_to';BJz='em_h';TRz='_ u1';npz='D';rCz='31m'\''';Paz='" 2>';GFz='2m#\';rVz='1048';xez='FIG"';QABz='1" >';ppz='ct T';Sqz='o sh';nBz=' "$C';frz='f_na';wcz='al o';ZKz='ized';KCBz='t: "';mIz='0m\n';FCBz='en, ';aXz='m"';DIz='y=1';Ziz=' tru';nJz='nel ';MEBz='-ge ';Suz='"\n\';Cvz=' rbl';baz='-a a';nYz='retu';Vxz='d'\''"'\''';BUz=']/}"';eBBz=' -t ';pwz='nins';IYz='you ';cGz='key=';oRz='e2"';rvz=' out';dVz='tot=';lVz='$s_u';tBBz='1 ]]';dWz='.mod';qpz='imer';NVz='ines';aYz='RGET';RIz='m_m=';DFz=' i++';opz='"Rec';Xsz='a co';Qdz='UNT)';Ctz=' L E';Qkz='   _';dIz='Time';Bez='sour';vz='D=0';nOz='n.\e';dXz='m${s';gfz='T_WE';BDz='[36m';nxz='ook"';mMz='EY\"';cfz='webh';Hez='EVIC';Gmz='exis';UYz='oblo';vABz=' U T';qJz='a Va';YIz='] Ca';eqz=' E A';PCz='etaf';STz='_kb=';Toz='ecte';pmz=' $me';wOz='y.\e';Qnz=' -i ';WKz='vide';pKz='http';IRz='2';JEBz='R * ';Gqz=' "no';ilz='u() ';SFz='[0m"';vrz='nf_f';TBz='0';kWz='Devi';hxz=' cut';daz='id.i';KRz='ne2=';Wpz='[ $f';OJz='cati';Uoz='d:\e';ORz='ine1';ZDz='2)))';RDz='{MAG';msz='_ind';VNz='K_UR';Gaz='osed';FNz='sl d';nQz='e IF';TKz='nsta';Ijz=' / $';qgz='600)';Pcz='RY_C';tz='IS_P';Zyz='er n';Kqz='0-9'\''';obz='romp';SEBz='tent';aABz='31mP';HQz='inut';vYz='rn 1';Flz='e" ]';vQz='\ * ';Qxz='robl';vaz='lox ';ywz='esac';xnz='0m \';cEBz='ns)!';Owz='g da';Sgz=' awk';Yvz='"non';VDz='s'\'' $';rEz='essa';Miz='� De';jmz='n op';TTz=' do';PBz='NAL_';VXz='ge  ';DCz='=$(t';Axz='"D I';pSz='l2 -';yCz=''\''';kxz='f2)';aEz='gres';iIz='%02d';ycz='oad.';UDBz='(w_t';bSz='ow2 ';fRz='e1"';cKz='ing ';DXz=' cur';fuz=' Log';iXz='tal}';jNz='plic';Jpz='le_p';MOz='his ';tnz='kg\e';pGz='ON" ';mRz='2 st';ODz='tf "';UKz='nt A';yuz='enu\';TSz='q1 +';dez='\"" ';Niz=' Upt';qlz=']${N';ez='4"';Cnz='inst';fSz='_dif';ETz='su -';Iez='E_ID';BBz='_LAU';dSz='t2 +';sSz='otal';Fcz='Y_CO';LUz='kb" ';qVz='t / ';usz='x]}"';ocz='mPau';BHz='me A';Vjz='s" }';Xqz='rash';gtz='41m\';hdz='acko';Dbz='e[36';DYz='ed :';rBBz='_PAU';NXz='m${d';Eoz='acka';qbz='c "i';Lvz='ied.';vpz='0m )';ZABz=' off';DJz='[ $n';SSz='+ ir';Xwz=' uni';Apz='adde';hPz='urs=';aGz='eds_';uOz='pire';EBBz='8)';PDz='%s\n';GYz='str}';Mdz='l ba';SXz='}\e[';TABz='ok i';foz='sel"';iKz='RESP';iz='="ht';Syz='e\n"';WTz='l:* ';VVz='_use';tXz='me I';NKz='EY" ';nMz=',\"d';SDBz='p=$(';CWz='6))';kRz='w2 i';QVz='ge_i';IWz='usd ';xxz='$env';eRz='$cpu';Ryz='bhoo';SRz=' -r ';tSz='f -g';bGz='new_';mkz='"${C';rmz='hoic';XBBz='RREN';auz='e ID';hpz='D (E';Nsz=' $ba';pQz='ead ';cVz='ean_';IABz='2>/d';tBz='nd -';Wgz='}'\''" ';fBz='ASHE';DMz='$nee';bZz='"$fo';aiz='e },';RPz='"\r\';kUz='/ 10';NGz='t_ke';kKz='="tr';vuz='ll S';RDBz='stam';ncz='ivel';MMz='d';uSz='t 0 ';jJz='t-ke';Jqz='cd '\''';Hcz='ME=$';Vfz='IMER';Dlz='AL}\';FABz='VE=/';jDBz='hot ';DCBz='ain ';dyz='RL: ';INz='256 ';VLz='ey i';lsz='rray';lABz='y tu';swz='mple';ohz='lue"';tvz='lear';Isz='enam';nCz='AL='\''';rMz='\"$D';kgz='ptim';bdz=' Ret';PKz='DMIN';uIz='ey f';Omz='N}[5';Mmz='elet';DEz='ogge';utz='ss [';jrz='g '\''$';Nrz='.g.,';yBz='l 2>';PPz='t_ms';ygz='urs}';Mjz='],';WMz='_SEC';cUz='(mem';Xuz='m1.\';OCz='ut s';UOz='er d';HKz='ntic';RZz='play';oCBz='S_PA';jnz='labl';fez='_fil';BEz='upda';iOz='utto';gDBz='Minu';Qez='l/ra';WCz='YELL';KBBz='.ter';Sfz='R=\"';wiz='$TOT';wfz='_pat';Hz='conn';sEz='ge\e';Sjz='"REb';jqz='ed o';Fhz='_ela';KVz='="$l';xaz='ry S';ewz='no):';biz='� Cr';gIz='ng: ';YQz='/A"';Ntz='e Pa';BABz='. No';Bcz='he g';kEBz='GLE_';Tyz='an o';Qbz='riod';Xgz='| tr';trz=' A D';xpz='er_i';tgz=' / 6';Nxz='LOBA';jZz='s|ac';QJz='33mG';kmz=' : "';YSz='tal2';xOz='ener';CBBz=' acc';WEBz='t Ti';NZz='ndow';BKz='ss K';gABz='n 1)';sPz='psed';kMz='ey\"';ABBz=' X"';mBz='r -p';vEz='0m[\';Cbz='s_ro';xyz=' (1.';PQz='utes';qTz='-9]/';sgz=' % 3';fEBz='serv';ogz='((up';rGz='LIFE';DBz='TIME';xDz='G -e';Vuz='m---';Wlz=''\'''\'')';xZz='mEns';Ruz='✓]\e';mez='=\"$';pPz='d % ';Dxz=' D  ';FXz='posi';hABz='"$ho';LABz='= "1';pUz='$(su';pABz='"1"';lrz='ucce';qWz=' ro.';hGz='T_KE';DDz='fi';Pgz=' -m ';bMz='yloa';urz='l co';Xez=' tr ';kFz=' the';hBBz='{use';dEz='l me';Muz='"G A';Vnz='r'\'')';eWz='el 2';Fyz='t Se';Aqz='_inp';Sxz='or.c';hz='LINK';gjz='ev/n';tbz='t 4"';pcz='sing';YBBz='T_CO';Bz='IG_D';Rgz='em |';OLz='SE" ';DNz=' | o';Lpz=']}" ';Jyz='nge ';acz='ITIC';btz='y_in';IDBz='(TOT';lvz='ared';xFz='. Pl';vlz='ctor';BFz='<=st';ggz='nt i';pfz='or_s';Rnz=''\''rob';ALz='ist/';TPz='K$1"';MUz='-eq ';CNz='oad"';Njz='"foo';Mfz='OK\"';yVz='4857';Jdz='try ';KLz='if e';mQz='whil';jABz='33mW';knz='e_pk';oPz='((el';jTz='avai';Afz='g_st';cIz='nd! ';rDBz='nchr';Fbz='is o';Jnz='=()';Hdz='o fo';Roz='ntly';gDz=' '\''%-';Djz=' RAM';Okz='____';ZEBz='hed ';dlz='{NOR';yTz='e//[';HCz='NORM';slz='tart';qiz=' Sig';qABz='= "0';ZTz='//[^';GOz='hwid';OYz='e[1;';dRz='<< "';wKz='ubli';Hpz='{ava';UJz='y ke';mCBz='mExi';
-eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Kz$Lz$z$Mz$Nz$Az$Oz$Pz$z$Qz$Rz$Sz$z$Tz$Uz$Vz$Wz$Pz$z$Xz$Yz$Zz$z$az$bz$cz$dz$ez$z$fz$gz$hz$iz$jz$kz$lz$mz$nz$oz$pz$z$qz$rz$sz$z$tz$uz$vz$z$wz$xz$yz$z$ABz$BBz$CBz$DBz$EBz$z$FBz$GBz$HBz$IBz$JBz$z$FBz$KBz$LBz$MBz$Pz$z$NBz$OBz$PBz$QBz$RBz$SBz$TBz$z$ABz$UBz$VBz$WBz$XBz$YBz$z$ABz$ZBz$aBz$bBz$cBz$z$dBz$eBz$fBz$gBz$z$dBz$hBz$iBz$jBz$kBz$TBz$z$lBz$mBz$nBz$oBz$pBz$qBz$z$rBz$sBz$tBz$uBz$vBz$wBz$xBz$yBz$ACz$BCz$z$CCz$DCz$ECz$FCz$GCz$z$HCz$ICz$JCz$KCz$LCz$z$MCz$NCz$OCz$PCz$QCz$z$RCz$SCz$TCz$UCz$VCz$GCz$z$WCz$XCz$JCz$YCz$ZCz$aCz$z$bCz$DCz$ECz$cCz$dCz$z$eCz$NCz$OCz$PCz$fCz$z$gCz$DCz$ECz$cCz$hCz$z$iCz$DCz$ECz$cCz$jCz$z$kCz$z$CCz$lCz$mCz$z$HCz$nCz$oCz$pCz$z$MCz$qCz$rCz$z$RCz$sCz$tCz$pCz$z$WCz$uCz$vCz$wCz$z$bCz$lCz$xCz$yCz$z$eCz$qCz$ADz$z$gCz$lCz$BDz$yCz$z$iCz$lCz$CDz$yCz$z$DDz$z$EDz$FDz$z$GDz$HDz$IDz$JDz$KDz$LDz$MDz$z$NDz$ODz$PDz$QDz$RDz$SDz$NDz$TDz$UDz$VDz$WDz$XDz$YDz$ZDz$aDz$HCz$bDz$z$NDz$ODz$PDz$QDz$RDz$cDz$HCz$dDz$eDz$fDz$gDz$hDz$iDz$jDz$kDz$lDz$RDz$cDz$HCz$bDz$z$NDz$ODz$PDz$QDz$RDz$mDz$NDz$TDz$UDz$VDz$WDz$XDz$YDz$ZDz$nDz$HCz$bDz$z$MDz$z$oDz$pDz$qDz$rDz$sDz$FDz$z$tDz$uDz$vDz$wDz$xDz$yDz$AEz$BCz$z$BEz$CEz$DEz$EEz$z$kCz$z$oDz$FEz$GEz$HEz$IEz$JEz$KEz$LEz$MEz$NEz$z$OEz$PEz$QEz$REz$SEz$TEz$UEz$VEz$WEz$XEz$YEz$Pz$z$DDz$z$MDz$z$oDz$ZEz$aEz$bEz$cEz$z$GDz$dEz$eEz$fEz$gEz$z$GDz$hEz$iEz$jEz$z$GDz$kEz$lEz$mEz$z$OEz$nEz$oEz$pEz$qEz$rEz$sEz$tEz$uEz$z$OEz$nEz$oEz$pEz$vEz$wEz$Pz$z$xEz$yEz$AFz$BFz$CFz$DFz$EFz$FFz$z$OEz$nEz$oEz$pEz$GFz$wEz$Pz$z$HFz$IFz$JFz$KFz$z$LFz$z$OEz$PEz$MFz$NFz$OFz$tEz$PFz$QFz$RFz$SFz$z$MDz$z$TFz$UFz$VFz$WFz$z$XFz$YFz$ZFz$OEz$aFz$bFz$cFz$dFz$eFz$fFz$gFz$hFz$iFz$jFz$kFz$lFz$z$OEz$PEz$MFz$mFz$nFz$oFz$bFz$cFz$pFz$qFz$rFz$sFz$tFz$uFz$vFz$wFz$xFz$yFz$AGz$BGz$CGz$DGz$EGz$FGz$SFz$z$HFz$GGz$z$HGz$IGz$z$DDz$z$MDz$z$JGz$KGz$LGz$MGz$NGz$OGz$cEz$z$oDz$FEz$GEz$PGz$QGz$RGz$SGz$TGz$UGz$VGz$WGz$XGz$WGz$YGz$Pz$z$GDz$ZGz$aGz$bGz$cGz$TBz$z$tDz$dGz$eGz$fGz$gGz$hGz$iGz$jGz$kGz$z$tDz$lGz$mGz$nGz$oGz$pGz$qGz$rGz$DBz$sGz$tGz$uGz$z$OEz$PEz$MFz$vGz$wGz$xGz$yGz$AHz$BHz$CHz$DHz$EHz$FHz$wEz$Pz$z$GHz$HHz$IHz$JHz$KHz$LHz$MHz$NHz$kFz$lFz$z$GDz$OHz$PHz$QHz$RHz$SHz$THz$UHz$z$GDz$VHz$WHz$XHz$YHz$ZHz$aHz$bHz$cHz$dHz$eHz$fHz$gHz$z$tDz$hHz$iHz$jHz$kHz$lHz$jGz$kGz$z$OEz$PEz$MFz$mHz$nHz$oHz$pHz$qHz$rHz$sHz$tHz$uHz$vHz$WHz$wHz$xHz$yHz$z$AIz$BIz$CIz$DIz$z$Tz$Uz$Vz$Wz$Pz$z$kCz$z$GDz$VHz$EIz$FIz$iHz$jHz$GIz$HIz$gHz$z$GDz$VHz$IIz$JIz$KIz$LIz$MIz$NIz$OIz$PIz$QIz$z$GDz$VHz$RIz$JIz$KIz$LIz$MIz$SIz$TIz$UIz$z$tDz$hHz$VIz$WIz$lHz$jGz$kGz$z$NDz$ODz$vCz$XIz$YIz$ZIz$aIz$bIz$DHz$EHz$cIz$dIz$eIz$fIz$gIz$PFz$hIz$iIz$jIz$kIz$iIz$lIz$mIz$nIz$VIz$oIz$pIz$qIz$rIz$z$kCz$z$NDz$ODz$vCz$XIz$YIz$ZIz$sIz$tIz$uIz$vIz$wIz$xIz$iHz$jHz$yIz$pEz$AJz$kIz$iIz$lIz$mIz$nIz$BJz$oIz$CJz$z$DDz$z$DDz$z$kCz$z$AIz$BIz$CIz$DIz$z$DDz$z$kCz$z$AIz$BIz$CIz$DIz$z$DDz$z$tDz$DJz$EJz$FJz$GJz$HJz$IJz$jGz$kGz$z$OEz$PEz$MFz$JJz$KJz$LJz$MJz$NJz$OJz$PJz$uIz$vIz$xHz$yHz$z$OEz$PEz$MFz$QJz$RJz$SJz$TJz$UJz$VJz$WJz$XJz$YJz$yIz$pEz$ZJz$aJz$bJz$cJz$wEz$Pz$z$OEz$PEz$MFz$dJz$eJz$fJz$gJz$hJz$iJz$jJz$kJz$lJz$mJz$nJz$oJz$pJz$qJz$LJz$rJz$sJz$tJz$uJz$yHz$z$OEz$vJz$z$wJz$xJz$yJz$AKz$SJz$rJz$BKz$CKz$DKz$fGz$gGz$hGz$EKz$z$DDz$z$oDz$ZEz$aEz$FKz$GKz$HKz$IKz$JKz$KKz$LKz$MKz$Pz$z$tDz$lGz$Tz$Uz$Vz$NKz$OKz$PKz$QKz$RKz$jGz$kGz$z$OEz$PEz$MFz$SKz$TKz$UKz$CHz$DHz$VKz$WKz$XKz$YKz$ZKz$aKz$bKz$cKz$dKz$eKz$fKz$gKz$hKz$SFz$z$iKz$jKz$kKz$lKz$z$kCz$z$iKz$jKz$mKz$nKz$oKz$pKz$qKz$rKz$sKz$tKz$uKz$vKz$wKz$xKz$yKz$ALz$BLz$CLz$DLz$ELz$FLz$GLz$Xz$Yz$HLz$ILz$fGz$gGz$hGz$JLz$z$DDz$z$KLz$LLz$MLz$NLz$OLz$PLz$QLz$RLz$SLz$TLz$kGz$z$OEz$PEz$MFz$ULz$VLz$WLz$LJz$oJz$XLz$ZIz$YLz$ZLz$aLz$bLz$cLz$dLz$KKz$eLz$fLz$gLz$hLz$wEz$Pz$z$tDz$lGz$Tz$Uz$Vz$NKz$OKz$PKz$QKz$RKz$jGz$kGz$z$mGz$nGz$oGz$iLz$rGz$DBz$Pz$z$GHz$HHz$jLz$kLz$lLz$mLz$nLz$oLz$pLz$mLz$qLz$rLz$sLz$ZHz$aHz$bHz$tLz$jGz$kGz$z$mGz$nGz$oGz$uLz$vLz$SHz$THz$wLz$xLz$yLz$AMz$z$GHz$HHz$BMz$JHz$KHz$LHz$MHz$CMz$DMz$EMz$FMz$GMz$HMz$NHz$kFz$lFz$z$mGz$nGz$oGz$uLz$vLz$SHz$THz$wLz$IMz$JMz$GCz$z$DDz$z$KMz$LMz$MMz$z$tDz$dGz$NMz$LBz$OMz$PMz$AEz$BCz$z$GDz$QMz$RMz$SMz$TMz$UMz$VMz$WMz$XMz$YMz$ZMz$z$GDz$aMz$bMz$cMz$dMz$KKz$eMz$fMz$gMz$hMz$iMz$jMz$kMz$lMz$Tz$Uz$Vz$mMz$nMz$oMz$pMz$qMz$rMz$aJz$sMz$tMz$Pz$z$GDz$uMz$vMz$wMz$xMz$yMz$ANz$BNz$CNz$DNz$ENz$FNz$GNz$HNz$INz$JNz$KNz$LNz$MNz$NNz$ONz$PNz$QNz$GCz$z$RNz$SNz$TNz$UNz$VNz$WNz$XNz$YNz$ZNz$aNz$bNz$z$cNz$dNz$eNz$fNz$gNz$hNz$iNz$jNz$kNz$lNz$mNz$nNz$z$eNz$oNz$vMz$pNz$qNz$vMz$rNz$bNz$z$sNz$tNz$uNz$vNz$wBz$xBz$wNz$z$DDz$z$tDz$dGz$nBz$xNz$yNz$oBz$AOz$jGz$BOz$KMz$COz$DOz$EOz$z$HFz$FOz$z$kCz$z$KLz$LLz$MLz$NLz$OLz$PLz$QLz$RLz$GOz$HOz$KKz$IOz$wJz$JOz$KOz$TLz$kGz$z$OEz$PEz$MFz$LOz$MOz$NOz$OOz$POz$QOz$ROz$SOz$TOz$UOz$VOz$WOz$SFz$z$OEz$PEz$MFz$XOz$YOz$kFz$LKz$ZOz$uFz$aOz$VJz$WJz$bOz$YJz$cOz$dOz$eOz$fOz$gOz$hOz$iOz$jOz$kFz$kOz$jJz$lOz$mOz$nOz$oOz$pOz$z$kCz$z$OEz$PEz$MFz$qOz$rOz$sOz$tOz$uOz$vOz$wOz$SFz$z$OEz$PEz$MFz$QJz$xOz$yOz$APz$BPz$CPz$DPz$PFz$QFz$EPz$FPz$GPz$HPz$mIz$Pz$z$DDz$z$mGz$nGz$oGz$iLz$Pz$z$wJz$xJz$yJz$AKz$SJz$IPz$rJz$BKz$CKz$DKz$fGz$gGz$hGz$EKz$z$JGz$KGz$LGz$MGz$NGz$JPz$KPz$LPz$MPz$NPz$OPz$z$DDz$z$MDz$z$NDz$PPz$QPz$cEz$z$OEz$PEz$RPz$SPz$TPz$z$MDz$z$BEz$CEz$DEz$UPz$cEz$z$tDz$uDz$vDz$wDz$xDz$yDz$VPz$wz$xz$WPz$XPz$NHz$kFz$lFz$z$GDz$OHz$PHz$QHz$RHz$SHz$THz$UHz$z$GDz$YPz$ZPz$aPz$bPz$cPz$dPz$ePz$wz$xz$fPz$z$GDz$gPz$hPz$iPz$jPz$kPz$PIz$QIz$z$GDz$lPz$mPz$nPz$oPz$ZPz$pPz$SIz$TIz$UIz$z$GDz$QMz$qPz$nPz$rPz$sPz$tPz$QIz$z$GDz$uPz$vPz$wPz$Pz$z$tDz$xPz$yPz$WIz$lHz$jGz$BOz$fHz$AQz$BQz$CQz$DQz$EQz$FQz$z$tDz$GQz$HQz$IQz$XPz$CMz$JQz$KQz$XPz$NHz$kFz$LQz$vPz$wPz$MQz$vPz$NQz$OQz$PQz$QQz$RQz$z$fHz$AQz$BQz$fHz$AQz$SQz$TQz$UQz$Pz$z$GDz$VQz$WQz$XQz$YQz$z$GDz$VQz$ZQz$aQz$bQz$cQz$dQz$eQz$fQz$gQz$hQz$iQz$jQz$z$GDz$VQz$kQz$lQz$Sz$z$mQz$nQz$oQz$pQz$qQz$rQz$sQz$tDz$lGz$tQz$nLz$uQz$vQz$AEz$BCz$uQz$wQz$xQz$yQz$ARz$BRz$CRz$DRz$ERz$FRz$GRz$ZQz$Pz$z$HFz$HRz$IRz$z$GDz$VQz$JRz$aQz$bQz$cQz$dQz$eQz$fQz$gQz$hQz$iQz$jQz$z$GDz$VQz$kQz$KRz$Sz$z$mQz$nQz$oQz$pQz$qQz$rQz$sQz$tDz$lGz$tQz$nLz$uQz$vQz$AEz$BCz$uQz$wQz$LRz$yQz$ARz$BRz$CRz$DRz$ERz$FRz$GRz$JRz$Pz$z$tDz$dGz$MRz$NRz$ORz$PRz$QRz$GRz$kQz$RRz$NHz$kFz$lFz$z$wJz$SRz$TRz$URz$VRz$WRz$XRz$YRz$ZRz$aRz$bRz$cRz$dRz$eRz$wQz$fRz$z$wJz$SRz$gRz$hRz$iRz$jRz$kRz$lRz$ZRz$mRz$nRz$cRz$dRz$eRz$wQz$oRz$z$tDz$lGz$pRz$qRz$rRz$sRz$tRz$uRz$vRz$wRz$xRz$NHz$kFz$lFz$z$GDz$yRz$ASz$BSz$CSz$DSz$ESz$FSz$z$GDz$yRz$ASz$GSz$HSz$ISz$ESz$JSz$z$GDz$KSz$LSz$MSz$NSz$OSz$PSz$QSz$RSz$SSz$TSz$USz$VSz$WSz$XSz$GCz$z$GDz$KSz$YSz$MSz$NSz$ZSz$aSz$QSz$bSz$SSz$cSz$USz$dSz$WSz$eSz$GCz$z$GDz$yRz$ASz$fSz$gSz$hSz$iSz$jSz$kSz$lSz$z$GDz$KSz$mSz$nSz$MSz$oSz$pSz$qSz$XSz$GCz$z$tDz$rSz$sSz$fSz$tSz$uSz$AEz$BCz$z$vSz$wSz$xSz$hSz$qDz$nSz$ySz$ATz$BTz$mSz$nSz$AMz$z$DDz$z$DDz$z$DDz$z$GDz$dEz$CTz$DTz$ETz$FTz$GTz$HTz$ITz$JTz$gQz$hQz$iQz$jQz$z$GDz$dEz$KTz$mSz$LTz$z$GDz$dEz$MTz$NTz$LTz$z$GDz$dEz$OTz$PTz$QTz$z$GDz$dEz$RTz$ZIz$STz$TBz$z$mQz$nQz$oQz$pQz$qQz$rQz$TTz$z$tDz$lGz$tQz$nLz$UTz$VTz$WTz$AEz$BCz$z$XTz$oSz$YTz$BQz$tQz$ZTz$aTz$bTz$z$GHz$HHz$cTz$dTz$eTz$fTz$gTz$hTz$iTz$tGz$uGz$z$XTz$jTz$YTz$BQz$tQz$ZTz$aTz$bTz$z$GHz$HHz$cTz$dTz$eTz$kTz$lTz$NHz$kFz$lFz$z$XTz$mTz$STz$nTz$oTz$pTz$qTz$rTz$z$GHz$HHz$cTz$dTz$sTz$xGz$tTz$AEz$BCz$z$XTz$uTz$vTz$wTz$xTz$yTz$AUz$BUz$z$DDz$z$LFz$CUz$DUz$EUz$FUz$z$tDz$GUz$DUz$HUz$IUz$JUz$CMz$KUz$MTz$NTz$LUz$MUz$NUz$tGz$uGz$z$XTz$jTz$YTz$MSz$XTz$mTz$OUz$PUz$RTz$ZIz$QUz$GCz$z$DDz$z$GDz$dEz$KTz$RUz$SUz$Pz$z$GDz$dEz$TUz$UUz$VUz$z$tDz$lGz$XTz$oSz$YTz$WUz$XUz$YUz$ZUz$DUz$aUz$sSz$JUz$WIz$lHz$jGz$kGz$z$XTz$oSz$bUz$cUz$dUz$eUz$fUz$gUz$gHz$z$GDz$dEz$TUz$vTz$hUz$cUz$dUz$eUz$iUz$XTz$jTz$YTz$gHz$z$XTz$jUz$MSz$XTz$jUz$OUz$kUz$lUz$z$DDz$z$GDz$hEz$mUz$nUz$oUz$pUz$qUz$rUz$sUz$tUz$uUz$vUz$wUz$wBz$xBz$xUz$z$GDz$hEz$mUz$yUz$AVz$Pz$z$mQz$nQz$oQz$pQz$qQz$rQz$TTz$z$tDz$dGz$BVz$CVz$DVz$cTz$dTz$EVz$FVz$GVz$HVz$iTz$tGz$uGz$z$IVz$JVz$JTz$KVz$CVz$z$DDz$z$LFz$CUz$kDz$LVz$MVz$NVz$Pz$z$GDz$hEz$mUz$OVz$RUz$SUz$Pz$z$GDz$hEz$mUz$PVz$UUz$VUz$z$tDz$dGz$kDz$LVz$QVz$RVz$NHz$kFz$lFz$z$wJz$SRz$SVz$TVz$UVz$VVz$WVz$cRz$dRz$XVz$YVz$ZVz$aVz$z$GDz$bVz$cVz$dVz$eVz$dUz$fVz$pTz$qTz$rTz$z$GDz$bVz$cVz$gVz$eVz$VVz$WVz$ZTz$aTz$bTz$z$tDz$dGz$MRz$hVz$dUz$PRz$MRz$hVz$dUz$nLz$kDz$dUz$JUz$DVz$IHz$iVz$jVz$kVz$tRz$iVz$jVz$kVz$qGz$lVz$mVz$LUz$AEz$BCz$z$GDz$KSz$nVz$MSz$oVz$pVz$qVz$rVz$sVz$GCz$z$GDz$KSz$tVz$uVz$vVz$cVz$wVz$xVz$yVz$AWz$BWz$kUz$yVz$CWz$z$GDz$DWz$EWz$MSz$oVz$FWz$GWz$rVz$sVz$GCz$z$GDz$DWz$HWz$uVz$vVz$cVz$IWz$xVz$yVz$AWz$BWz$kUz$yVz$CWz$z$IVz$JVz$oSz$JWz$KWz$LWz$MWz$NWz$OWz$Pz$z$IVz$JVz$jUz$BQz$PWz$QWz$RWz$HWz$SWz$z$kCz$z$tDz$dGz$kDz$dUz$JUz$DVz$IHz$lVz$mVz$LUz$AEz$BCz$z$IVz$JVz$oSz$JWz$TWz$UWz$Pz$z$IVz$JVz$jUz$VWz$VVz$WVz$Pz$z$DDz$z$DDz$z$DDz$z$GDz$kEz$WWz$XWz$YWz$ZWz$aWz$bWz$cWz$dWz$eWz$gFz$hFz$fWz$gWz$hWz$iWz$jWz$kWz$lWz$z$GDz$kEz$mWz$nWz$oWz$pWz$qWz$rWz$sWz$tWz$uWz$vWz$gQz$hQz$iQz$CMz$OEz$wWz$z$OEz$xWz$yWz$AXz$BXz$CXz$DXz$EXz$FXz$GXz$z$oDz$FEz$GEz$HEz$IEz$JEz$KEz$LEz$MEz$NEz$z$OEz$PEz$HXz$IXz$JXz$KXz$LXz$MXz$NXz$OXz$PXz$QXz$OXz$RXz$SXz$yHz$z$OEz$PEz$TXz$UXz$VXz$KXz$LXz$WXz$XXz$YXz$ZXz$oCz$aXz$z$OEz$PEz$bXz$YVz$UXz$cXz$LXz$WXz$dXz$LVz$eXz$fXz$gXz$hXz$mUz$OVz$iXz$oCz$aXz$z$OEz$PEz$jXz$UXz$VXz$KXz$LXz$WXz$kXz$lXz$fXz$mXz$nXz$XTz$oSz$oXz$oCz$aXz$z$OEz$vJz$z$OEz$PEz$pXz$qXz$rXz$sXz$tXz$uXz$LXz$vXz$wXz$xXz$yXz$wEz$Pz$z$OEz$PEz$AYz$BYz$sPz$CYz$qXz$DYz$LXz$vXz$EYz$FYz$GYz$oCz$aXz$z$OEz$vJz$z$OEz$PEz$HYz$IYz$JYz$KYz$LYz$MYz$NYz$OYz$PYz$QYz$wEz$RYz$z$OEz$xWz$SYz$Pz$z$DDz$z$MDz$z$TYz$UYz$VYz$WYz$QPz$cEz$z$xEz$XYz$YYz$ZYz$aYz$bYz$cYz$dYz$eYz$FFz$z$GDz$fYz$aPz$ETz$gYz$hYz$iYz$jYz$gFz$hFz$kYz$z$tDz$dGz$lYz$mYz$AEz$BCz$z$nYz$oYz$pYz$qYz$rYz$sYz$tYz$uYz$tFz$jHz$z$DDz$z$LFz$z$nYz$vYz$wYz$xYz$yYz$AZz$BZz$CZz$DZz$z$MDz$z$EZz$FZz$GZz$HZz$IZz$jUz$JZz$z$GDz$KZz$LZz$MZz$NZz$aQz$bQz$OZz$PZz$QZz$NZz$bOz$RZz$SZz$TZz$UZz$VZz$PHz$WZz$XZz$YZz$ZZz$aZz$GCz$z$KLz$LLz$bZz$LZz$MZz$NZz$cZz$TZz$dZz$eZz$fZz$FZz$gZz$hZz$iZz$jZz$kZz$lZz$mZz$nZz$oZz$pZz$qZz$rZz$sZz$TLz$kGz$z$nYz$oYz$z$kCz$z$nYz$vYz$z$DDz$z$MDz$z$tZz$uZz$vZz$FDz$z$NDz$PPz$wZz$hJz$xZz$yZz$Aaz$Baz$Caz$Daz$Eaz$Faz$Gaz$Haz$Iaz$tZz$Jaz$xHz$yHz$z$xEz$XYz$YYz$ZYz$aYz$bYz$cYz$dYz$eYz$FFz$z$GDz$Kaz$Laz$jHz$aQz$bQz$Maz$Naz$Oaz$Paz$wBz$xBz$Qaz$z$tDz$dGz$Raz$Saz$WYz$Taz$jGz$kGz$z$ETz$Uaz$Vaz$Waz$LYz$iYz$Xaz$z$DDz$z$LFz$z$HFz$Yaz$z$xEz$XYz$YYz$ZYz$aYz$bYz$cYz$dYz$eYz$FFz$z$ETz$Uaz$Zaz$aaz$baz$caz$daz$eaz$faz$GXz$gaz$haz$iaz$UYz$jaz$kaz$laz$maz$naz$oaz$iYz$paz$hQz$iQz$qaz$gEz$z$LFz$z$oDz$ZEz$aEz$raz$saz$taz$uaz$vaz$waz$xaz$yaz$Abz$z$HFz$FOz$z$Bbz$Cbz$Baz$Laz$jHz$tGz$uGz$z$NDz$PPz$wZz$Dbz$Ebz$vaz$Fbz$Gbz$Hbz$SFz$z$NDz$PPz$wZz$hJz$Ibz$taz$KYz$Jbz$Kbz$Lbz$Mbz$Nbz$Obz$Pbz$Qbz$Rbz$oCz$aXz$z$HFz$Yaz$z$Bbz$Sbz$Tbz$Ubz$Vbz$Wbz$Xbz$kFz$lFz$z$NDz$PPz$wZz$Ybz$Zbz$abz$bbz$cbz$dbz$ebz$fbz$gbz$hbz$xHz$yHz$z$NDz$PPz$wZz$hJz$ibz$jbz$cKz$kbz$lbz$mbz$nbz$obz$pbz$oCz$aXz$z$ETz$qbz$rbz$pHz$sbz$tbz$z$HFz$GGz$z$DDz$z$NDz$PPz$wZz$tCz$ubz$vbz$wbz$xbz$ybz$Acz$fJz$Bcz$Ccz$oCz$aXz$z$qz$rz$Dcz$z$Ecz$Fcz$Gcz$TBz$z$wz$xz$Hcz$SHz$THz$UHz$z$ABz$BBz$CBz$DBz$Icz$yOz$Jcz$z$kCz$z$qz$rz$sz$z$tDz$GUz$Kcz$Lcz$Mcz$Ncz$AEz$BCz$Ocz$Pcz$Qcz$Rcz$DDz$z$Ecz$Fcz$Gcz$Scz$Lcz$Mcz$Tcz$Ucz$z$tDz$Vcz$Lcz$Mcz$Wcz$Xcz$NHz$kFz$lFz$z$NDz$PPz$wZz$Ycz$Zcz$acz$bcz$ccz$dcz$ecz$fcz$gcz$sFz$hcz$icz$jcz$kcz$lcz$mcz$ncz$wOz$SFz$z$NDz$PPz$wZz$hJz$ocz$pcz$qcz$vaz$rcz$scz$tcz$ucz$vcz$wcz$xcz$ycz$oCz$aXz$z$NDz$PPz$wZz$Dbz$Adz$Bdz$Cdz$Ddz$Edz$Fdz$Gdz$Hdz$Idz$Jdz$Kdz$nOz$SFz$z$tz$uz$Ldz$z$kCz$z$GDz$Mdz$Ndz$gSz$Odz$Pdz$Ecz$Fcz$Qdz$Rdz$AMz$z$NDz$PPz$wZz$Ycz$Sdz$vbz$Tdz$Udz$Vdz$Wdz$Xdz$Ydz$Zdz$adz$bdz$cdz$ddz$Ecz$Fcz$edz$fdz$gdz$hdz$idz$TQz$jdz$xHz$yHz$z$HFz$kdz$hdz$ldz$z$DDz$z$DDz$z$MDz$z$uNz$LMz$mdz$cEz$z$GDz$ndz$odz$pdz$qdz$rdz$sdz$tdz$TQz$qXz$udz$vdz$z$tDz$wdz$xdz$ydz$Aez$sGz$tGz$uGz$z$Bez$Cez$Dez$Eez$Fez$z$DDz$z$tDz$GUz$Gez$Hez$Iez$sGz$tGz$uGz$z$Xz$Yz$Jez$Kez$Lez$Mez$Nez$Oez$Pez$Qez$Rez$Sez$Tez$Uez$Vez$Wez$Xez$Yez$Zez$aez$Pz$z$OEz$bez$cez$Rz$rMz$Hez$Iez$dez$eez$MJz$fez$gez$z$DDz$z$OEz$PEz$MFz$hez$VOz$iez$jez$gMz$hMz$kez$SFz$z$MDz$z$KMz$LMz$mdz$cEz$z$GDz$ndz$odz$pdz$qdz$rdz$sdz$tdz$TQz$qXz$udz$vdz$z$OEz$bez$cez$Rz$rMz$Hez$Iez$dez$eez$MJz$fez$gez$z$OEz$lez$kLz$lLz$mLz$mez$Tz$Uz$Vz$mMz$nez$xdz$ydz$Aez$Pz$z$OEz$oez$pez$qez$rez$mez$mGz$nGz$oGz$sez$nez$xdz$ydz$Aez$Pz$z$MDz$z$uNz$COz$tez$FDz$z$tDz$wdz$nBz$xNz$yNz$oBz$AOz$jGz$kGz$z$Bez$Cez$uez$vez$wez$xez$z$DDz$z$MDz$z$KMz$COz$tez$FDz$z$GDz$yez$Afz$Bfz$Pz$z$xEz$XYz$YYz$ZYz$aYz$bYz$cYz$dYz$eYz$FFz$z$Cfz$Dfz$Efz$Oaz$Ffz$z$LFz$z$Cfz$Dfz$Gfz$z$OEz$Hfz$naz$Ifz$Jfz$Iez$dez$eez$Mz$Nz$Az$Kfz$z$OEz$Lfz$aYz$ZBz$aBz$mez$FBz$KBz$LBz$Mfz$nez$nBz$xNz$yNz$oBz$Nfz$z$OEz$Ofz$Pfz$Qfz$eBz$Rfz$DBz$Sfz$Tfz$VBz$WBz$XBz$Ufz$Vfz$dez$Wfz$uez$vez$wez$xez$z$OEz$Lfz$aYz$bYz$cYz$Xfz$Yfz$Zfz$Wfz$uez$vez$wez$xez$z$MDz$z$afz$bfz$cfz$dfz$FDz$z$tDz$GUz$efz$ffz$gfz$UNz$hfz$jGz$BOz$nYz$ifz$DDz$z$GDz$jfz$kfz$lfz$mfz$nfz$sdz$ofz$WEz$pfz$qfz$rfz$z$ETz$sfz$tfz$ufz$xJz$vfz$wfz$xfz$z$GDz$dEz$KTz$RUz$pUz$qUz$yfz$Agz$Bgz$Cgz$Dgz$Egz$Fgz$NDz$Ggz$Hgz$Igz$Jgz$Kgz$Lgz$z$GDz$dEz$TUz$Mgz$Ngz$Ogz$mTz$Pgz$PLz$Qgz$Rgz$Sgz$Tgz$Ugz$Vgz$Wgz$Xgz$Ygz$Zgz$GCz$z$GDz$agz$fHz$bgz$cgz$dgz$egz$fgz$ggz$hgz$igz$Mez$jgz$kgz$lgz$z$GDz$agz$fHz$mgz$ngz$ogz$fHz$bgz$cgz$pgz$qgz$GCz$z$GDz$agz$fHz$rgz$nPz$ogz$fHz$bgz$cgz$sgz$qgz$tgz$QIz$z$GDz$kEz$KKz$ugz$vgz$wgz$kgz$xgz$ygz$Ahz$Bhz$Chz$Dhz$aXz$z$GDz$OHz$PHz$QHz$RHz$SHz$THz$UHz$z$GDz$Ehz$wFz$Fhz$sPz$MSz$dHz$eHz$fHz$Ghz$Hhz$bBz$Ihz$z$GDz$Ehz$wFz$rgz$nPz$Jhz$wFz$Fhz$sPz$sgz$qgz$tgz$QIz$z$GDz$Ehz$wFz$mgz$ngz$Jhz$wFz$Fhz$sPz$pgz$qgz$GCz$z$GDz$Khz$Lhz$Mhz$Nhz$Lez$Ohz$Phz$z$cEz$z$Qhz$Rhz$Shz$z$cEz$z$Thz$Uhz$Vhz$Whz$Xhz$Yhz$Zhz$ahz$bhz$z$chz$dhz$ehz$fhz$bhz$z$ghz$hhz$Shz$z$ihz$jhz$khz$lhz$mhz$nhz$ohz$phz$qhz$cez$rhz$shz$thz$CVz$uhz$vhz$bhz$z$ihz$jhz$whz$xhz$yhz$Aiz$Biz$nhz$ohz$phz$Ciz$Diz$Eiz$ygz$Ahz$Fiz$Giz$Dhz$Hiz$Iiz$Jiz$Kiz$SLz$Liz$z$ihz$jhz$khz$Miz$KKz$Niz$Oiz$Piz$Qiz$Riz$Siz$Tiz$Uiz$kgz$Viz$Wiz$Xiz$Yiz$Ziz$aiz$z$ihz$jhz$khz$biz$ciz$diz$eiz$fiz$Piz$Qiz$Riz$giz$hiz$XBz$iiz$jiz$kiz$tQz$liz$miz$niz$z$ihz$jhz$oiz$piz$Tbz$qiz$riz$siz$tiz$uiz$viz$wiz$xiz$yiz$Ajz$Bjz$jiz$kiz$tQz$liz$miz$niz$z$ihz$jhz$khz$Cjz$KKz$Djz$Wiz$Ejz$Kiz$Fjz$Gjz$VVz$Hjz$Ijz$Gjz$dUz$Jjz$Kjz$Iiz$Jiz$Kiz$SLz$Ljz$z$Mjz$z$Njz$Ojz$Pjz$Qjz$Rjz$Sjz$vaz$Tjz$Ujz$Vjz$z$MDz$z$Wjz$z$MDz$z$Xjz$z$GCz$z$RNz$SNz$eNz$fNz$gNz$hNz$iNz$jNz$kNz$lNz$mNz$cNz$dNz$sNz$Yjz$Zjz$bMz$ajz$bjz$cjz$djz$ejz$fjz$gjz$hjz$z$RNz$SNz$ijz$Aez$jjz$kjz$ljz$efz$ffz$gfz$UNz$mjz$wBz$xBz$njz$z$ETz$ojz$pjz$qjz$kfz$rjz$z$MDz$z$oDz$FEz$sjz$FDz$z$GDz$aMz$tjz$ujz$vjz$Pz$z$oVz$EEz$z$OEz$PEz$wjz$xjz$yjz$yjz$yjz$yjz$Akz$Bkz$Ckz$Dkz$Ekz$Fkz$Gkz$yjz$yjz$yjz$yjz$Hkz$Ikz$Jkz$Pz$z$OEz$PEz$Kkz$Lkz$Mkz$Nkz$Okz$Pkz$Qkz$Rkz$Rkz$Rkz$Skz$Ikz$Tkz$z$OEz$PEz$Kkz$Lkz$Ukz$Vkz$Okz$Wkz$Xkz$Ykz$Zkz$akz$Skz$Ikz$Tkz$z$OEz$PEz$bkz$ckz$dkz$ekz$fkz$gkz$hkz$ikz$jkz$kkz$lkz$HCz$bDz$z$OEz$PEz$mkz$nkz$okz$pkz$qkz$rkz$ekz$skz$tkz$ukz$lkz$HCz$bDz$z$OEz$PEz$mkz$nkz$vkz$wkz$Okz$xkz$ykz$Alz$Blz$Clz$lkz$HCz$Dlz$pOz$z$tDz$dGz$lYz$JVz$Elz$Flz$jGz$kGz$z$GDz$uPz$Glz$Hlz$Ilz$JVz$Elz$Jlz$z$GDz$aMz$Klz$Llz$Mlz$Nlz$Elz$Olz$Plz$Qlz$GCz$z$GDz$aMz$Rlz$Slz$NDz$TDz$Tlz$lYz$Ulz$Vlz$Wlz$z$OEz$PEz$bkz$Xlz$Ylz$Rlz$Zlz$alz$blz$clz$dlz$elz$Pz$z$OEz$PEz$wjz$xjz$flz$flz$flz$flz$flz$flz$flz$flz$flz$flz$glz$HCz$Dlz$pOz$z$DDz$z$MDz$z$oDz$hlz$ilz$cEz$z$oDz$FEz$GEz$jlz$klz$llz$mlz$NEz$z$OEz$PEz$nlz$olz$plz$qlz$Ikz$rlz$slz$tlz$ulz$vlz$Pz$z$OEz$PEz$nlz$olz$wlz$qlz$Ikz$xlz$ylz$Amz$Bmz$Cmz$z$OEz$PEz$nlz$olz$Dmz$qlz$Ikz$Emz$Fmz$Gmz$taz$CYz$Hmz$z$OEz$PEz$nlz$olz$Imz$qlz$Ikz$Jmz$Kmz$Lmz$Mmz$Nmz$Kz$Pz$z$OEz$PEz$nlz$olz$Omz$qlz$Ikz$rlz$Pmz$Qmz$Rmz$gTz$Smz$ecz$Tmz$z$OEz$PEz$nlz$olz$Umz$qlz$Ikz$rlz$Vmz$XJz$YJz$Wmz$Xmz$Pz$z$OEz$PEz$nlz$olz$Ymz$qlz$Ikz$Emz$Zmz$amz$Baz$Pz$z$OEz$PEz$nlz$olz$bmz$qlz$Ikz$Jmz$cmz$dmz$emz$fmz$pOz$z$OEz$PEz$wjz$xjz$flz$flz$flz$flz$flz$flz$flz$flz$flz$flz$glz$HCz$Dlz$pOz$z$wJz$xJz$gmz$hmz$imz$jmz$GXz$kmz$lmz$mmz$nmz$z$omz$pmz$qmz$rmz$smz$z$tmz$z$oDz$FEz$GEz$umz$vmz$wmz$IEz$xmz$ymz$z$OEz$PEz$MFz$Anz$Bnz$cKz$xEz$Cnz$Dnz$Enz$Baz$Caz$Daz$Fnz$oCz$Gnz$z$GDz$Rmz$gTz$Hnz$Inz$Jnz$z$GDz$Knz$Lnz$Mnz$Ngz$Ogz$Nnz$Onz$vUz$wUz$wBz$xBz$Pnz$TZz$Qnz$Rnz$Snz$cZz$Tnz$Unz$Vnz$z$tDz$GUz$Wnz$Xnz$Ynz$NHz$kFz$lFz$z$OEz$PEz$MFz$JJz$Znz$Baz$Caz$Daz$anz$Vdz$bnz$wEz$Pz$z$HFz$GGz$z$oDz$hlz$cnz$z$nYz$dnz$z$DDz$z$GDz$enz$fnz$z$xEz$XYz$gnz$hnz$Inz$inz$z$jTz$jnz$knz$lnz$mnz$nnz$z$OEz$PEz$onz$OYz$pnz$qnz$oCz$rnz$pEz$snz$tnz$SFz$z$unz$vnz$z$LFz$z$OEz$vJz$z$OEz$PEz$onz$OYz$wnz$xHz$xnz$OYz$ynz$Aoz$Boz$Coz$Doz$Eoz$Foz$hmz$Goz$KYz$HTz$Hoz$oCz$aXz$z$OEz$vJz$z$FBz$GBz$HBz$IBz$JBz$z$mQz$Ioz$Joz$FFz$z$tDz$Koz$Loz$cjz$Moz$Noz$Ooz$WIz$lHz$jGz$kGz$z$OEz$PEz$MFz$Poz$Qoz$Roz$Soz$Toz$Uoz$tEz$ZYz$aYz$bYz$cYz$dYz$rTz$z$DDz$z$wJz$xJz$Voz$Woz$ecz$Xoz$Eoz$Foz$Yoz$Cfz$Zoz$mOz$aoz$z$GDz$boz$coz$EBz$z$xEz$doz$gnz$Cfz$Zoz$mOz$eoz$FFz$z$tDz$lGz$foz$goz$hoz$AEz$BCz$z$ioz$joz$z$BRz$koz$z$DDz$z$GDz$loz$moz$noz$ooz$gHz$z$tDz$poz$qoz$roz$DVz$soz$toz$uoz$jTz$jnz$knz$voz$woz$jGz$kGz$z$GDz$xoz$yoz$EBz$z$xEz$Apz$Bpz$Cpz$FBz$GBz$HBz$Dpz$Epz$inz$z$tDz$lGz$Apz$Fpz$Gpz$Hpz$Ipz$Jpz$Kpz$soz$Lpz$AEz$BCz$Mpz$Npz$Opz$FQz$z$LFz$z$tDz$Ppz$Qpz$Rpz$Spz$AEz$BCz$z$FBz$GBz$HBz$Tpz$Upz$Hpz$Ipz$Jpz$Kpz$soz$Vpz$z$DDz$z$DDz$z$LFz$z$tDz$Wpz$Xpz$Ypz$yDz$AEz$BCz$z$BRz$koz$z$DDz$z$OEz$vJz$z$LFz$z$tDz$Koz$Loz$cjz$Moz$Noz$Ooz$HJz$lHz$jGz$kGz$z$OEz$PEz$MFz$JJz$KJz$LJz$Zpz$apz$Boz$Toz$bpz$cpz$jHz$KYz$dpz$xHz$yHz$z$HFz$GGz$z$oDz$hlz$cnz$z$nYz$dnz$z$DDz$z$OEz$vJz$z$wJz$xJz$yJz$epz$fpz$gpz$tXz$hpz$ipz$jpz$kpz$lpz$mpz$naz$npz$z$OEz$vJz$z$wJz$xJz$opz$ulz$ppz$qpz$rpz$spz$tpz$upz$vpz$kmz$wpz$xpz$rbz$z$tDz$GUz$ypz$qpz$Aqz$Bqz$Cqz$MQz$Dqz$Eqz$Fqz$nLz$Gqz$dTz$AEz$BCz$z$NBz$OBz$PBz$QBz$RBz$SBz$TBz$z$kCz$z$GDz$bVz$cVz$Hqz$xMz$hWz$Iqz$xpz$rbz$cZz$Tnz$Jqz$Kqz$GCz$z$tDz$dGz$MRz$hVz$Lqz$PRz$MRz$hVz$Lqz$Mqz$Nqz$NHz$kFz$lFz$z$NBz$OBz$PBz$QBz$RBz$SBz$iVz$Oqz$Pqz$z$kCz$z$OEz$PEz$MFz$Qqz$rOz$sOz$Rqz$Sqz$Tqz$XJz$Uqz$Vqz$eaz$GXz$Wqz$Xqz$xHz$yHz$z$NBz$OBz$PBz$QBz$RBz$SBz$TBz$z$DDz$z$DDz$z$Mz$Nz$Az$Oz$Yqz$Zqz$aqz$z$nYz$dnz$z$bqz$z$cqz$z$oDz$FEz$GEz$dqz$eqz$fqz$gqz$YGz$hqz$iqz$z$OEz$PEz$MFz$Anz$Bnz$cKz$xEz$Cnz$Dnz$Enz$Baz$Caz$Daz$Fnz$oCz$Gnz$z$GDz$Rmz$gTz$Hnz$Inz$Jnz$z$GDz$Knz$Lnz$Mnz$Ngz$Ogz$Nnz$Onz$vUz$wUz$wBz$xBz$Pnz$TZz$Qnz$Rnz$Snz$cZz$Tnz$Unz$Vnz$z$tDz$GUz$Wnz$Xnz$Ynz$NHz$kFz$lFz$z$OEz$PEz$MFz$JJz$Znz$Baz$Caz$Daz$anz$Vdz$jqz$kqz$lqz$VOz$mqz$SFz$z$HFz$GGz$z$oDz$hlz$cnz$z$nYz$dnz$z$DDz$z$GDz$enz$fnz$z$xEz$XYz$gnz$hnz$Inz$inz$z$jTz$jnz$knz$lnz$mnz$nnz$z$OEz$PEz$onz$OYz$pnz$qnz$oCz$rnz$pEz$snz$tnz$SFz$z$unz$vnz$z$LFz$z$OEz$vJz$z$OEz$PEz$onz$OYz$wnz$xHz$xnz$OYz$ynz$Aoz$Boz$Coz$Doz$Eoz$Foz$hmz$Goz$KYz$HTz$Hoz$oCz$aXz$z$OEz$vJz$z$FBz$GBz$HBz$IBz$JBz$z$mQz$Ioz$Joz$FFz$z$tDz$Koz$Loz$cjz$Moz$Noz$Ooz$WIz$lHz$jGz$kGz$z$OEz$PEz$MFz$Poz$Qoz$Roz$Soz$Toz$Uoz$tEz$ZYz$aYz$bYz$cYz$dYz$rTz$z$DDz$z$wJz$xJz$Voz$Woz$ecz$Xoz$Eoz$Foz$Yoz$Cfz$Zoz$mOz$aoz$z$GDz$boz$coz$EBz$z$xEz$doz$gnz$Cfz$Zoz$mOz$eoz$FFz$z$tDz$lGz$foz$goz$hoz$AEz$BCz$z$ioz$joz$z$BRz$koz$z$DDz$z$GDz$loz$moz$noz$ooz$gHz$z$tDz$poz$qoz$roz$DVz$soz$toz$uoz$jTz$jnz$knz$voz$woz$jGz$kGz$z$GDz$xoz$yoz$EBz$z$xEz$Apz$Bpz$Cpz$FBz$GBz$HBz$Dpz$Epz$inz$z$tDz$lGz$Apz$Fpz$Gpz$Hpz$Ipz$Jpz$Kpz$soz$Lpz$AEz$BCz$Mpz$Npz$Opz$FQz$z$LFz$z$tDz$Ppz$Qpz$Rpz$Spz$AEz$BCz$z$FBz$GBz$HBz$Tpz$Upz$Hpz$Ipz$Jpz$Kpz$soz$Vpz$z$DDz$z$DDz$z$LFz$z$tDz$Wpz$Xpz$Ypz$yDz$AEz$BCz$z$BRz$koz$z$DDz$z$OEz$vJz$z$LFz$z$tDz$Koz$Loz$cjz$Moz$Noz$Ooz$HJz$lHz$jGz$kGz$z$OEz$PEz$MFz$JJz$KJz$LJz$Zpz$apz$Boz$Toz$nqz$oqz$cKz$Bmz$pqz$ylz$gKz$oCz$aXz$z$HFz$GGz$z$oDz$hlz$cnz$z$nYz$dnz$z$DDz$z$OEz$vJz$z$wJz$xJz$yJz$epz$fpz$gpz$tXz$hpz$ipz$jpz$kpz$lpz$mpz$naz$npz$z$OEz$vJz$z$wJz$xJz$opz$ulz$ppz$qpz$rpz$spz$tpz$upz$vpz$kmz$wpz$xpz$rbz$z$tDz$GUz$ypz$qpz$Aqz$Bqz$Cqz$MQz$Dqz$Eqz$Fqz$nLz$Gqz$dTz$AEz$BCz$z$NBz$OBz$PBz$QBz$RBz$SBz$TBz$z$kCz$z$GDz$bVz$cVz$Hqz$xMz$hWz$Iqz$xpz$rbz$cZz$Tnz$Jqz$Kqz$GCz$z$tDz$dGz$MRz$hVz$Lqz$PRz$MRz$hVz$Lqz$Mqz$Nqz$NHz$kFz$lFz$z$NBz$OBz$PBz$QBz$RBz$SBz$iVz$Oqz$Pqz$z$kCz$z$OEz$PEz$MFz$Qqz$rOz$sOz$Rqz$Sqz$Tqz$XJz$Uqz$Vqz$eaz$GXz$Wqz$Xqz$xHz$yHz$z$NBz$OBz$PBz$QBz$RBz$SBz$TBz$z$DDz$z$DDz$z$OEz$vJz$z$OEz$PEz$MFz$qqz$rqz$XJz$YJz$Wmz$Xmz$sqz$tqz$uqz$vqz$wqz$xqz$yqz$Arz$Brz$Crz$Drz$oCz$aXz$z$wJz$xJz$Erz$Frz$cjz$djz$Grz$z$OEz$vJz$z$wJz$xJz$yJz$Hrz$Irz$Jrz$Kbz$Krz$Lrz$Mrz$Nrz$Orz$Prz$Yoz$Bmz$Qrz$Rrz$z$tDz$GUz$MRz$Srz$Trz$sGz$tGz$Urz$Srz$Trz$Vrz$Wrz$Xrz$Kz$EQz$FQz$z$Bmz$Qrz$Yrz$Bmz$Qrz$Zrz$arz$z$Mz$Nz$Az$Oz$brz$crz$drz$erz$frz$grz$hrz$z$KMz$COz$irz$z$OEz$PEz$MFz$Poz$Lrz$jrz$Bmz$Qrz$krz$lrz$mrz$nrz$KMz$orz$prz$qrz$rrz$yHz$z$HFz$GGz$z$oDz$hlz$cnz$z$bqz$z$aCz$z$oDz$FEz$GEz$srz$trz$gqz$YGz$hqz$iqz$z$GDz$urz$vrz$wrz$Jnz$z$GDz$enz$fnz$z$xEz$xrz$nBz$oBz$pBz$yrz$Asz$Bsz$Csz$z$tDz$wdz$Dsz$sGz$tGz$uGz$z$Bmz$fez$Esz$Fsz$jQz$z$GDz$Mdz$Gsz$RHz$Hsz$Isz$Jsz$Ksz$Bmz$GCz$z$OEz$PEz$onz$OYz$Lsz$Msz$wEz$Nsz$Gsz$Osz$z$unz$vnz$z$DDz$z$LFz$z$tDz$Koz$Psz$Qsz$Rsz$Ssz$MUz$NUz$tGz$uGz$z$OEz$PEz$MFz$JJz$Tsz$Kz$Usz$Vsz$EHz$FHz$wEz$Pz$z$HFz$GGz$z$oDz$hlz$cnz$z$nYz$dnz$z$DDz$z$OEz$PEz$onz$OYz$mHz$Wsz$tEz$Zdz$Pz$z$OEz$vJz$z$wJz$xJz$Voz$Woz$Xsz$Kz$KYz$uNz$Ysz$Zsz$asz$bsz$csz$rmz$Rrz$z$tDz$lGz$Bmz$dsz$esz$goz$hoz$AEz$BCz$z$oDz$hlz$cnz$z$nYz$dnz$z$DDz$z$GDz$fsz$gsz$hsz$moz$isz$jsz$nmz$ooz$gHz$z$tDz$ksz$lsz$msz$nsz$roz$DVz$osz$psz$qsz$toz$uoz$Bmz$fez$rsz$woz$jGz$kGz$z$Mz$Nz$Az$Oz$ssz$vrz$wrz$tsz$gsz$hsz$usz$z$uNz$COz$irz$z$OEz$PEz$MFz$vsz$lrz$mrz$nrz$uNz$wsz$Lrz$xsz$SFz$z$HFz$FOz$z$kCz$z$OEz$PEz$MFz$qOz$rOz$ysz$Pmz$GXz$xHz$yHz$z$HFz$GGz$z$DDz$z$oDz$hlz$cnz$z$bqz$z$Atz$z$oDz$FEz$GEz$Btz$Ctz$fqz$gqz$YGz$hqz$iqz$z$GDz$urz$vrz$wrz$Jnz$z$GDz$enz$fnz$z$xEz$xrz$nBz$oBz$pBz$yrz$Asz$Bsz$Csz$z$tDz$wdz$Dsz$sGz$tGz$uGz$z$Bmz$fez$Esz$Fsz$jQz$z$GDz$Mdz$Gsz$RHz$Hsz$Isz$Jsz$Ksz$Bmz$GCz$z$OEz$PEz$onz$OYz$Lsz$Msz$wEz$Nsz$Gsz$Osz$z$unz$vnz$z$DDz$z$LFz$z$tDz$Koz$Psz$Qsz$Rsz$Ssz$MUz$NUz$tGz$uGz$z$OEz$PEz$MFz$LOz$Dtz$Etz$Ftz$Bmz$Gtz$IUz$Htz$Itz$Jtz$Ktz$Ltz$Mtz$Ntz$Otz$wEz$Pz$z$HFz$GGz$z$oDz$hlz$cnz$z$nYz$dnz$z$DDz$z$OEz$PEz$onz$OYz$mHz$Wsz$tEz$Ptz$Qtz$eJz$Zdz$Pz$z$OEz$vJz$z$wJz$xJz$Voz$Woz$Rtz$Stz$Ttz$Utz$Srz$Vtz$Wtz$z$tDz$lGz$Bmz$dsz$esz$goz$hoz$AEz$BCz$z$oDz$hlz$cnz$z$nYz$dnz$z$DDz$z$GDz$fsz$gsz$hsz$moz$isz$jsz$nmz$ooz$gHz$z$tDz$ksz$lsz$msz$nsz$roz$DVz$osz$psz$qsz$toz$uoz$Bmz$fez$rsz$woz$jGz$kGz$z$GDz$kEz$Xtz$Ytz$BQz$Bmz$fez$Ztz$atz$btz$ctz$rTz$z$GDz$Mdz$Gsz$RHz$Hsz$Isz$Jsz$dtz$etz$MNz$Asz$ftz$z$OEz$vJz$z$OEz$PEz$MFz$gtz$OYz$htz$itz$jtz$CYz$ktz$ltz$Gsz$mtz$ntz$otz$ptz$Acz$qtz$rtz$stz$LXz$yHz$z$wJz$xJz$ttz$utz$vtz$wtz$xtz$ytz$Auz$Buz$Cuz$KYz$Duz$pbz$Pz$z$Euz$Fuz$dtz$etz$Guz$z$OEz$PEz$MFz$Poz$Lrz$Huz$ytz$Iuz$cFz$Juz$Kuz$wEz$Pz$z$HFz$GGz$z$kCz$z$OEz$PEz$MFz$qOz$rOz$ysz$Pmz$GXz$xHz$yHz$z$HFz$GGz$z$DDz$z$oDz$hlz$cnz$z$bqz$z$Luz$z$oDz$FEz$GEz$Muz$klz$Nuz$Ouz$mlz$Puz$Pz$z$OEz$PEz$MFz$Anz$Bnz$cKz$xEz$Cnz$Dnz$Enz$Baz$Caz$Daz$Fnz$oCz$Gnz$z$GDz$Knz$Lnz$Mnz$Ngz$Ogz$Nnz$Onz$vUz$wUz$wBz$xBz$Pnz$TZz$Qnz$Rnz$Snz$cZz$Tnz$Unz$Vnz$z$tDz$GUz$Wnz$Xnz$Ynz$NHz$kFz$lFz$z$OEz$PEz$MFz$JJz$Znz$Baz$Caz$Daz$anz$Vdz$bnz$wEz$Pz$z$HFz$GGz$z$oDz$hlz$cnz$z$nYz$dnz$z$DDz$z$FBz$GBz$HBz$IBz$JBz$z$GDz$enz$TBz$z$xEz$XYz$gnz$hnz$Inz$inz$z$FBz$GBz$HBz$Tpz$Upz$Quz$GCz$z$OEz$PEz$onz$OYz$vGz$Ruz$tEz$PFz$hIz$Oaz$oCz$aXz$z$unz$vnz$z$LFz$z$OEz$PEz$Suz$tCz$Tuz$Uuz$Zpz$apz$Boz$Toz$Hbz$oOz$pOz$z$mQz$Ioz$Joz$FFz$z$OEz$PEz$MFz$NFz$Vuz$yjz$yjz$yjz$yjz$yjz$yjz$yjz$yjz$Wuz$wEz$Pz$z$OEz$PEz$onz$Dbz$Xuz$wEz$Yuz$Hrz$Zuz$auz$Pz$z$OEz$PEz$onz$Dbz$buz$wEz$cuz$icz$hmz$hbz$uaz$duz$z$OEz$PEz$onz$Dbz$euz$wEz$fuz$guz$huz$iuz$juz$Pz$z$OEz$PEz$onz$Dbz$kuz$wEz$luz$muz$Pmz$Acz$ecz$nuz$ouz$puz$z$OEz$PEz$onz$Dbz$quz$wEz$luz$muz$Pmz$Acz$ecz$nuz$ruz$suz$z$OEz$PEz$onz$Dbz$tuz$wEz$uuz$TKz$vuz$Pmz$Acz$ecz$Tmz$z$OEz$PEz$onz$Dbz$wuz$wEz$eJz$xuz$yuz$pOz$z$wJz$xJz$Voz$Woz$Avz$mOz$Bvz$Cvz$Dvz$GXz$z$omz$Evz$Fvz$mOz$jOz$z$tmz$z$wJz$xJz$yJz$epz$fpz$gpz$tXz$Gvz$Hvz$Iez$z$wJz$xJz$opz$ulz$ppz$qpz$rpz$spz$tpz$upz$vpz$kmz$wpz$xpz$rbz$z$tDz$GUz$ypz$qpz$Aqz$Bqz$Cqz$MQz$Dqz$Eqz$Fqz$nLz$Gqz$dTz$AEz$BCz$z$NBz$OBz$PBz$QBz$RBz$SBz$TBz$z$kCz$z$GDz$bVz$cVz$Hqz$xMz$hWz$Iqz$xpz$rbz$cZz$Tnz$Jqz$Kqz$GCz$z$tDz$dGz$MRz$hVz$Lqz$PRz$MRz$hVz$Lqz$Mqz$Nqz$NHz$kFz$lFz$z$NBz$OBz$PBz$QBz$RBz$SBz$iVz$Oqz$Pqz$z$kCz$z$NBz$OBz$PBz$QBz$RBz$SBz$TBz$z$DDz$z$DDz$z$OEz$PEz$MFz$vsz$Ivz$Jvz$Kvz$Lvz$cuz$Mvz$Nvz$Ovz$Eoz$Foz$Pvz$NJz$Qvz$hLz$wEz$Pz$z$Mz$Nz$Az$Oz$Yqz$Zqz$aqz$z$nYz$dnz$z$bqz$z$cqz$z$OEz$PEz$MFz$Rvz$Svz$Tvz$Uvz$Boz$Toz$Vvz$Wvz$Xvz$xHz$yHz$z$Qz$Rz$Yvz$gez$z$NBz$OBz$PBz$QBz$RBz$SBz$TBz$z$Mz$Nz$Az$Oz$Yqz$Zqz$aqz$z$nYz$dnz$z$bqz$z$aCz$z$OEz$PEz$MFz$Zvz$avz$bvz$cvz$dvz$mZz$evz$fvz$Pmz$Acz$Zpz$apz$hLz$wEz$Pz$z$xEz$XYz$YYz$ZYz$aYz$bYz$cYz$dYz$eYz$FFz$z$ETz$ojz$gvz$hvz$ivz$Onz$jvz$kvz$lvz$mvz$nvz$gQz$hQz$iQz$Pz$z$OEz$PEz$onz$tCz$ovz$pvz$qvz$rvz$xHz$yHz$z$LFz$z$bqz$z$Atz$z$OEz$PEz$MFz$svz$tvz$cKz$uTz$Jrz$uvz$vvz$wvz$Eoz$xvz$hKz$SFz$z$xEz$XYz$YYz$ZYz$aYz$bYz$cYz$dYz$eYz$FFz$z$ETz$ojz$gvz$hvz$ivz$Onz$jvz$yvz$Awz$Bwz$ivz$Onz$jvz$Cwz$Dwz$xGz$Ewz$gFz$hFz$Fwz$z$OEz$PEz$onz$tCz$ovz$Gwz$Hwz$oVz$Iwz$oCz$aXz$z$LFz$z$bqz$z$Luz$z$OEz$PEz$MFz$svz$tvz$cKz$Kvz$emz$Jwz$Onz$tqz$Boz$Toz$Vvz$Wvz$Xvz$xHz$yHz$z$xEz$XYz$YYz$ZYz$aYz$bYz$cYz$dYz$eYz$FFz$z$ETz$gYz$Kwz$Lwz$Oaz$fjz$gjz$Mwz$Nwz$Pz$z$OEz$PEz$onz$tCz$ovz$Owz$Pwz$tvz$Qwz$wEz$Pz$z$LFz$z$bqz$z$Rwz$z$OEz$PEz$Suz$Swz$lIz$Twz$Uwz$Vwz$Wwz$MOz$ntz$Xwz$TKz$dvz$Ywz$Pmz$Acz$ecz$Xoz$Eoz$Zwz$LXz$yHz$z$wJz$xJz$awz$cLz$bwz$cwz$dwz$ewz$Utz$Lrz$fwz$lFz$z$tDz$lGz$gwz$hwz$iwz$jwz$qGz$kwz$NHz$kFz$lFz$z$xEz$XYz$YYz$ZYz$aYz$bYz$cYz$dYz$eYz$FFz$z$OEz$PEz$onz$hJz$ovz$Huz$lwz$mwz$hKz$SFz$z$ETz$gYz$nwz$Cnz$huz$Oaz$fjz$gjz$Mwz$Nwz$Pz$z$OEz$PEz$onz$tCz$ovz$Huz$ytz$Hbz$SFz$z$LFz$z$OEz$PEz$MFz$owz$pwz$qwz$kNz$rwz$swz$twz$wEz$Pz$z$HFz$GGz$z$oDz$hlz$cnz$z$nYz$dnz$z$kCz$z$OEz$PEz$MFz$uwz$oqz$Qwz$wEz$Pz$z$DDz$z$bqz$z$vwz$z$oDz$hlz$cnz$z$nYz$dnz$z$bqz$z$wwz$z$OEz$PEz$MFz$qOz$rOz$xwz$mOz$nOz$SFz$z$bqz$z$ywz$z$LFz$z$bqz$z$Rwz$z$oDz$FEz$GEz$Axz$Bxz$Cxz$Dxz$Exz$Fxz$Gxz$Hxz$z$GDz$Ixz$Jxz$Kxz$Lxz$Mxz$Nxz$Oxz$UNz$Pxz$qdz$rdz$Qxz$Rxz$TQz$qXz$Sxz$hrz$gQz$hQz$iQz$Txz$Uxz$Vxz$Wxz$GCz$z$GDz$gPz$Xxz$kSz$Yxz$TZz$Zxz$axz$ZBz$aBz$bxz$cxz$QDz$dxz$exz$Baz$fxz$ulz$vlz$Asz$gxz$gFz$hFz$fWz$hxz$ixz$jxz$kxz$z$tDz$dGz$lxz$mxz$nxz$NHz$kFz$lFz$z$OEz$PEz$oxz$Xmz$sqz$pxz$qxz$rxz$Pz$z$tDz$lGz$Xmz$pDz$ahz$goz$sxz$AEz$BCz$z$OEz$PEz$txz$uxz$LXz$vxz$kSz$wxz$mIz$Pz$z$FBz$KBz$LBz$MBz$xxz$yxz$Ayz$z$kCz$z$OEz$PEz$txz$uxz$LXz$qOz$Byz$Cyz$wEz$Dyz$z$FBz$KBz$LBz$MBz$Pz$z$DDz$z$kCz$z$OEz$PEz$oxz$Xmz$sqz$pxz$vCz$Eyz$Fyz$Gyz$Hyz$pOz$z$FBz$KBz$LBz$MBz$Pz$z$DDz$z$mQz$Ioz$Joz$FFz$z$OEz$PEz$onz$Dbz$Xuz$wEz$Iyz$Jyz$Kyz$Lyz$Myz$z$OEz$PEz$onz$Dbz$buz$wEz$Nyz$Oyz$Wmz$Xmz$Pz$z$OEz$PEz$onz$Dbz$euz$wEz$Nyz$Pyz$Qyz$Ryz$Ayz$z$OEz$PEz$onz$Dbz$kuz$wEz$Mtz$Syz$z$wJz$xJz$Voz$Woz$Tyz$Uyz$Bvz$Vyz$NSz$Wyz$z$omz$Xyz$pDz$Jwz$Yyz$z$tmz$z$wJz$xJz$yJz$Zyz$ayz$byz$cyz$dyz$eyz$fyz$gyz$z$tDz$dGz$hyz$iyz$nxz$NHz$kFz$lFz$z$ROz$jyz$kyz$lyz$djz$myz$nyz$qdz$rdz$Qxz$Rxz$TQz$qXz$Sxz$hrz$gQz$hQz$iQz$z$OEz$Zxz$axz$ZBz$aBz$mez$bGz$Xmz$dez$Wfz$Dz$oyz$UYz$Gz$Hz$Iz$pyz$qyz$z$ryz$Xmz$syz$iyz$nxz$z$wJz$xJz$tyz$IYz$JYz$KYz$uyz$vyz$Kyz$wyz$xyz$yyz$AABz$BABz$CABz$Vyz$Wyz$z$ROz$jyz$kyz$lyz$djz$DABz$EABz$FABz$GABz$Dz$oyz$UYz$Gz$Hz$Iz$pyz$HABz$IABz$gjz$hjz$z$tDz$lGz$JABz$KABz$LABz$MABz$Cpz$JABz$NABz$nLz$OABz$PABz$jGz$kGz$z$OEz$Zxz$axz$ZBz$aBz$bxz$cxz$QABz$eez$dxz$exz$Baz$fxz$ulz$vlz$Asz$RABz$z$OEz$PEz$MFz$SABz$byz$TABz$UABz$VABz$WABz$oCz$aXz$z$kCz$z$OEz$Zxz$axz$ZBz$aBz$bxz$cxz$XABz$eez$dxz$exz$Baz$fxz$ulz$vlz$Asz$RABz$z$OEz$PEz$MFz$YABz$byz$TABz$UABz$VABz$ZABz$xHz$yHz$z$DDz$z$HFz$Yaz$z$oDz$hlz$cnz$z$nYz$dnz$z$DDz$z$bqz$z$cqz$z$tDz$GUz$lxz$mxz$nxz$NHz$kFz$lFz$z$OEz$PEz$MFz$aABz$sYz$bABz$cABz$dABz$eABz$fABz$Uyz$gABz$xHz$yHz$z$GHz$HHz$hABz$Xxz$kSz$iABz$LABz$sGz$tGz$uGz$z$OEz$PEz$MFz$jABz$byz$TABz$kABz$wJz$lABz$VABz$vyz$oJz$mABz$NSz$nABz$wEz$Pz$z$kCz$z$ROz$jyz$kyz$lyz$djz$DABz$EABz$FABz$GABz$Dz$oyz$UYz$Gz$Hz$Iz$pyz$HABz$IABz$gjz$hjz$z$OEz$Zxz$axz$ZBz$aBz$bxz$cxz$QABz$eez$dxz$exz$Baz$fxz$ulz$vlz$Asz$RABz$z$Xmz$pDz$oABz$pABz$z$OEz$PEz$MFz$SABz$byz$TABz$UABz$VABz$WABz$oCz$aXz$z$HFz$Yaz$z$oDz$hlz$cnz$z$nYz$dnz$z$DDz$z$bqz$z$aCz$z$tDz$GUz$lxz$mxz$nxz$NHz$kFz$lFz$z$OEz$PEz$MFz$aABz$sYz$bABz$cABz$dABz$eABz$fABz$Uyz$gABz$xHz$yHz$z$GHz$HHz$hABz$Xxz$kSz$iABz$qABz$sGz$tGz$uGz$z$OEz$PEz$MFz$jABz$byz$TABz$kABz$wJz$lABz$VABz$ZABz$rABz$sABz$kSz$WOz$SFz$z$kCz$z$ROz$jyz$kyz$lyz$djz$DABz$EABz$FABz$GABz$Dz$oyz$UYz$Gz$Hz$Iz$pyz$HABz$IABz$gjz$hjz$z$OEz$Zxz$axz$ZBz$aBz$bxz$cxz$XABz$eez$dxz$exz$Baz$fxz$ulz$vlz$Asz$RABz$z$Xmz$pDz$oABz$tABz$z$OEz$PEz$MFz$YABz$byz$TABz$UABz$VABz$ZABz$xHz$yHz$z$HFz$Yaz$z$oDz$hlz$cnz$z$nYz$dnz$z$DDz$z$bqz$z$Atz$z$oDz$hlz$cnz$z$nYz$dnz$z$bqz$z$wwz$z$OEz$PEz$MFz$qOz$rOz$sOz$Uyz$nOz$SFz$z$bqz$z$ywz$z$LFz$z$bqz$z$vwz$z$oDz$FEz$GEz$srz$uABz$vABz$wABz$xABz$yABz$ABBz$z$OEz$PEz$MFz$Anz$Bnz$cKz$oJz$BBBz$cKz$guz$huz$Cnz$Dnz$Enz$Baz$CBBz$DBBz$Fnz$oCz$aXz$z$GDz$Knz$Lnz$Mnz$Ngz$Ogz$Nnz$Onz$vUz$wUz$wBz$xBz$Pnz$TZz$Qnz$Rnz$Snz$cZz$Tnz$Unz$Vnz$z$xEz$XYz$gnz$hnz$Inz$inz$z$ETz$ojz$gvz$hvz$ivz$Onz$jvz$kvz$lvz$mvz$nvz$gQz$hQz$iQz$Pz$z$OEz$PEz$onz$tCz$ovz$pvz$qvz$rvz$xHz$yHz$z$LFz$z$HFz$GGz$z$oDz$hlz$cnz$z$bqz$z$EBBz$z$OEz$PEz$MFz$qqz$FBBz$GBBz$HBBz$IBBz$oCz$aXz$z$ETz$Uaz$Vaz$Waz$LYz$JBBz$KBBz$LBBz$gQz$hQz$iQz$CMz$MBBz$NBBz$OBBz$PBBz$Mpz$QBBz$z$bqz$z$wwz$z$OEz$PEz$MFz$qOz$rOz$sOz$Uyz$RBBz$vvz$Qwz$wEz$Pz$z$HFz$FOz$z$oDz$hlz$cnz$z$bqz$z$ywz$z$MDz$z$TFz$UFz$SBBz$z$uNz$LMz$MMz$z$JGz$KGz$LGz$MGz$NGz$TBBz$z$KMz$LMz$MMz$z$mQz$UBBz$VBBz$WBBz$XBBz$YBBz$ZBBz$sGz$inz$z$oDz$hlz$cnz$z$LFz$z$oDz$pDz$qDz$rDz$aBBz$z$HFz$GGz$z$tZz$uZz$bBBz$z$cBBz$Mcz$dBBz$EBz$z$mQz$Ioz$Joz$FFz$z$wJz$eBBz$fBBz$xpz$rbz$z$cBBz$Mcz$dBBz$MSz$cBBz$Mcz$dBBz$gBBz$gHz$z$tDz$lGz$hBBz$iBBz$jBBz$jwz$qGz$LYz$sGz$tGz$uGz$z$OEz$vJz$z$NDz$PPz$wZz$OYz$kBBz$TQz$qXz$lBBz$uz$mBBz$UYz$nBBz$oBBz$TQz$qXz$pxz$LYz$pBBz$oCz$aXz$z$tz$uz$Ldz$z$mQz$UBBz$qBBz$rBBz$sBBz$MUz$tBBz$inz$z$wJz$xJz$uBBz$vBBz$Cdz$wBBz$Tsz$xBBz$yBBz$ACBz$BCBz$CCBz$DCBz$ECBz$FCBz$GCBz$HCBz$ICBz$JCBz$KCBz$LCBz$MCBz$rbz$z$tDz$lGz$NCBz$MCBz$rbz$OCBz$goz$PCBz$QCBz$NHz$kFz$lFz$z$NDz$PPz$wZz$hJz$RCBz$SCBz$TCBz$Baz$hLz$wEz$Pz$z$tz$uz$vz$z$Bbz$Cbz$Baz$Laz$jHz$tGz$uGz$z$NDz$PPz$wZz$Dbz$Ebz$vaz$UCBz$VCBz$tFz$jHz$Itz$WCBz$dOz$XCBz$YCBz$oCz$aXz$z$kCz$z$tZz$uZz$bBBz$z$DDz$z$GHz$HHz$ZCBz$aCBz$Aqz$bCBz$cCBz$dCBz$eCBz$NHz$kFz$lFz$z$NDz$PPz$wZz$Dbz$fCBz$gCBz$dOz$hCBz$iCBz$jCBz$hKz$SFz$z$tz$uz$vz$z$qz$rz$sz$z$oDz$hlz$cnz$z$oDz$pDz$qDz$rDz$aBBz$z$HFz$GGz$z$tZz$uZz$bBBz$z$BRz$koz$z$GHz$HHz$ZCBz$aCBz$Aqz$bCBz$cCBz$kCBz$lCBz$NHz$kFz$lFz$z$NDz$PPz$wZz$Dbz$mCBz$taz$qcz$nCBz$oCz$aXz$z$ETz$Uaz$Vaz$Waz$LYz$JBBz$KBBz$LBBz$gQz$hQz$iQz$CMz$MBBz$NBBz$OBBz$PBBz$Mpz$QBBz$z$DDz$z$LFz$z$DDz$z$tDz$uDz$oCBz$pCBz$HJz$lHz$jGz$kGz$z$tDz$uDz$vDz$wDz$xDz$yDz$AEz$BCz$z$qCBz$rCBz$sCBz$Qcz$tCBz$uCBz$vCBz$EFz$BCz$z$BEz$CEz$DEz$EEz$z$DDz$z$DDz$z$qCBz$rCBz$sCBz$Qcz$tCBz$wCBz$vCBz$EFz$BCz$z$Bbz$Cbz$Baz$Laz$jHz$tGz$uGz$z$tDz$uDz$vDz$wDz$xDz$Spz$AEz$BCz$z$qz$rz$Dcz$z$wz$xz$Hcz$SHz$THz$UHz$z$ABz$BBz$CBz$DBz$Icz$yOz$Jcz$z$ABz$ZBz$aBz$bBz$xCBz$yCBz$ADBz$GCz$z$ABz$UBz$VBz$WBz$XBz$BDBz$SHz$THz$UHz$z$NDz$PPz$wZz$tCz$ubz$vbz$wbz$xbz$ybz$Acz$fJz$Bcz$CDBz$xHz$yHz$z$DDz$z$kCz$z$tDz$uDz$vDz$wDz$xDz$yDz$AEz$BCz$z$OEz$vJz$z$NDz$PPz$wZz$Ycz$DDBz$EDBz$FDBz$qXz$jqz$GDBz$Gaz$Itz$Hz$Coz$mwz$xHz$yHz$z$qz$rz$sz$z$dBz$eBz$fBz$HDBz$IDBz$JDBz$KDBz$LDBz$Ucz$z$DDz$z$tZz$uZz$bBBz$z$MDBz$NDBz$z$DDz$z$tDz$uDz$vDz$wDz$xDz$yDz$ODBz$ANz$FBz$KBz$LBz$PDBz$AEz$BCz$z$GDz$QDBz$fHz$RDBz$SDBz$yCBz$ADBz$GCz$z$tDz$TDBz$UDBz$VDBz$WDBz$XDBz$YDBz$djz$DABz$DBz$ZDBz$Xcz$aDBz$jGz$kGz$z$NDz$PPz$wZz$Dbz$bDBz$cDBz$dDBz$eDBz$fDBz$gDBz$hDBz$iDBz$jDBz$oJz$kDBz$cKz$lDBz$oMz$mDBz$xHz$yHz$z$afz$bfz$cfz$Lyz$nDBz$oDBz$pDBz$qDBz$rDBz$sDBz$tDBz$uDBz$vDBz$wDBz$xDBz$DZz$z$ABz$ZBz$aBz$bBz$yDBz$dPz$AEBz$BEBz$z$DDz$z$DDz$z$tDz$uDz$vDz$wDz$xDz$yDz$VPz$NBz$OBz$PBz$QBz$RBz$CEBz$DEBz$NUz$tGz$uGz$z$GDz$EEBz$fHz$RDBz$SDBz$yCBz$ADBz$GCz$z$GDz$VHz$FEBz$GEBz$TQz$HEBz$IEBz$Pfz$Qfz$eBz$Rfz$DBz$JEBz$UIz$z$tDz$TDBz$KEBz$VDBz$WDBz$XDBz$YDBz$NBz$OBz$PBz$QBz$LEBz$MEBz$NEBz$rFz$OEBz$qPz$PEBz$tGz$uGz$z$OEz$vJz$z$NDz$PPz$wZz$Ybz$QEBz$sUz$REBz$SEBz$TEBz$UEBz$VEBz$WEBz$XEBz$YEBz$ZEBz$aEBz$Pfz$Qfz$eBz$Rfz$DBz$bEBz$cEBz$oCz$aXz$z$NDz$PPz$wZz$hJz$dEBz$eEBz$tvz$cKz$fEBz$gEBz$oVz$hEBz$hKz$SFz$z$qz$rz$sz$z$tZz$uZz$bBBz$z$MDBz$NDBz$z$DDz$z$DDz$z$tDz$uDz$vDz$wDz$xDz$yDz$AEz$BCz$z$Bbz$Sbz$Tbz$Ubz$Vbz$Wbz$Xbz$kFz$lFz$z$OEz$vJz$z$NDz$PPz$wZz$Ybz$Zbz$abz$bbz$cbz$dbz$ebz$fbz$gbz$hbz$xHz$yHz$z$NDz$PPz$wZz$hJz$ibz$jbz$cKz$kbz$lbz$mbz$nbz$obz$pbz$oCz$aXz$z$ETz$qbz$rbz$pHz$sbz$tbz$z$dBz$hBz$iBz$jBz$kBz$iEBz$hiz$jEBz$kEBz$lEBz$mEBz$Ucz$z$DDz$z$DDz$z$nEBz$oEBz$pEBz$TQz$Bpz$qEBz$rEBz$sEBz$tEBz$z$DDz$z$LFz"
+#!/data/data/com.termux/files/usr/bin/bash
+
+# REblox (Termux) Core Logic [V2 GUI]
+# This script runs locally on the device AFTER installation.
+
+# --- Configuration & State Variables ---
+CONFIG_DIR="$HOME/.termux_reconnector/configs"
+CURRENT_CONFIG=""
+GAME_ID=""
+PLATOBOOST_KEY=""
+DEVICE_ID=""
+PROJECT_ID="21504"
+DISCORD_LINK="https://discord.gg/ZFjE9yqUNy"
+IS_RUNNING=0
+IS_PAUSED=0
+START_TIME=0
+LAST_LAUNCH_TIME=0
+# Arrays and specific tracking variables
+TARGET_PACKAGES=()
+TARGET_WEBHOOK=""
+INTENTIONAL_CRASH_TIMER=0
+LAST_INTENTIONAL_CRASH=0
+LAST_WEBHOOK_TIME=0
+TOTAL_CRASHES=0
+TOTAL_GOOGLE_POPUPS=0
+
+mkdir -p "$CONFIG_DIR"
+
+# --- Utility Functions ---
+
+# Colors using tput if available, fall back to ANSI
+if command -v tput >/dev/null 2>&1; then
+  BOLD=$(tput bold)
+  NORMAL=$(tput sgr0)
+  RED=$(tput setaf 1)
+  GREEN=$(tput setaf 2)
+  YELLOW=$(tput setaf 3)
+  BLUE=$(tput setaf 4)
+  MAG=$(tput setaf 5)
+  CYAN=$(tput setaf 6)
+  GRAY=$(tput setaf 7)
+else
+  BOLD='\e[1m'
+  NORMAL='\e[0m'
+  RED='\e[31m'
+  GREEN='\e[32m'
+  YELLOW='\e[33m'
+  BLUE='\e[34m'
+  MAG='\e[35m'
+  CYAN='\e[36m'
+  GRAY='\e[37m'
+fi
+
+box() {
+  local s="${1}" w=${2:-60}
+  printf "%s\n" "${MAG}┌$(printf '─%.0s' $(seq 1 $((w-2))))┐${NORMAL}"
+  printf "%s\n" "${MAG}│${NORMAL} $(printf '%-'$((w-4))'s' "$s") ${MAG}│${NORMAL}"
+  printf "%s\n" "${MAG}└$(printf '─%.0s' $(seq 1 $((w-2))))┘${NORMAL}"
+}
+
+show_active_monitor() {
+    # We call update_logger to trigger the initial visual draw instead of relying on this static block
+    # This prevents the static block from being drawn and then overwritten poorly.
+    if [[ $IS_RUNNING -eq 1 ]]; then
+        update_logger
+    else
+        show_header "S Y S T E M   A C T I V E"
+        echo -e "Initializing Hardware Monitors...\n"
+    fi
+}
+
+show_progress() {
+    local message="$1"
+    local steps=25
+    local delay=0.1
+    
+    echo -en "\e[1;36m$message\e[0m  "
+    echo -en "\e[1;30m[\e[0m"
+    for ((i=1; i<=steps; i++)); do
+        echo -en "\e[1;32m#\e[0m"
+        sleep "$delay"
+    done
+    echo -e "\e[1;30m]\e[0m \e[1;32mOK\e[0m"
+}
+
+check_root() {
+    if ! su -c 'echo "Root access granted"' >/dev/null 2>&1; then
+        echo -e "\e[31mError: Root access is required to run this script. Please grant su permissions.\e[0m"
+        sleep 2
+        exit 1
+    fi
+}
+
+verify_platoboost_key() {
+    show_header "L I C E N S E   A U T H E N T I C A T I O N"
+    
+    local needs_new_key=0
+
+    if [[ -n "$PLATOBOOST_KEY" ]]; then
+        if [[ "$KEY_EXPIRATION" == "LIFETIME" ]]; then
+            echo -e "\e[32m[+] Cached Lifetime Admin Key found.\e[0m"
+        elif [[ -n "$KEY_EXPIRATION" ]]; then
+            local current_time=$(date +%s)
+            local remaining=$((KEY_EXPIRATION - current_time))
+            
+            if [[ $remaining -le 0 ]]; then
+                echo -e "\e[31m[-] Saved key has expired (00h 00m remaining).\e[0m"
+                needs_new_key=1
+                PLATOBOOST_KEY=""
+            else
+                local rem_d=$((remaining / 86400))
+                local rem_h=$(((remaining % 86400) / 3600))
+                local rem_m=$(((remaining % 3600) / 60))
+                
+                if [[ $rem_d -gt 0 ]]; then
+                    printf "\e[32m[+] Cached Premium Key found! Time remaining: \e[1;33m%02dd %02dh %02dm\e[0m\n" $rem_d $rem_h $rem_m
+                else
+                    printf "\e[32m[+] Cached Daily Key found! Time remaining: \e[1;33m%02dh %02dm\e[0m\n" $rem_h $rem_m
+                fi
+            fi
+        else
+            needs_new_key=1
+        fi
+    else
+        needs_new_key=1
+    fi
+
+    if [[ $needs_new_key -eq 1 ]]; then
+        echo -e "\e[31mNo valid authentication key found.\e[0m"
+        echo -e "\e[33mGet your daily key on our Discord: \e[1;32m$DISCORD_LINK\e[0m"
+        echo -e "\e[36m( Go to the \e[33m#get-key\e[36m channel and get a Valid Access key. )\e[0m"
+        echo ""
+        read -p "Enter your Access Key : " PLATOBOOST_KEY
+    fi
+    
+    show_progress "Authenticating Device HWID..."
+    
+    # Check for direct Instant Admin Key bypass
+    if [[ "$PLATOBOOST_KEY" == ADMIN_GEN_* ]]; then
+        echo -e "\e[32mInstant Admin Key Provider recognized! Bypassing link generation...\e[0m"
+        RESPONSE="true"
+    else
+        # Platorelay V3 Verification Endpoint - Hidden HWID bind
+        RESPONSE=$(curl -s "https://api.platoboost.net/public/whitelist/$PROJECT_ID?identifier=$DEVICE_ID&key=$PLATOBOOST_KEY")
+    fi
+    
+    if echo "$RESPONSE" | grep -qi "true"; then
+        echo -e "\e[32mKey is valid and attached specifically to your Device! Proceeding...\e[0m"
+        
+        # Determine and set Expiration if it is a new valid key that doesn't have an expiration yet
+        if [[ "$PLATOBOOST_KEY" == ADMIN_GEN_* ]]; then
+            KEY_EXPIRATION="LIFETIME"
+        elif [[ "$PLATOBOOST_KEY" == PREMIUM_KEY_* && -z "$KEY_EXPIRATION" ]]; then
+            # 30 Days (2,592,000 Seconds)
+            KEY_EXPIRATION=$(( $(date +%s) + 2592000 ))
+        elif [[ -z "$KEY_EXPIRATION" || $needs_new_key -eq 1 ]]; then
+            # 24 Hours (86,400 Seconds)
+            KEY_EXPIRATION=$(( $(date +%s) + 86400 ))
+        fi
+        
+        save_hwid
+        
+        # Backup Updater Sync (Discord Native Webhook)
+        if [[ -n "$WEBHOOK_URL" ]]; then
+            local json_payload=$(cat <<EOF
+{
+  "embeds": [
+    {
+      "title": "✅ Termux Client Authenticated",
+      "color": 3066993,
+      "fields": [
+        { "name": "💻 Device ID", "value": "\`$DEVICE_ID\`", "inline": true },
+        { "name": "🔑 Key Used", "value": "\`$PLATOBOOST_KEY\`", "inline": true },
+        { "name": "👤 Discord ID", "value": "\`${DISCORD_ID:-Unknown}\`", "inline": true }
+      ],
+      "footer": { "text": "REblox Security Logs" }
+    }
+  ]
+}
+EOF
+)
+            curl -s "$WEBHOOK_URL" -X POST -H "Content-Type: application/json" -d "$json_payload" > /dev/null &
+        fi
+        
+        # If CURRENT_CONFIG is already populated, resave it. Otherwise, it will save when they reach the menu.
+        if [[ -n "$CURRENT_CONFIG" ]]; then save_config; fi
+        sleep 1
+    else
+        # HWID Binding Error messaging
+        if echo "$RESPONSE" | grep -qi "hwid\|device\|already in use"; then
+             echo -e "\e[31mThis key is already used on another device.\e[0m"
+             echo -e "\e[33mReset the HWID of this key on our discord using the 'Reset Key' button in the #get-key section.\e[0m\n"
+        else
+             echo -e "\e[31mInvalid or expired key.\e[0m"
+             echo -e "\e[33mGenerate a new key here: \e[1;32m$DISCORD_LINK\e[0m\n"
+        fi
+        
+        KEY_EXPIRATION=""
+        read -p "Enter your new Access Key : " PLATOBOOST_KEY
+        verify_platoboost_key # Recurse until valid
+    fi
+}
+
+print_msg() {
+    # Print the line clearly and erase the remainder of the line
+    echo -e "\r\033[K$1"
+}
+
+update_logger() {
+    if [[ $IS_RUNNING -eq 1 && $START_TIME -gt 0 ]]; then
+        local current_time=$(date +%s)
+        local elapsed=$((current_time - START_TIME))
+        local hours=$((elapsed / 3600))
+        local minutes=$(((elapsed % 3600) / 60))
+        local seconds=$((elapsed % 60))
+
+        local time_str=""
+        if [[ $hours -gt 0 ]]; then time_str="${hours}h "; fi
+        if [[ $minutes -gt 0 || $hours -gt 0 ]]; then time_str="${time_str}${minutes}m "; fi
+        time_str="${time_str}${seconds}s"
+        # Safe Hardware polling (Pure Bash string splitting to avoid any C-binary stack corruption on emulators)
+        
+        # CPU Polling (Pure Bash parsing of /proc/stat)
+        local cpu_raw="N/A"
+        local cpu_v1=$(su -c "cat /proc/stat 2>/dev/null")
+        local cpu_line1=""
+        while IFS= read -r line; do if [[ "$line" == cpu\ * ]]; then cpu_line1="$line"; break; fi; done <<< "$cpu_v1"
+        sleep 0.2
+        local cpu_v2=$(su -c "cat /proc/stat 2>/dev/null")
+        local cpu_line2=""
+        while IFS= read -r line; do if [[ "$line" == cpu\ * ]]; then cpu_line2="$line"; break; fi; done <<< "$cpu_v2"
+        
+        if [[ -n "$cpu_line1" && -n "$cpu_line2" ]]; then
+            read -r _ u1 n1 s1 i1 iow1 irq1 soft1 steal1 _ <<< "$cpu_line1"
+            read -r _ u2 n2 s2 i2 iow2 irq2 soft2 steal2 _ <<< "$cpu_line2"
+            
+            if [[ "$u1" =~ ^[0-9]+$ && "$u2" =~ ^[0-9]+$ ]]; then
+                local active1=$((u1 + n1 + s1))
+                local active2=$((u2 + n2 + s2))
+                local total1=$((active1 + i1 + iow1 + irq1 + soft1 + steal1))
+                local total2=$((active2 + i2 + iow2 + irq2 + soft2 + steal2))
+                
+                local active_diff=$((active2 - active1))
+                local total_diff=$((total2 - total1))
+                
+                if [[ $total_diff -gt 0 ]]; then
+                    cpu_raw=$(( (active_diff * 100) / total_diff ))
+                fi
+            fi
+        fi
+        
+        # RAM Polling (Pure Bash parsing of /proc/meminfo)
+        local meminfo=$(su -c "cat /proc/meminfo 2>/dev/null")
+        local mem_total_kb=0
+        local mem_avail_kb=0
+        local mem_free_kb=0
+        local mem_cached_kb=0
+        
+        while IFS= read -r line; do
+            if [[ "$line" == MemTotal:* ]]; then
+                mem_total_kb="${line//[^0-9]/}"
+            elif [[ "$line" == MemAvailable:* ]]; then
+                mem_avail_kb="${line//[^0-9]/}"
+            elif [[ "$line" == MemFree:* ]]; then
+                mem_free_kb="${line//[^0-9]/}"
+            elif [[ "$line" == Cached:* ]]; then
+                mem_cached_kb="${line//[^0-9]/}"
+            fi
+        done <<< "$meminfo"
+        
+        if [[ -z "$mem_avail_kb" || "$mem_avail_kb" -eq 0 ]]; then
+            mem_avail_kb=$((mem_free_kb + mem_cached_kb))
+        fi
+        
+        local mem_total="N/A"
+        local mem_used="N/A"
+        if [[ "$mem_total_kb" =~ ^[0-9]+$ && "$mem_total_kb" -gt 0 ]]; then
+            mem_total=$((mem_total_kb / 1024))
+            local mem_used_kb=$((mem_total_kb - mem_avail_kb))
+            mem_used=$((mem_used_kb / 1024))
+        fi
+        
+        # Storage Polling (Using Android's native df via /system/bin/df and pure bash parsing)
+        local storage_lines=$(su -c "/system/bin/df /data 2>/dev/null")
+        local storage_info=""
+        while IFS= read -r line; do
+            if [[ -n "$line" && "$line" != *"Filesystem"* ]]; then
+                storage_info="$line"
+            fi
+        done <<< "$storage_lines"
+        
+        local storage_total="N/A"
+        local storage_used="N/A"
+        if [[ -n "$storage_info" ]]; then
+            read -r _ s_tot_kb s_used_kb _ <<< "$storage_info"
+            
+            local clean_tot="${s_tot_kb//[^0-9]/}"
+            local clean_usd="${s_used_kb//[^0-9]/}"
+            
+            if [[ -n "$clean_tot" && "$clean_tot" == "$s_tot_kb" && -n "$clean_usd" && "$clean_usd" == "$s_used_kb" ]]; then
+                local tot_gb=$((clean_tot / 1048576))
+                local tot_dec=$(((clean_tot % 1048576) * 10 / 1048576))
+                
+                local usd_gb=$((clean_usd / 1048576))
+                local usd_dec=$(((clean_usd % 1048576) * 10 / 1048576))
+                
+                storage_total="${tot_gb}.${tot_dec}G"
+                storage_used="${usd_gb}.${usd_dec}G"
+            else
+                if [[ -n "$s_tot_kb" && -n "$s_used_kb" ]]; then
+                    storage_total="$s_tot_kb"
+                    storage_used="$s_used_kb"
+                fi
+            fi
+        fi
+        
+        # Device details
+        local dev_model=$(getprop ro.product.model 2>/dev/null || echo "Unknown Device")
+        local dev_manu=$(getprop ro.product.manufacturer 2>/dev/null || echo "")
+        
+        # We need to overwrite a specific block of lines statically so the prompt doesn't jump
+        # Move cursor up 11 lines to the start of the dynamic block, redraw, then move back down.
+        # However, to avoid terminal clutter, it's safer to just redraw the whole monitor cleanly if it's the interval,
+        # OR use specific ANSI absolute/relative drops. Since Termux handles `\033[<N>A` (cursor up) well:
+        
+        echo -ne "\033[s" # Save cursor position
+        
+        # Let's clear the screen slightly, but a full redraw is cleaner for Android Termux since sizing varies.
+        # Actually, `tput cup` or ANSI absolute positioning is best. We'll redraw the whole screen smoothly if we must,
+        # but to avoid flicker, let's just clear the screen entirely every few seconds.
+        # For a truly smooth experience, we'll redraw only the data block.
+        
+        # For simplicity and robust display on Termux, let's just clear and redraw the whole screen cleanly.
+        show_header "S Y S T E M   A C T I V E"
+        
+        echo -e "Device Name   : \e[1;36m${dev_manu} ${dev_model}\e[0m"
+        echo -e "CPU Usage     : \e[1;33m${cpu_raw}%\e[0m"
+        echo -e "Storage Usage : \e[1;33m${storage_used} of ${storage_total}\e[0m"
+        echo -e "RAM Usage     : \e[1;33m${mem_used}MB of ${mem_total}MB\e[0m"
+        echo ""
+        echo -e "Connected to Game ID  : \e[1;32m${GAME_ID}\e[0m"
+        echo -e "Time Lapsed Connected : \e[1;32m${time_str}\e[0m"
+        echo ""
+        echo -e "If you want to stop Write \e[1;31mStop\e[0m :"
+        
+        # Restore prompt placeholder at the bottom purely for the visual
+        echo -ne "> " 
+    fi
+}
+
+is_roblox_running() {
+    # Check if ANY of the target packages are running
+    for pkg in "${TARGET_PACKAGES[@]}"; do
+        local pid=$(su -c "pidof $pkg" 2>/dev/null)
+        if [[ -n "$pid" ]]; then
+            return 0 # True, at least one is running
+        fi
+    done
+    return 1 # False, none are running
+}
+
+# Function to check if the Google Sign-in window has stolen focus
+is_google_signin_focused() {
+    # We check the currently focused window using dumpsys
+    local focused_window=$(su -c "dumpsys window displays | grep -E 'mCurrentFocus|mFocusedApp'")
+    
+    # If the focused window belongs to Google Play Services (gms) or an account picker, return 0 (true)
+    if echo "$focused_window" | grep -qiE "com.google.android.gms|accounts.AccountChecker|SignInActivity"; then
+        return 0
+    else
+        return 1
+    fi
+}
+
+
+
+launch_game() {
+    print_msg "\e[33mEnsuring Roblox packages are closed before launch...\e[0m"
+    for pkg in "${TARGET_PACKAGES[@]}"; do
+        local is_running=$(su -c "pidof $pkg" 2>/dev/null)
+        if [[ -n "$is_running" ]]; then
+            su -c "am force-stop $pkg"
+        fi
+    done
+    sleep 3
+
+    for pkg in "${TARGET_PACKAGES[@]}"; do
+        su -c "am start -a android.intent.action.VIEW -d \"roblox://placeId=${GAME_ID}\" $pkg >/dev/null 2>&1"
+    done
+    
+    show_progress "Injecting Roblox Memory Space..."
+    sleep 1
+    
+    if is_roblox_running; then
+        print_msg "\e[36mRoblox is opened.\e[0m"
+        print_msg "\e[33mWaiting to enter the game (45s grace period)...\e[0m"
+        sleep 3
+        
+        # Check if Google caught the intent and threw a sign-in wall
+        if is_google_signin_focused; then
+            print_msg "\e[35m[!] Google window has been detected.\e[0m"
+            print_msg "\e[33mDismissing Google Sign-In prompt...\e[0m"
+            # Simulate pressing the Android 'Back' button to close the popup
+            su -c "input keyevent 4"
+            sleep 2
+        fi
+        
+        print_msg "\e[32mSuccessfully connected to the game.\e[0m"
+        IS_RUNNING=1
+        RETRY_COUNT=0
+        START_TIME=$(date +%s)
+        LAST_LAUNCH_TIME=$(date +%s)
+    else
+        IS_RUNNING=0
+        if [[ -z "$RETRY_COUNT" ]]; then RETRY_COUNT=0; fi
+        RETRY_COUNT=$((RETRY_COUNT + 1))
+        
+        if [[ $RETRY_COUNT -ge 6 ]]; then
+            print_msg "\e[31m[CRITICAL FAILURE] Roblox failed to launch 6 times consecutively.\e[0m"
+            print_msg "\e[33mPausing REblox to prevent CPU thermal overload.\e[0m"
+            print_msg "\e[36mType 'resume' if you want to force try again.\e[0m"
+            IS_PAUSED=1
+        else
+            local backoff=$(( (2 ** RETRY_COUNT) * 5 ))
+            print_msg "\e[31mProcess drop detected. Thermal Backoff: Retrying ($RETRY_COUNT/6) in $backoff seconds...\e[0m"
+            sleep $backoff
+        fi
+    fi
+}
+
+# --- Device HWID Management ---
+load_hwid() {
+    # We store the global HWID and Platoboost key centrally since they apply to the whole device, not specific game configs.
+    local auth_file="$HOME/.termux_reconnector_auth"
+    if [[ -f "$auth_file" ]]; then
+        source "$auth_file"
+    fi
+    
+    if [[ -z "$DEVICE_ID" ]]; then
+        DEVICE_ID="DEV-$(cat /proc/sys/kernel/random/uuid | cut -c 1-8 | tr 'a-z' 'A-Z')"
+        echo "DEVICE_ID=\"$DEVICE_ID\"" > "$auth_file"
+    fi
+    echo -e "\e[32mDevice HWID: $DEVICE_ID\e[0m"
+}
+
+save_hwid() {
+    local auth_file="$HOME/.termux_reconnector_auth"
+    echo "DEVICE_ID=\"$DEVICE_ID\"" > "$auth_file"
+    echo "PLATOBOOST_KEY=\"$PLATOBOOST_KEY\"" >> "$auth_file"
+    echo "KEY_EXPIRATION=\"$KEY_EXPIRATION\"" >> "$auth_file"
+}
+
+load_config() {
+    if [[ -f "$CURRENT_CONFIG" ]]; then
+        source "$CURRENT_CONFIG"
+        # TARGET_PACKAGES is loaded as an array string, we must evaluate it or load line by line.
+        # It's safer to source it if written properly in save_config
+    fi
+}
+
+save_config() {
+    # Generate array string representation securely
+    local pkg_str="("
+    for pkg in "${TARGET_PACKAGES[@]}"; do
+        pkg_str+="\"$pkg\" "
+    done
+    pkg_str+=")"
+    
+    echo "GAME_ID=\"$GAME_ID\"" > "$CURRENT_CONFIG"
+    echo "TARGET_WEBHOOK=\"$TARGET_WEBHOOK\"" >> "$CURRENT_CONFIG"
+    echo "INTENTIONAL_CRASH_TIMER=\"$INTENTIONAL_CRASH_TIMER\"" >> "$CURRENT_CONFIG"
+    echo "TARGET_PACKAGES=$pkg_str" >> "$CURRENT_CONFIG"
+}
+
+# --- Webhook Logger ---
+trigger_webhook() {
+    if [[ -z "$TARGET_WEBHOOK" ]]; then return; fi
+    
+    local img_path="/sdcard/termux_monitor_snap.png"
+    # Take screenshot as root and save to accessible SD card location
+    su -c "screencap -p $img_path"
+    
+    # Gather Metrics
+    local mem_total=$(su -c "free -m | grep Mem | awk '{print \$2}'" | tr -d '\r')
+    local mem_used=$(su -c "free -m | grep Mem | awk '{print \$3}'" | tr -d '\r')
+    
+    local uptime_seconds=$(awk '{print int($1)}' /proc/uptime)
+    local uptime_hours=$((uptime_seconds / 3600))
+    local uptime_mins=$(((uptime_seconds % 3600) / 60))
+    local device_uptime="${uptime_hours}h ${uptime_mins}m"
+    
+    local current_time=$(date +%s)
+    local script_elapsed=$((current_time - START_TIME))
+    local script_mins=$(((script_elapsed % 3600) / 60))
+    local script_hours=$((script_elapsed / 3600))
+    
+    # We use jq to build the JSON safely if available, but for raw bash we format carefully.
+    local json_payload=$(cat <<EOF
+{
+  "embeds": [
+    {
+      "title": "Status Report: active",
+      "color": 3922152,
+      "fields": [
+        { "name": "💻 HWID", "value": "\`$DEVICE_ID\`", "inline": true },
+        { "name": "⏱ Script Uptime", "value": "\`${script_hours}h ${script_mins}m\`", "inline": true },
+        { "name": "🔋 Device Uptime", "value": "\`${device_uptime}\`", "inline": true },
+        { "name": "💥 Crashes Recovered", "value": "\`$TOTAL_CRASHES\`", "inline": true },
+        { "name": "🧩 Google Sign-Ins", "value": "\`$TOTAL_GOOGLE_POPUPS\`", "inline": true },
+        { "name": "📊 Device RAM", "value": "\`${mem_used}MB / ${mem_total}MB\`", "inline": true }
+      ],
+      "footer": { "text": "REblox Analytics" }
+    }
+  ]
+}
+EOF
+)
+    
+    # Post JSON Embed, then Post Screenshot (Standard Discord webhook format requires multipart if sending image together, 
+    # but the easiest Bash way is sending two fast payloads: The Embed, then the Raw File).
+    curl -s -H "Content-Type: application/json" -X POST -d "$json_payload" "$TARGET_WEBHOOK" >/dev/null
+    
+    # Send image
+    curl -s -F "file=@$img_path" "$TARGET_WEBHOOK" >/dev/null
+    
+    # Cleanup image
+    su -c "rm -f $img_path"
+}
+
+# --- GUI Menu ---
+show_header() {
+    local page_title="$1"
+    clear
+    echo -e "${GRAY}------------------ REblox - BY RiTiKM416 --------------------${NORMAL}\n"
+    
+    echo -e "${MAG}  ____  _____ _     _             ${NORMAL}"
+    echo -e "${MAG} |  _ \| ____| |__ | | _____  __  ${NORMAL}"
+    echo -e "${BLUE} | |_) |  _| | '_ \| |/ _ \ \/ /  ${NORMAL}"
+    echo -e "${CYAN} |  _ <| |___| |_) | | (_) >  <   ${NORMAL}"
+    echo -e "${CYAN} |_| \_\_____|_.__/|_|\___/_/\_\  ${NORMAL}\n"
+    
+    if [[ -n "$page_title" ]]; then
+        # Calculate padding to center the title roughly (assuming 42 chars width for the divider)
+        local title_len=${#page_title}
+        local pad_len=$(( (42 - title_len) / 2 ))
+        local padding=$(printf '%*s' "$pad_len" '')
+        echo -e "${BOLD}${padding}${page_title}${NORMAL}"
+        echo -e "${GRAY}==========================================${NORMAL}\n"
+    fi
+}
+
+show_menu() {
+    show_header "H O M E   P A G E"
+    
+    echo -e "  ${CYAN}[1]${NORMAL} Start Reconnector"    
+    echo -e "  ${CYAN}[2]${NORMAL} Create a config"
+    echo -e "  ${CYAN}[3]${NORMAL} Load existing Config"    
+    echo -e "  ${CYAN}[4]${NORMAL} Start loaded config"
+    echo -e "  ${CYAN}[5]${NORMAL} Edit or Delete Config"
+    echo -e "  ${CYAN}[6]${NORMAL} Select all available Roblox"
+    echo -e "  ${CYAN}[7]${NORMAL} Setup Discord Webhook"
+    echo -e "  ${CYAN}[8]${NORMAL} Logout Roblox"
+    echo -e "  ${CYAN}[9]${NORMAL} Exit Application\n"
+    
+    echo -e "${GRAY}==========================================${NORMAL}\n"
+    
+    read -p "to Select an option : " menu_choice
+    
+    case $menu_choice in
+        1)
+            # 1. Start Reconnector (Quick Start)
+            show_header "Q U I C K   S T A R T"
+            
+            echo -e "\e[33mScanning for installed Roblox packages...\e[0m\n"
+            local available_pkgs=()
+            local raw_pkgs=$(su -c "ls /data/data 2>/dev/null | grep -i 'roblox'" | tr -d '\r')
+            
+            if [[ -z "$raw_pkgs" ]]; then
+                echo -e "\e[31mNo Roblox packages detected!\e[0m"
+                sleep 2
+                show_menu
+                return
+            fi
+            
+            local i=1
+            for pkg in $raw_pkgs; do
+                available_pkgs+=("$pkg")
+                echo -e "  \e[1;36m${i}.\e[0m \e[1;33m$pkg\e[0m"
+                ((i++))
+            done
+            
+            echo ""
+            echo -e "  \e[1;31m0.\e[0m \e[1;37mAfter selecting Packages Select 0 to proceed.\e[0m"
+            echo ""
+            
+            TARGET_PACKAGES=()
+            while true; do
+                if [[ ${#TARGET_PACKAGES[@]} -gt 0 ]]; then
+                    echo -e "\e[32mCurrently Selected:\e[0m ${TARGET_PACKAGES[@]}"
+                fi
+                read -p "Select Roblox packages : " pkg_selections
+                
+                local finish=0
+                for sel in $pkg_selections; do
+                    if [[ "$sel" == "0" ]]; then
+                        finish=1
+                        break
+                    fi
+                    local idx=$((sel - 1))
+                    if [[ $idx -ge 0 && $idx -lt ${#available_pkgs[@]} ]]; then
+                        local exists=0
+                        for added in "${TARGET_PACKAGES[@]}"; do
+                            if [[ "$added" == "${available_pkgs[$idx]}" ]]; then exists=1; fi
+                        done
+                        if [[ $exists -eq 0 ]]; then
+                            TARGET_PACKAGES+=("${available_pkgs[$idx]}")
+                        fi
+                    fi
+                done
+                
+                if [[ $finish -eq 1 ]]; then
+                    break
+                fi
+                echo ""
+            done
+            
+            if [[ ${#TARGET_PACKAGES[@]} -eq 0 ]]; then
+                echo -e "\e[31mNo valid packages selected. Returning to menu.\e[0m"
+                sleep 2
+                show_menu
+                return
+            fi
+            
+            echo ""
+            read -p "Enter Target Game ID (Ex: 9587807821): " GAME_ID
+            
+            echo ""
+            read -p "Reconnect Timer ( eg 10m 30m 120m ) : " timer_input
+            
+            if [[ -z "$timer_input" || "${timer_input,,}" == "none" ]]; then
+                INTENTIONAL_CRASH_TIMER=0
+            else
+                local clean_num=$(echo "$timer_input" | tr -cd '0-9')
+                if [[ -n "$clean_num" && "$clean_num" -ge 10 ]]; then
+                    INTENTIONAL_CRASH_TIMER=$clean_num
+                else
+                    echo -e "\e[33mInvalid or too short. Disabling intentional crash.\e[0m"
+                    INTENTIONAL_CRASH_TIMER=0
+                fi
+            fi
+            
+            CURRENT_CONFIG="QUICK_START"
+            return
+            ;;
+        2)
+            # 2. Create a config
+            show_header "C R E A T E   C O N F I G"
+            
+            # Step 1: Detect Packages
+            echo -e "\e[33mScanning for installed Roblox packages...\e[0m\n"
+            local available_pkgs=()
+            
+            local raw_pkgs=$(su -c "ls /data/data 2>/dev/null | grep -i 'roblox'" | tr -d '\r')
+            
+            if [[ -z "$raw_pkgs" ]]; then
+                echo -e "\e[31mNo Roblox packages detected on this device!\e[0m"
+                sleep 2
+                show_menu
+                return
+            fi
+            
+            local i=1
+            for pkg in $raw_pkgs; do
+                available_pkgs+=("$pkg")
+                echo -e "  \e[1;36m${i}.\e[0m \e[1;33m$pkg\e[0m"
+                ((i++))
+            done
+            
+            echo ""
+            echo -e "  \e[1;31m0.\e[0m \e[1;37mAfter selecting Packages Select 0 to proceed.\e[0m"
+            echo ""
+            
+            TARGET_PACKAGES=()
+            while true; do
+                if [[ ${#TARGET_PACKAGES[@]} -gt 0 ]]; then
+                    echo -e "\e[32mCurrently Selected:\e[0m ${TARGET_PACKAGES[@]}"
+                fi
+                read -p "Select Roblox packages : " pkg_selections
+                
+                local finish=0
+                for sel in $pkg_selections; do
+                    if [[ "$sel" == "0" ]]; then
+                        finish=1
+                        break
+                    fi
+                    local idx=$((sel - 1))
+                    if [[ $idx -ge 0 && $idx -lt ${#available_pkgs[@]} ]]; then
+                        local exists=0
+                        for added in "${TARGET_PACKAGES[@]}"; do
+                            if [[ "$added" == "${available_pkgs[$idx]}" ]]; then exists=1; fi
+                        done
+                        if [[ $exists -eq 0 ]]; then
+                            TARGET_PACKAGES+=("${available_pkgs[$idx]}")
+                        fi
+                    fi
+                done
+                
+                if [[ $finish -eq 1 ]]; then
+                    break
+                fi
+                echo ""
+            done
+            
+            if [[ ${#TARGET_PACKAGES[@]} -eq 0 ]]; then
+                echo -e "\e[31mNo valid packages selected. Aborting config creation.\e[0m"
+                sleep 2
+                show_menu
+                return
+            fi
+            
+            # Step 2: Game ID
+            echo ""
+            read -p "Enter Target Game ID (Ex: 9587807821): " GAME_ID
+            
+            # Step 3: Intentional Crash Timer
+            echo ""
+            read -p "Reconnect Timer ( eg 10m 30m 120m ) : " timer_input
+            
+            if [[ -z "$timer_input" || "${timer_input,,}" == "none" ]]; then
+                INTENTIONAL_CRASH_TIMER=0
+            else
+                local clean_num=$(echo "$timer_input" | tr -cd '0-9')
+                if [[ -n "$clean_num" && "$clean_num" -ge 10 ]]; then
+                    INTENTIONAL_CRASH_TIMER=$clean_num
+                else
+                    echo -e "\e[33mInvalid or too short. Disabling intentional crash.\e[0m"
+                    INTENTIONAL_CRASH_TIMER=0
+                fi
+            fi
+            
+            # Step 4: Webhook
+            echo ""
+            echo -e "\e[36mEnter Discord Webhook URL for Analytics (Leave blank to disable):\e[0m"
+            read -p "> " TARGET_WEBHOOK
+            
+            # Step 5: Save Name
+            echo ""
+            read -p "Enter a name for this Config (e.g., Farm_1): " conf_name
+            if [[ -z "$conf_name" ]]; then conf_name="Default_Config"; fi
+            
+            conf_name=${conf_name// /_}
+            CURRENT_CONFIG="$CONFIG_DIR/$conf_name.conf"
+            
+            save_config
+            echo -e "\e[32mConfig '$conf_name' successfully saved and loaded!\e[0m"
+            sleep 2
+            show_menu
+            ;;
+        3)
+            # 3. Load existing Config
+            show_header "L O A D   C O N F I G"
+            
+            local conf_files=()
+            local i=1
+            for f in "$CONFIG_DIR"/*.conf; do
+                if [[ -f "$f" ]]; then
+                    conf_files+=("$f")
+                    local basename=$(basename "$f" .conf)
+                    echo -e "  \e[1;33m[$i]\e[0m $basename"
+                    ((i++))
+                fi
+            done
+            
+            if [[ ${#conf_files[@]} -eq 0 ]]; then
+                echo -e "\e[31mNo configurations found.\e[0m"
+                sleep 2
+                show_menu
+                return
+            fi
+            
+            echo -e "  \e[1;31m[0]\e[0m Back"
+            echo ""
+            read -p "Select a config to load by number: " conf_choice
+            
+            if [[ "$conf_choice" == "0" ]]; then
+                show_menu
+                return
+            fi
+            
+            local array_index=$((conf_choice - 1))
+            if [[ $array_index -ge 0 && $array_index -lt ${#conf_files[@]} ]]; then
+                CURRENT_CONFIG="${conf_files[$array_index]}"
+                load_config
+                echo -e "\e[32mSuccessfully loaded config!\e[0m"
+                sleep 1
+            else
+                echo -e "\e[31mInvalid selection.\e[0m"
+                sleep 2
+            fi
+            show_menu
+            ;;
+        4)
+            # 4. Start loaded config
+            if [[ -z "$CURRENT_CONFIG" ]]; then
+                echo -e "\e[31mNo config loaded. Please load a config first using option 3.\e[0m"
+                sleep 2
+                show_menu
+                return
+            fi
+            echo -e "\e[32mStarting configured session...\e[0m"
+            return
+            ;;
+        5)
+            # 5. Delete Config
+            show_header "D E L E T E   C O N F I G"
+            
+            local conf_files=()
+            local i=1
+            for f in "$CONFIG_DIR"/*.conf; do
+                if [[ -f "$f" ]]; then
+                    conf_files+=("$f")
+                    local basename=$(basename "$f" .conf)
+                    echo -e "  \e[1;33m[$i]\e[0m $basename"
+                    ((i++))
+                fi
+            done
+            
+            if [[ ${#conf_files[@]} -eq 0 ]]; then
+                echo -e "\e[31mThere are no config available. Redirecting to Home Page.\e[0m"
+                sleep 2
+                show_menu
+                return
+            fi
+            
+            echo -e "  \e[1;31m[0]\e[0m Cancel & Go Back"
+            echo ""
+            read -p "Select The Config : " conf_choice
+            
+            if [[ "$conf_choice" == "0" ]]; then
+                show_menu
+                return
+            fi
+            
+            local array_index=$((conf_choice - 1))
+            if [[ $array_index -ge 0 && $array_index -lt ${#conf_files[@]} ]]; then
+                local del_target="${conf_files[$array_index]}"
+                local basename=$(basename "$del_target" .conf)
+                echo ""
+                echo -e "\e[41m\e[1;37m WARNING: Config '$basename' will be deleted permanently! \e[0m"
+                read -p "Press [Enter] to delete or [Ctrl+C] to abort..."
+                rm -f "$del_target"
+                echo -e "\e[32mConfig deleted successfully!\e[0m"
+                sleep 2
+            else
+                echo -e "\e[31mInvalid selection.\e[0m"
+                sleep 2
+            fi
+            show_menu
+            ;;
+        6)
+            # 6. Select all available Roblox
+            show_header "G A M E   M A N A G E R"
+            echo -e "\e[33mScanning for installed Roblox packages...\e[0m\n"
+            local raw_pkgs=$(su -c "ls /data/data 2>/dev/null | grep -i 'roblox'" | tr -d '\r')
+            if [[ -z "$raw_pkgs" ]]; then
+                echo -e "\e[31mNo Roblox packages detected!\e[0m"
+                sleep 2
+                show_menu
+                return
+            fi
+            
+            TARGET_PACKAGES=()
+            local i=0
+            for pkg in $raw_pkgs; do
+                TARGET_PACKAGES+=("$pkg")
+                echo -e "  \e[1;32m[✓]\e[0m \e[1;33m$pkg\e[0m"
+                ((i++))
+            done
+            echo -e "\n\e[32mAll $i packages selected.\e[0m\n"
+            
+            # Sub-menu Loop
+            while true; do
+                echo -e "\e[1;30m--------------------------------------\e[0m"
+                echo -e "  \e[36m1.\e[0m Enter a Game ID"
+                echo -e "  \e[36m2.\e[0m Launch Selected Roblox"
+                echo -e "  \e[36m3.\e[0m Logout all Accounts"
+                echo -e "  \e[36m4.\e[0m Clear Selected Roblox's Cache"
+                echo -e "  \e[36m5.\e[0m Clear Selected Roblox's Data"
+                echo -e "  \e[36m6.\e[0m Uninstall Selected Roblox"
+                echo -e "  \e[36m7.\e[0m Go to Menu\n"
+                
+                read -p "Select an action: " rblx_action
+                
+                case $rblx_action in
+                    1)
+                        read -p "Enter Target Game ID: " GAME_ID
+                        read -p "Reconnect Timer ( eg 10m 30m 120m ) : " timer_input
+                        if [[ -z "$timer_input" || "${timer_input,,}" == "none" ]]; then
+                            INTENTIONAL_CRASH_TIMER=0
+                        else
+                            local clean_num=$(echo "$timer_input" | tr -cd '0-9')
+                            if [[ -n "$clean_num" && "$clean_num" -ge 10 ]]; then
+                                INTENTIONAL_CRASH_TIMER=$clean_num
+                            else
+                                INTENTIONAL_CRASH_TIMER=0
+                            fi
+                        fi
+                        echo -e "\e[32mSettings applied. Launching all packages sequentially...\e[0m"
+                        CURRENT_CONFIG="QUICK_START"
+                        return
+                        ;;
+                    2)
+                        echo -e "\e[32mLaunching all selected packages...\e[0m"
+                        GAME_ID="none"
+                        INTENTIONAL_CRASH_TIMER=0
+                        CURRENT_CONFIG="QUICK_START"
+                        return
+                        ;;
+                    3)
+                        echo -e "\e[33mLogging out all accounts in selected packages...\e[0m"
+                        for pkg in "${TARGET_PACKAGES[@]}"; do
+                            su -c "rm -rf /data/data/$pkg/shared_prefs/* 2>/dev/null"
+                            echo -e "  \e[32m$pkg logged out.\e[0m"
+                        done
+                        ;;
+                    4)
+                        echo -e "\e[33mClearing cache for selected packages...\e[0m"
+                        for pkg in "${TARGET_PACKAGES[@]}"; do
+                            su -c "rm -rf /data/data/$pkg/cache/* /data/data/$pkg/code_cache/* 2>/dev/null"
+                            echo -e "  \e[32m$pkg cache cleared.\e[0m"
+                        done
+                        ;;
+                    5)
+                        echo -e "\e[33mClearing application data for selected packages...\e[0m"
+                        for pkg in "${TARGET_PACKAGES[@]}"; do
+                            su -c "pm clear $pkg >/dev/null 2>&1"
+                            echo -e "  \e[32m$pkg data cleared.\e[0m"
+                        done
+                        ;;
+                    6)
+                        echo -e "\n\e[41m\e[1;37m WARNING: This will uninstall all selected Roblox packages! \e[0m"
+                        read -p "Are you sure? (yes/no): " confirm_un
+                        if [[ "${confirm_un,,}" == "yes" ]]; then
+                            for pkg in "${TARGET_PACKAGES[@]}"; do
+                                echo -e "  \e[33m$pkg deleting....\e[0m"
+                                su -c "pm uninstall $pkg >/dev/null 2>&1"
+                                echo -e "  \e[32m$pkg deleted.\e[0m"
+                            done
+                            echo -e "\e[32mUninstallation complete.\e[0m"
+                            sleep 2
+                            show_menu
+                            return
+                        else
+                            echo -e "\e[31mAborted.\e[0m"
+                        fi
+                        ;;
+                    7)
+                        show_menu
+                        return
+                        ;;
+                    *)
+                        echo -e "\e[31mInvalid action.\e[0m"
+                        ;;
+                esac
+            done
+            ;;
+        7)
+            # 7. Setup Discord Webhook
+            show_header "D I S C O R D   W E B H O O K"
+            
+            # Check global env file for webhook
+            local env_hook=$(grep "GLOBAL_WEBHOOK=" "$HOME/.roblox_reconnector.conf" 2>/dev/null | cut -d'"' -f2)
+            local hook_active=$(grep "GLOBAL_WEBHOOK_ACTIVE=" "$HOME/.roblox_reconnector.conf" 2>/dev/null | cut -d'=' -f2)
+            
+            if [[ -n "$env_hook" ]]; then
+                echo -e "Webhook URL is Present."
+                if [[ "$hook_active" == "1" ]]; then
+                    echo -e "Status: \e[32mActive\e[0m\n"
+                    TARGET_WEBHOOK="$env_hook"
+                else
+                    echo -e "Status: \e[31mInactive\e[0m\n"
+                    TARGET_WEBHOOK=""
+                fi
+            else
+                echo -e "Webhook URL is \e[31mNot Set\e[0m.\n"
+                TARGET_WEBHOOK=""
+            fi
+            
+            while true; do
+                echo -e "  \e[36m1.\e[0m Change Webhook URL"
+                echo -e "  \e[36m2.\e[0m Turn on Webhook"
+                echo -e "  \e[36m3.\e[0m Turn off webhook"
+                echo -e "  \e[36m4.\e[0m Home\n"
+                
+                read -p "Select an option: " wh_action
+                
+                case $wh_action in
+                    1)
+                        read -p "Enter new Webhook URL: " new_hook
+                        if [[ -n "$new_hook" ]]; then
+                            # Update conf
+                            sed -i '/GLOBAL_WEBHOOK=/d' "$HOME/.roblox_reconnector.conf" 2>/dev/null
+                            echo "GLOBAL_WEBHOOK=\"$new_hook\"" >> "$HOME/.roblox_reconnector.conf"
+                            env_hook="$new_hook"
+                            
+                            read -p "Do you want to turn on Webhook? (1. Yes / 2. No): " wh_on
+                            sed -i '/GLOBAL_WEBHOOK_ACTIVE=/d' "$HOME/.roblox_reconnector.conf" 2>/dev/null
+                            if [[ "$wh_on" == "1" || "${wh_on,,}" == "yes" ]]; then
+                                echo "GLOBAL_WEBHOOK_ACTIVE=1" >> "$HOME/.roblox_reconnector.conf"
+                                echo -e "\e[32mWebhook is turned on.\e[0m"
+                            else
+                                echo "GLOBAL_WEBHOOK_ACTIVE=0" >> "$HOME/.roblox_reconnector.conf"
+                                echo -e "\e[31mWebhook is turned off.\e[0m"
+                            fi
+                            sleep 3
+                            show_menu
+                            return
+                        fi
+                        ;;
+                    2)
+                        if [[ -z "$env_hook" ]]; then
+                            echo -e "\e[31mPlease add a URL first (Option 1).\e[0m"
+                        elif [[ "$hook_active" == "1" ]]; then
+                            echo -e "\e[33mWebhook is already turned on and its active.\e[0m"
+                        else
+                            sed -i '/GLOBAL_WEBHOOK_ACTIVE=/d' "$HOME/.roblox_reconnector.conf" 2>/dev/null
+                            echo "GLOBAL_WEBHOOK_ACTIVE=1" >> "$HOME/.roblox_reconnector.conf"
+                            hook_active="1"
+                            echo -e "\e[32mWebhook is turned on.\e[0m"
+                            sleep 3
+                            show_menu
+                            return
+                        fi
+                        ;;
+                    3)
+                        if [[ -z "$env_hook" ]]; then
+                            echo -e "\e[31mPlease add a URL first (Option 1).\e[0m"
+                        elif [[ "$hook_active" == "0" ]]; then
+                            echo -e "\e[33mWebhook is already turned off and inactive.\e[0m"
+                        else
+                            sed -i '/GLOBAL_WEBHOOK_ACTIVE=/d' "$HOME/.roblox_reconnector.conf" 2>/dev/null
+                            echo "GLOBAL_WEBHOOK_ACTIVE=0" >> "$HOME/.roblox_reconnector.conf"
+                            hook_active="0"
+                            echo -e "\e[31mWebhook is turned off.\e[0m"
+                            sleep 3
+                            show_menu
+                            return
+                        fi
+                        ;;
+                    4)
+                        show_menu
+                        return
+                        ;;
+                    *)
+                        echo -e "\e[31mInvalid option.\e[0m"
+                        ;;
+                esac
+            done
+            ;;
+        8)
+            # 8. Logout Roblox
+            show_header "L O G O U T   R O B L O X"
+            echo -e "\e[33mScanning and logging out all installed Roblox accounts...\e[0m"
+            local raw_pkgs=$(su -c "ls /data/data 2>/dev/null | grep -i 'roblox'" | tr -d '\r')
+            for pkg in $raw_pkgs; do
+                su -c "rm -rf /data/data/$pkg/shared_prefs/* 2>/dev/null"
+                echo -e "  \e[32m$pkg logged out.\e[0m"
+            done
+            sleep 2
+            show_menu
+            ;;
+        9)
+            # 9. Exit Application
+            echo -e "\e[36mExiting. Goodbye!\e[0m"
+            su -c "am force-stop com.termux" 2>/dev/null || kill -9 $PPID || exit 0
+            ;;
+        *)
+            echo -e "\e[31mInvalid option selected.\e[0m"
+            sleep 1
+            show_menu
+            ;;
+    esac
+}
+
+# --- Main Control Flow ---
+
+check_root
+load_hwid
+verify_platoboost_key
+# The Platoboost function might recurse if key is invalid, so once returned we save
+save_hwid
+
+# Loop until a config is loaded
+while [[ -z "$CURRENT_CONFIG" ]]; do
+    show_menu
+done
+
+show_active_monitor
+sleep 2
+
+# Initial launch
+launch_game
+
+# Main Monitoring Loop
+LOOP_COUNTER=0
+while true; do
+    read -t 1 user_input
+    LOOP_COUNTER=$((LOOP_COUNTER + 1))
+    
+    if [[ "${user_input,,}" == "stop" ]]; then
+        echo ""
+        print_msg "\e[1;31mReconnector PAUSED. Roblox auto-reconnect is stopped.\e[0m"
+        IS_PAUSED=1
+        
+        while [[ $IS_PAUSED -eq 1 ]]; do
+            read -p "Type 'Resume' to continue, 'Menu' for main screen, or 'Exit' to quit: " pause_input
+            if [[ "${pause_input,,}" == "resume" ]]; then
+                print_msg "\e[33mResuming REblox...\e[0m"
+                IS_PAUSED=0
+                if is_roblox_running; then
+                    print_msg "\e[36mRoblox is still running. Resuming tracking.\e[0m"
+                else
+                    launch_game
+                fi
+            elif [[ "${pause_input,,}" == "menu" ]]; then
+                print_msg "\e[36mReturning to Main Menu...\e[0m"
+                IS_PAUSED=0
+                IS_RUNNING=0
+                
+                show_menu
+                
+                # Redraw the monitor UI after returning from the menu
+                show_active_monitor
+                sleep 2
+                
+                launch_game
+                break
+            elif [[ "${pause_input,,}" == "exit" ]]; then
+                print_msg "\e[36mExiting REblox.\e[0m"
+                su -c "am force-stop com.termux" 2>/dev/null || kill -9 $PPID || exit 0
+            fi
+        done
+    fi
+
+    if [[ $IS_PAUSED -eq 0 ]]; then
+        # Redraw interval for dynamic stats
+        if [[ $IS_RUNNING -eq 1 ]]; then
+            if (( LOOP_COUNTER % 2 == 0 )); then
+                update_logger
+            fi
+        fi
+        
+        # Every 5 seconds, poll process and root checks (prevents Termux crashing from overload)
+        if (( LOOP_COUNTER % 5 == 0 )); then
+            if is_roblox_running; then
+                if [[ $IS_RUNNING -eq 0 ]]; then
+                    IS_RUNNING=1
+                    START_TIME=$(date +%s)
+                    LAST_LAUNCH_TIME=$(date +%s)
+                    LAST_WEBHOOK_TIME=$(date +%s)
+                    LAST_INTENTIONAL_CRASH=$(date +%s)
+                    print_msg "\e[32mSuccessfully connected to the games.\e[0m"
+                fi
+            else
+                if [[ $IS_RUNNING -eq 1 ]]; then
+                    echo ""
+                    print_msg "\e[31mGame disconnected or closed. Reconnecting...\e[0m"
+                    IS_RUNNING=0
+                    TOTAL_CRASHES=$((TOTAL_CRASHES + 1))
+                fi
+                launch_game
+                continue
+            fi
+            
+            # Continuous webhook firing log check
+            if [[ $IS_RUNNING -eq 1 && -n "$TARGET_WEBHOOK" ]]; then
+                local w_timestamp=$(date +%s)
+                # 600 Seconds = 10 Minutes
+                if [[ $((w_timestamp - LAST_WEBHOOK_TIME)) -ge 600 ]]; then
+                    print_msg "\e[36m[Logger] Taking 10-Minute Snapshot and posting to Discord...\e[0m"
+                    trigger_webhook & # Executed asynchronously so UI doesn't hang
+                    LAST_WEBHOOK_TIME=$w_timestamp
+                fi
+            fi
+            
+            # Intentional Crash Manager Loop 
+            if [[ $IS_RUNNING -eq 1 && $INTENTIONAL_CRASH_TIMER -gt 0 ]]; then
+                local c_timestamp=$(date +%s)
+                # Parse config intentional timer mapping (Timer is in MINUTES, converting to seconds)
+                local required_seconds=$((INTENTIONAL_CRASH_TIMER * 60))
+                
+                if [[ $((c_timestamp - LAST_INTENTIONAL_CRASH)) -ge $required_seconds ]]; then
+                    echo ""
+                    print_msg "\e[35m[System] Intentional Restart Timer Reached ($INTENTIONAL_CRASH_TIMER mins)!\e[0m"
+                    print_msg "\e[33mForce clearing servers cleanly...\e[0m"
+                    
+                    IS_RUNNING=0
+                    launch_game
+                    continue
+                fi
+            fi
+            
+
+            
+            # Continuous background check for Google Sign-in popups
+            if [[ $IS_RUNNING -eq 1 ]]; then
+                if is_google_signin_focused; then
+                    echo ""
+                    print_msg "\e[35m[!] Google window has been detected.\e[0m"
+                    print_msg "\e[33mDismissing Google Sign-In prompt...\e[0m"
+                    su -c "input keyevent 4"
+                    TOTAL_GOOGLE_POPUPS=$((TOTAL_GOOGLE_POPUPS + 1))
+                fi
+            fi
+            
+        fi # End 5-second interval wrapper
+    fi
+done
