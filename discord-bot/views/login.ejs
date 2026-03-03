@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>REblox — Admin Login</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+    <style>
+        *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+        :root {
+            --bg-body: #0f172a;
+            --bg-card: rgba(30, 41, 59, 0.75);
+            --border-color: rgba(255, 255, 255, 0.08);
+            --text-main: #f8fafc;
+            --text-muted: #94a3b8;
+            --primary: #6366f1;
+            --primary-hover: #4f46e5;
+            --success: #10b981;
+            --danger: #ef4444;
+            --github: #24292e;
+            --github-hover: #1a1f24;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: var(--bg-body);
+            color: var(--text-main);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+            overflow: hidden;
+        }
+
+        /* Ambient background glows */
+        .glow-1 {
+            position: fixed;
+            top: -15%;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 900px;
+            height: 600px;
+            background: radial-gradient(ellipse at center, rgba(99, 102, 241, 0.18) 0%, transparent 70%);
+            pointer-events: none;
+            z-index: 0;
+            animation: pulse-glow 6s ease-in-out infinite;
+        }
+
+        .glow-2 {
+            position: fixed;
+            bottom: -20%;
+            right: -10%;
+            width: 600px;
+            height: 600px;
+            background: radial-gradient(circle, rgba(16, 185, 129, 0.07) 0%, transparent 70%);
+            pointer-events: none;
+            z-index: 0;
+        }
+
+        .glow-3 {
+            position: fixed;
+            bottom: -20%;
+            left: -10%;
+            width: 500px;
+            height: 500px;
+            background: radial-gradient(circle, rgba(99, 102, 241, 0.08) 0%, transparent 70%);
+            pointer-events: none;
+            z-index: 0;
+        }
+
+        @keyframes pulse-glow {
+            0%, 100% { opacity: 1; transform: translateX(-50%) scale(1); }
+            50% { opacity: 0.7; transform: translateX(-50%) scale(1.05); }
+        }
+
+        /* Animated grid background */
+        .grid-bg {
+            position: fixed;
+            inset: 0;
+            background-image:
+                linear-gradient(rgba(99, 102, 241, 0.03) 1px, transparent 1px),
+                linear-gradient(90deg, rgba(99, 102, 241, 0.03) 1px, transparent 1px);
+            background-size: 60px 60px;
+            z-index: 0;
+            pointer-events: none;
+        }
+
+        .login-wrapper {
+            position: relative;
+            z-index: 1;
+            width: 100%;
+            max-width: 440px;
+            padding: 1.5rem;
+            animation: fadeSlideUp 0.6s cubic-bezier(0.16, 1, 0.3, 1) forwards;
+        }
+
+        @keyframes fadeSlideUp {
+            from { opacity: 0; transform: translateY(30px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .login-card {
+            background: var(--bg-card);
+            backdrop-filter: blur(20px);
+            -webkit-backdrop-filter: blur(20px);
+            border-radius: 24px;
+            border: 1px solid var(--border-color);
+            padding: 2.75rem 2.5rem;
+            box-shadow:
+                0 25px 50px rgba(0, 0, 0, 0.4),
+                0 0 0 1px rgba(255, 255, 255, 0.04) inset,
+                0 1px 0 rgba(255, 255, 255, 0.08) inset;
+        }
+
+        .logo-area {
+            text-align: center;
+            margin-bottom: 2.5rem;
+        }
+
+        .logo-icon {
+            width: 72px;
+            height: 72px;
+            background: linear-gradient(135deg, #6366f1, #8b5cf6);
+            border-radius: 20px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 0 auto 1.5rem;
+            font-size: 2rem;
+            box-shadow:
+                0 8px 32px rgba(99, 102, 241, 0.4),
+                0 0 0 1px rgba(99, 102, 241, 0.3);
+            animation: float 4s ease-in-out infinite;
+        }
+
+        @keyframes float {
+            0%, 100% { transform: translateY(0px); }
+            50% { transform: translateY(-6px); }
+        }
+
+        .logo-area h1 {
+            font-size: 1.9rem;
+            font-weight: 800;
+            background: linear-gradient(135deg, #ffffff 0%, #94a3b8 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            letter-spacing: -0.03em;
+            margin-bottom: 0.6rem;
+        }
+
+        .logo-area p {
+            color: var(--text-muted);
+            font-size: 0.95rem;
+            line-height: 1.5;
+        }
+
+        .divider {
+            display: flex;
+            align-items: center;
+            gap: 1rem;
+            margin: 2rem 0;
+        }
+
+        .divider::before,
+        .divider::after {
+            content: '';
+            flex: 1;
+            height: 1px;
+            background: var(--border-color);
+        }
+
+        .divider span {
+            color: var(--text-muted);
+            font-size: 0.8rem;
+            font-weight: 500;
+            text-transform: uppercase;
+            letter-spacing: 0.08em;
+            white-space: nowrap;
+        }
+
+        .btn-github {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 0.85rem;
+            width: 100%;
+            padding: 1rem 1.5rem;
+            background: #ffffff;
+            color: #24292e;
+            border: none;
+            border-radius: 12px;
+            font-size: 1rem;
+            font-weight: 600;
+            font-family: 'Inter', sans-serif;
+            cursor: pointer;
+            text-decoration: none;
+            transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+            box-shadow: 0 4px 16px rgba(0, 0, 0, 0.3), 0 1px 0 rgba(255,255,255,0.1) inset;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .btn-github::before {
+            content: '';
+            position: absolute;
+            inset: 0;
+            background: linear-gradient(135deg, rgba(255,255,255,0) 0%, rgba(255,255,255,0.15) 100%);
+            opacity: 0;
+            transition: opacity 0.2s ease;
+        }
+
+        .btn-github:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4), 0 1px 0 rgba(255,255,255,0.1) inset;
+            background: #f0f0f0;
+        }
+
+        .btn-github:hover::before { opacity: 1; }
+
+        .btn-github:active {
+            transform: translateY(1px);
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+        }
+
+        .btn-github svg {
+            flex-shrink: 0;
+        }
+
+        .features-list {
+            margin-top: 2rem;
+            display: flex;
+            flex-direction: column;
+            gap: 0.65rem;
+        }
+
+        .feature-item {
+            display: flex;
+            align-items: center;
+            gap: 0.65rem;
+            color: var(--text-muted);
+            font-size: 0.88rem;
+        }
+
+        .feature-item .check {
+            width: 18px;
+            height: 18px;
+            border-radius: 50%;
+            background: rgba(16, 185, 129, 0.15);
+            border: 1px solid rgba(16, 185, 129, 0.3);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            flex-shrink: 0;
+            font-size: 0.65rem;
+            color: var(--success);
+        }
+
+        .error-banner {
+            background: rgba(239, 68, 68, 0.08);
+            border: 1px solid rgba(239, 68, 68, 0.2);
+            border-radius: 10px;
+            padding: 0.9rem 1.1rem;
+            display: flex;
+            align-items: center;
+            gap: 0.65rem;
+            color: #f87171;
+            font-size: 0.9rem;
+            font-weight: 500;
+            margin-bottom: 1.5rem;
+            animation: shake 0.4s ease;
+        }
+
+        @keyframes shake {
+            0%, 100% { transform: translateX(0); }
+            25% { transform: translateX(-6px); }
+            75% { transform: translateX(6px); }
+        }
+
+        .footer-text {
+            text-align: center;
+            margin-top: 2rem;
+            color: var(--text-muted);
+            font-size: 0.8rem;
+            line-height: 1.6;
+        }
+
+        .footer-text strong {
+            color: var(--text-main);
+        }
+
+        /* Particles */
+        .particles {
+            position: fixed;
+            inset: 0;
+            pointer-events: none;
+            z-index: 0;
+            overflow: hidden;
+        }
+
+        .particle {
+            position: absolute;
+            width: 2px;
+            height: 2px;
+            border-radius: 50%;
+            background: rgba(99, 102, 241, 0.6);
+            animation: float-particle linear infinite;
+        }
+
+        @keyframes float-particle {
+            0% { transform: translateY(100vh) translateX(0); opacity: 0; }
+            10% { opacity: 1; }
+            90% { opacity: 1; }
+            100% { transform: translateY(-10vh) translateX(40px); opacity: 0; }
+        }
+    </style>
+</head>
+<body>
+    <div class="grid-bg"></div>
+    <div class="glow-1"></div>
+    <div class="glow-2"></div>
+    <div class="glow-3"></div>
+
+    <div class="particles" id="particles"></div>
+
+    <div class="login-wrapper">
+        <div class="login-card">
+            <div class="logo-area">
+                <div class="logo-icon">🎮</div>
+                <h1>REblox Admin</h1>
+                <p>Secure access to your Bot & HWID<br>Management Dashboard</p>
+            </div>
+
+            <% if (typeof error !== 'undefined' && error) { %>
+            <div class="error-banner">
+                <span>⚠️</span>
+                <% if (error === 'unauthorized') { %>
+                    Access denied. Your GitHub account is not on the authorized admin list.
+                <% } else { %>
+                    Authentication failed. Please try again.
+                <% } %>
+            </div>
+            <% } %>
+
+            <div class="divider">
+                <span>Sign in to continue</span>
+            </div>
+
+            <a href="/auth/github" class="btn-github" id="github-login-btn">
+                <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor">
+                    <path d="M12 0C5.374 0 0 5.373 0 12c0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23A11.509 11.509 0 0 1 12 5.803c1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576C20.566 21.797 24 17.3 24 12c0-6.627-5.373-12-12-12z"/>
+                </svg>
+                Continue with GitHub
+            </a>
+
+            <div class="features-list">
+                <div class="feature-item">
+                    <span class="check">✓</span>
+                    <span>Manage Discord Bot status & configuration</span>
+                </div>
+                <div class="feature-item">
+                    <span class="check">✓</span>
+                    <span>View & manage HWID sessions and Platoboost keys</span>
+                </div>
+                <div class="feature-item">
+                    <span class="check">✓</span>
+                    <span>Customize Discord embed appearance</span>
+                </div>
+                <div class="feature-item">
+                    <span class="check">✓</span>
+                    <span>Generate admin bypass keys instantly</span>
+                </div>
+            </div>
+
+            <div class="footer-text">
+                Access is restricted to <strong>authorized GitHub accounts</strong> only.
+                <br>Unauthorized access attempts are logged.
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Generate floating particles
+        const container = document.getElementById('particles');
+        for (let i = 0; i < 20; i++) {
+            const p = document.createElement('div');
+            p.className = 'particle';
+            p.style.left = Math.random() * 100 + 'vw';
+            p.style.animationDuration = (8 + Math.random() * 12) + 's';
+            p.style.animationDelay = (Math.random() * 15) + 's';
+            p.style.width = p.style.height = (1 + Math.random() * 3) + 'px';
+            p.style.opacity = (0.2 + Math.random() * 0.6).toString();
+            container.appendChild(p);
+        }
+
+        // Button loading state
+        document.getElementById('github-login-btn').addEventListener('click', function() {
+            this.innerHTML = `
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5">
+                    <path d="M12 2v4M12 18v4M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M2 12h4M18 12h4M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83"/>
+                </svg>
+                Redirecting to GitHub...
+            `;
+            this.style.opacity = '0.8';
+            this.style.pointerEvents = 'none';
+        });
+    </script>
+</body>
+</html>

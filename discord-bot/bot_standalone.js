@@ -3,7 +3,10 @@ const dns = require('dns');
 dns.setDefaultResultOrder('ipv4first'); // Forces Node to use IPv4 - bypasses Render's IPv6 blackhole
 const { Client, GatewayIntentBits, REST, Routes, ActionRowBuilder, ButtonBuilder, ButtonStyle, ModalBuilder, TextInputBuilder, TextInputStyle, EmbedBuilder } = require('discord.js');
 const express = require('express');
-const auth = require('basic-auth');
+const session = require('express-session');
+const SQLiteStore = require('connect-sqlite3')(session);
+const passport = require('passport');
+const GitHubStrategy = require('passport-github2').Strategy;
 const fs = require('fs');
 const path = require('path');
 const sqlite3 = require('sqlite3').verbose();
@@ -26,10 +29,15 @@ db.serialize(() => {
 const TOKEN = process.env.DISCORD_TOKEN || process.env.BOT_TOKEN;
 const CLIENT_ID = process.env.DISCORD_CLIENT_ID || process.env.CLIENT_ID;
 const PLATOBOOST_PROJECT = '21504';
-const ADMIN_USER = process.env.ADMIN_USER || 'admin';
-const ADMIN_PASS = process.env.ADMIN_PASS || 'admin123';
 const PORT = process.env.PORT || 3000;
 const CLIENT_SECRET = process.env.CLIENT_SECRET || 'RECONNECTOR_V1_SECRET_998877';
+
+// --- GitHub OAuth Config ---
+const GITHUB_CLIENT_ID = process.env.GITHUB_CLIENT_ID;
+const GITHUB_CLIENT_SECRET = process.env.GITHUB_CLIENT_SECRET;
+const SESSION_SECRET = process.env.SESSION_SECRET || 'reblox-fallback-session-secret-change-me';
+const CALLBACK_URL = process.env.CALLBACK_URL || 'http://localhost:3000/auth/github/callback';
+const ALLOWED_GITHUB_USERS = (process.env.ALLOWED_GITHUB_USERS || 'RiTiKM416').split(',').map(u => u.trim().toLowerCase());
 
 // --- State Database (Persistent) ---
 const statsPath = path.join(__dirname, 'stats.json');
@@ -86,16 +94,63 @@ const app = express();
 app.set('view engine', 'ejs');
 app.use(express.static('public'));
 
-// Basic Auth Middleware
-const authMiddleware = (req, res, next) => {
-    // Skip auth for the backup webhook
-    if (req.path === '/api/backup/update') return next();
+// --- Session & Passport Setup ---
+app.use(session({
+    store: new SQLiteStore({ db: 'auth_sessions.db', dir: __dirname }),
+    secret: SESSION_SECRET,
+    resave: false,
+    saveUninitialized: false,
+    cookie: { maxAge: 7 * 24 * 60 * 60 * 1000, httpOnly: true, sameSite: 'lax' }
+}));
 
-    const user = auth(req);
-    if (!user || user.name !== ADMIN_USER || user.pass !== ADMIN_PASS) {
-        res.set('WWW-Authenticate', 'Basic realm="Reconnector Admin"');
-        return res.status(401).send('Authentication required.');
+passport.use(new GitHubStrategy({
+    clientID: GITHUB_CLIENT_ID,
+    clientSecret: GITHUB_CLIENT_SECRET,
+    callbackURL: CALLBACK_URL
+}, (accessToken, refreshToken, profile, done) => {
+    if (ALLOWED_GITHUB_USERS.includes(profile.username.toLowerCase())) {
+        return done(null, { id: profile.id, username: profile.username, displayName: profile.displayName, avatar: profile.photos?.[0]?.value || null });
     }
+    console.warn(`[Auth] Blocked unauthorized GitHub user: ${profile.username}`);
+    return done(null, false);
+}));
+
+passport.serializeUser((user, done) => done(null, user));
+passport.deserializeUser((obj, done) => done(null, obj));
+
+app.use(passport.initialize());
+app.use(passport.session());
+
+// --- GitHub OAuth Routes (must be before authMiddleware) ---
+app.get('/login', (req, res) => {
+    if (req.isAuthenticated()) return res.redirect('/');
+    res.render('login', { error: req.query.error || null });
+});
+
+app.get('/auth/github',
+    passport.authenticate('github', { scope: ['read:user'] })
+);
+
+app.get('/auth/github/callback',
+    passport.authenticate('github', { failureRedirect: '/login?error=unauthorized' }),
+    (req, res) => {
+        console.log(`[Auth] GitHub login successful: ${req.user.username}`);
+        res.redirect('/');
+    }
+);
+
+app.get('/logout', (req, res) => {
+    req.logout(() => {
+        req.session.destroy();
+        res.redirect('/login');
+    });
+});
+
+// --- Auth Guard Middleware ---
+const authMiddleware = (req, res, next) => {
+    // Public endpoints that bypass auth
+    if (req.path === '/api/backup/update') return next();
+    if (!req.isAuthenticated()) return res.redirect('/login');
     next();
 };
 
@@ -126,7 +181,8 @@ app.get('/', (req, res) => {
             userTag: client.isReady() ? client.user.tag : 'Offline',
             embedConfig: embedConfig,
             backupKeys: backupKeys,
-            alert: req.query.alert ? JSON.parse(decodeURIComponent(req.query.alert)) : null
+            alert: req.query.alert ? JSON.parse(decodeURIComponent(req.query.alert)) : null,
+            githubUser: req.user || null
         });
     });
 });
