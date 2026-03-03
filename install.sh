@@ -139,7 +139,6 @@ echo "Checking and installing essential Termux packages (tsu, procps, etc.)..."
 echo "This might take a moment on the first run..."
 pkg update -y
 pkg install -y tsu procps coreutils ncurses-utils python
-pip install psutil
 echo "Essential packages successfully verified/installed."
 echo ""
 

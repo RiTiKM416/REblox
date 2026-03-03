@@ -351,8 +351,8 @@ update_logger() {
 is_roblox_running() {
     # Check if ANY of the target packages are running using the advanced two-layer Python monitor
     for pkg in "${TARGET_PACKAGES[@]}"; do
-        # Call the Python script
-        local result=$(su -c "python $HOME/.termux_reconnector/advanced_monitor.py $pkg" 2>/dev/null)
+        # Call the Python script using absolute Termux path because `su` environment lacks it
+        local result=$(su -c "/data/data/com.termux/files/usr/bin/python $HOME/.termux_reconnector/advanced_monitor.py $pkg" 2>/dev/null)
         
         if echo "$result" | grep -q "STATUS:RUNNING"; then
             return 0 # True, at least one is running properly
