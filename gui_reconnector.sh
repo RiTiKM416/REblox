@@ -94,111 +94,9 @@ check_root() {
 verify_platoboost_key() {
     show_header "L I C E N S E   A U T H E N T I C A T I O N"
     
-    local needs_new_key=0
-
-    if [[ -n "$PLATOBOOST_KEY" ]]; then
-        if [[ "$KEY_EXPIRATION" == "LIFETIME" ]]; then
-            echo -e "\e[32m[+] Cached Lifetime Admin Key found.\e[0m"
-        elif [[ -n "$KEY_EXPIRATION" ]]; then
-            local current_time=$(date +%s)
-            local remaining=$((KEY_EXPIRATION - current_time))
-            
-            if [[ $remaining -le 0 ]]; then
-                echo -e "\e[31m[-] Saved key has expired (00h 00m remaining).\e[0m"
-                needs_new_key=1
-                PLATOBOOST_KEY=""
-            else
-                local rem_d=$((remaining / 86400))
-                local rem_h=$(((remaining % 86400) / 3600))
-                local rem_m=$(((remaining % 3600) / 60))
-                
-                if [[ $rem_d -gt 0 ]]; then
-                    printf "\e[32m[+] Cached Premium Key found! Time remaining: \e[1;33m%02dd %02dh %02dm\e[0m\n" $rem_d $rem_h $rem_m
-                else
-                    printf "\e[32m[+] Cached Daily Key found! Time remaining: \e[1;33m%02dh %02dm\e[0m\n" $rem_h $rem_m
-                fi
-            fi
-        else
-            needs_new_key=1
-        fi
-    else
-        needs_new_key=1
-    fi
-
-    if [[ $needs_new_key -eq 1 ]]; then
-        echo -e "\e[31mNo valid authentication key found.\e[0m"
-        echo -e "\e[33mGet your daily key on our Discord: \e[1;32m$DISCORD_LINK\e[0m"
-        echo -e "\e[36m( Go to the \e[33m#get-key\e[36m channel and get a Valid Access key. )\e[0m"
-        echo ""
-        read -p "Enter your Access Key : " PLATOBOOST_KEY
-    fi
-    
-    show_progress "Authenticating Device HWID..."
-    
-    # Check for direct Instant Admin Key bypass
-    if [[ "$PLATOBOOST_KEY" == ADMIN_GEN_* ]]; then
-        echo -e "\e[32mInstant Admin Key Provider recognized! Bypassing link generation...\e[0m"
-        RESPONSE="true"
-    else
-        # Platorelay V3 Verification Endpoint - Hidden HWID bind
-        RESPONSE=$(curl -s "https://api.platoboost.net/public/whitelist/$PROJECT_ID?identifier=$DEVICE_ID&key=$PLATOBOOST_KEY")
-    fi
-    
-    if echo "$RESPONSE" | grep -qi "true"; then
-        echo -e "\e[32mKey is valid and attached specifically to your Device! Proceeding...\e[0m"
-        
-        # Determine and set Expiration if it is a new valid key that doesn't have an expiration yet
-        if [[ "$PLATOBOOST_KEY" == ADMIN_GEN_* ]]; then
-            KEY_EXPIRATION="LIFETIME"
-        elif [[ "$PLATOBOOST_KEY" == PREMIUM_KEY_* && -z "$KEY_EXPIRATION" ]]; then
-            # 30 Days (2,592,000 Seconds)
-            KEY_EXPIRATION=$(( $(date +%s) + 2592000 ))
-        elif [[ -z "$KEY_EXPIRATION" || $needs_new_key -eq 1 ]]; then
-            # 24 Hours (86,400 Seconds)
-            KEY_EXPIRATION=$(( $(date +%s) + 86400 ))
-        fi
-        
-        save_hwid
-        
-        # Backup Updater Sync (Discord Native Webhook)
-        if [[ -n "$WEBHOOK_URL" ]]; then
-            local json_payload=$(cat <<EOF
-{
-  "embeds": [
-    {
-      "title": "✅ Termux Client Authenticated",
-      "color": 3066993,
-      "fields": [
-        { "name": "💻 Device ID", "value": "\`$DEVICE_ID\`", "inline": true },
-        { "name": "🔑 Key Used", "value": "\`$PLATOBOOST_KEY\`", "inline": true },
-        { "name": "👤 Discord ID", "value": "\`${DISCORD_ID:-Unknown}\`", "inline": true }
-      ],
-      "footer": { "text": "REblox Security Logs" }
-    }
-  ]
-}
-EOF
-)
-            curl -s "$WEBHOOK_URL" -X POST -H "Content-Type: application/json" -d "$json_payload" > /dev/null &
-        fi
-        
-        # If CURRENT_CONFIG is already populated, resave it. Otherwise, it will save when they reach the menu.
-        if [[ -n "$CURRENT_CONFIG" ]]; then save_config; fi
-        sleep 1
-    else
-        # HWID Binding Error messaging
-        if echo "$RESPONSE" | grep -qi "hwid\|device\|already in use"; then
-             echo -e "\e[31mThis key is already used on another device.\e[0m"
-             echo -e "\e[33mReset the HWID of this key on our discord using the 'Reset Key' button in the #get-key section.\e[0m\n"
-        else
-             echo -e "\e[31mInvalid or expired key.\e[0m"
-             echo -e "\e[33mGenerate a new key here: \e[1;32m$DISCORD_LINK\e[0m\n"
-        fi
-        
-        KEY_EXPIRATION=""
-        read -p "Enter your new Access Key : " PLATOBOOST_KEY
-        verify_platoboost_key # Recurse until valid
-    fi
+    echo -e "\e[32m[+] Private Premium build. Key verification bypassed.\e[0m"
+    KEY_EXPIRATION="LIFETIME"
+    save_hwid
 }
 
 print_msg() {
@@ -349,18 +247,12 @@ update_logger() {
 }
 
 is_roblox_running() {
-    # Check if ANY of the target packages are running using the advanced two-layer Python monitor
+    # Check if ANY of the target packages are running
     for pkg in "${TARGET_PACKAGES[@]}"; do
-        # Call the Python script using absolute Termux path because `su` environment lacks it
-        local result=$(su -c "/data/data/com.termux/files/usr/bin/python $HOME/.termux_reconnector/advanced_monitor.py $pkg" 2>/dev/null)
+        local pid=$(su -c "pidof $pkg" 2>/dev/null)
         
-        if echo "$result" | grep -q "STATUS:RUNNING"; then
-            return 0 # True, at least one is running properly
-        elif echo "$result" | grep -q "STATUS:CRASHED"; then
-            print_msg "\e[31m[!] Advanced Monitor: Roblox crashed state detected.\e[0m"
-            # It's technically "running" in process list but in a crashed state, we return 1 (Not properly running)
-            # so the script handles it as a drop and forces a restart.
-            return 1 
+        if [[ -n "$pid" ]]; then
+            return 0 # True, at least one is running
         fi
     done
     return 1 # False, none are running
@@ -1093,9 +985,7 @@ show_menu() {
 
 check_root
 
-# Ensure the advanced monitor script is in the right place
 mkdir -p "$HOME/.termux_reconnector"
-cp "$(dirname "$0")/advanced_monitor.py" "$HOME/.termux_reconnector/advanced_monitor.py"
 
 load_hwid
 verify_platoboost_key

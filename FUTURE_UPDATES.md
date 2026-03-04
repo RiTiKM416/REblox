@@ -25,3 +25,7 @@ If a user is running multiple instances of Roblox (`com.roblox.client1`, `client
 ## 6. Battery Level Failsafes
 For farmers running this on real phones instead of emulators.
 * **Feature:** Monitor the battery level using `dumpsys battery`. If the battery drops below 15% and the phone isn't charging, the script smartly pauses Roblox to save power, explicitly sending a Discord webhook: *"WARNING: Device is dying, paused REblox."*
+
+## 7. Advanced Crash Detection System
+The previous crash detection system was removed to simplify the release. It used `dumpsys` and window focus checks to see if Roblox was in a "Not Responding" or "Crashed" state, rather than just checking `pidof`.
+* **Feature:** Re-introduce a lightweight, robust crash detection layer to accurately identify App Not Responding (ANR) and Crash Dialogs so the reconnector can restart the app even if the process technically still exists in memory.
